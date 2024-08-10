@@ -4,6 +4,7 @@ import base64
 import requests
 import binascii
 import os
+from bs4 import BeautifulSoup
 
 # Define a fixed timeout for HTTP requests
 TIMEOUT = 20  # seconds
@@ -98,7 +99,7 @@ def get_v2ray_links(url):
         print(f"Failed to fetch URL (Status Code: {response.status_code})")
         return None
 
-        
+
 # Main function to process links and write output files
 def main():
     output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
