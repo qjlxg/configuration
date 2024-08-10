@@ -1366,6 +1366,23 @@
         "ps": "\ud83d\udc95 @v2ray_configs_pool \ud83d\udc95"
     },
     {
+        "add": "172.67.161.77",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "linde06.indiavideo.sbs",
+        "id": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
+        "net": "ws",
+        "path": "/linkws",
+        "port": "443",
+        "scy": "auto",
+        "sni": "linde06.indiavideo.sbs",
+        "tls": "tls",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc95 @v2ray_configs_pool \ud83d\udc95"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 _US_\u7f8e\u56fd",
         "add": "104.19.38.62",
