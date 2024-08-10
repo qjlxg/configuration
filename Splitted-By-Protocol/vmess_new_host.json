@@ -322,38 +322,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\u672a\u77e561 1.0MB/s",
-        "add": "185.146.173.92",
-        "port": "80",
-        "id": "8639e52b-a0ce-5d68-b465-b594881feb78",
-        "aid": "0",
-        "scy": "none",
-        "net": "ws",
-        "type": "",
-        "host": "91.241.94.160",
-        "path": "/vmess",
-        "tls": "",
-        "sni": "",
-        "test_name": "61"
-    },
-    {
-        "v": "2",
-        "ps": "\u672a\u77e5130",
-        "add": "irtr1.ngiftcard.com",
-        "port": "80",
-        "id": "7c7af2de-bb97-429f-ac3c-8ef849717491",
-        "aid": "0",
-        "scy": "chacha20-poly1305",
-        "net": "ws",
-        "type": "",
-        "host": "91.241.94.160",
-        "path": "/34L4qODA1XwJYopk6e398A",
-        "tls": "",
-        "sni": "",
-        "test_name": "130"
-    },
-    {
         "add": "104.21.51.208",
         "aid": "0",
         "alpn": "",
