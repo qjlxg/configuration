@@ -678,7 +678,10 @@
         "tls": "tls",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2ray1_ng | 2"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2ray1_ng | 4"
+    },
+    {
+        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @DailyV2RY | 306"
     },
     {
         "add": "104.21.51.208",
@@ -695,7 +698,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 315"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 325"
     },
     {
         "add": "185.146.173.92",
@@ -876,7 +879,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 6"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 7"
     },
     {
         "add": "172.67.171.48",
@@ -893,7 +896,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 7"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 8"
     },
     {
         "add": "cfcdn2.sanfencdn9.com",
@@ -910,7 +913,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @FreakConfig | 9"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @FreakConfig | 10"
     },
     {
         "v": "2",
@@ -5220,23 +5223,6 @@
         "sni": "ip006.freegradely.xyz"
     },
     {
-        "add": "104.21.51.208",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "deefull.tradex2080.com",
-        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
-        "net": "ws",
-        "path": "/0fpZFB6IbpNptGAxAtI0QM",
-        "port": "80",
-        "ps": "\ud83c\udd94dailyv2ry \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 3ms",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "172.67.183.220",
         "aid": "0",
         "alpn": "",
@@ -5263,7 +5249,7 @@
         "net": "ws",
         "path": "/linkws/afrhms16v.bestxray.buzz",
         "port": "443",
-        "ps": "\ud83c\udd94freakconfig \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "ps": "\ud83c\udd94freakconfig \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "scy": "auto",
         "sni": "nezuko.raidenshogun.cloudns.org",
         "tls": "tls",
@@ -5297,7 +5283,7 @@
         "net": "ws",
         "path": "/vmess",
         "port": "80",
-        "ps": "\ud83c\udd94freakconfig \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "ps": "\ud83c\udd94freakconfig \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "scy": "none",
         "sni": "",
         "tls": "",
@@ -5314,7 +5300,7 @@
         "net": "ws",
         "path": "/linkws",
         "port": "443",
-        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd12 VM-WS-TLS \ud83c\udda5\ud83c\udda5  293ms",
+        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd12 VM-WS-TLS \ud83c\udda5\ud83c\udda5  11ms",
         "scy": "auto",
         "sni": "adenc36v.xtooltech.cfd",
         "tls": "tls",
@@ -5331,7 +5317,7 @@
         "net": "ws",
         "path": "/linkvws",
         "port": "443",
-        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 4ms",
+        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "scy": "auto",
         "sni": "sareikela.com",
         "tls": "tls",
@@ -5365,7 +5351,7 @@
         "net": "tcp",
         "path": "",
         "port": "6000",
-        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-TCP-N/A \ud83c\uddee\ud83c\uddf7 IR 293ms",
+        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-TCP-N/A \ud83c\uddee\ud83c\uddf7 IR 347ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -5382,7 +5368,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -5399,7 +5385,7 @@
         "net": "ws",
         "path": "/",
         "port": "2082",
-        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-WS-N/A \ud83c\udda5\ud83c\udda5  42ms",
+        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-WS-N/A \ud83c\udda5\ud83c\udda5  8ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -5416,7 +5402,7 @@
         "net": "ws",
         "path": "/linkws",
         "port": "443",
-        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd12 VM-WS-TLS \ud83c\uddf8\ud83c\uddea SE 3ms",
+        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd12 VM-WS-TLS \ud83c\uddf8\ud83c\uddea SE 2ms",
         "scy": "auto",
         "sni": "obdii.cfd",
         "tls": "tls",
@@ -5433,7 +5419,7 @@
         "net": "tcp",
         "path": "",
         "port": "22324",
-        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-TCP-N/A \ud83c\udde8\ud83c\udde6 CA 13ms",
+        "ps": "\ud83c\udd94oneclickvpnkeys \ud83d\udd13 VM-TCP-N/A \ud83c\udde8\ud83c\udde6 CA 62ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -5450,28 +5436,11 @@
         "net": "tcp",
         "path": "",
         "port": "6000",
-        "ps": "\ud83c\udd94prrofile_purple \ud83d\udd13 VM-TCP-N/A \ud83c\uddee\ud83c\uddf7 IR 359ms",
+        "ps": "\ud83c\udd94prrofile_purple \ud83d\udd13 VM-TCP-N/A \ud83c\uddee\ud83c\uddf7 IR 373ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
         "type": "none",
-        "v": "2"
-    },
-    {
-        "add": "104.21.94.64",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "linja05.hwcar.sbs",
-        "id": "39cec18f-a439-427c-9a4e-aeb6fcdf6f53",
-        "net": "ws",
-        "path": "/linkws",
-        "port": "443",
-        "ps": "\ud83c\udd94v2ray1_ng \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 2ms",
-        "scy": "auto",
-        "sni": "linja05.hwcar.sbs",
-        "tls": "tls",
-        "type": "",
         "v": "2"
     },
     {
@@ -5484,7 +5453,7 @@
         "net": "tcp",
         "path": "",
         "port": "22324",
-        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd13 VM-TCP-N/A \ud83c\udde8\ud83c\udde6 CA 13ms",
+        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd13 VM-TCP-N/A \ud83c\udde8\ud83c\udde6 CA 62ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -5501,7 +5470,7 @@
         "net": "ws",
         "path": "/linkvws",
         "port": "443",
-        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "scy": "auto",
         "sni": "sareikela.com",
         "tls": "tls",
@@ -5535,7 +5504,7 @@
         "net": "ws",
         "path": "/",
         "port": "2052",
-        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd13 VM-WS-N/A \ud83c\udda5\ud83c\udda5  33ms",
+        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd13 VM-WS-N/A \ud83c\udda5\ud83c\udda5  9ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -5552,7 +5521,7 @@
         "net": "ws",
         "path": "/linkws",
         "port": "443",
-        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "ps": "\ud83c\udd94vmessprotocol \ud83d\udd12 VM-WS-TLS \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "scy": "auto",
         "sni": "jahfkjha.cfd",
         "tls": "tls",
