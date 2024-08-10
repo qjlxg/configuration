@@ -3,29 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:805#💕 @v2ray_configs_pool 💕
-vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
-vless://c2e97327-46dd-482d-839b-816a7f34877f@104.16.21.20:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
-vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:806#💕 @v2ray_configs_pool 💕
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.152.112:5498#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ@pl1.ssproxy.xyz:8388#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#💕 @v2ray_configs_pool 💕
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#💕 @v2ray_configs_pool 💕
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ@95.164.35.90:8388#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:805#💕 @v2ray_configs_pool 💕
-vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
-vless://c2e97327-46dd-482d-839b-816a7f34877f@104.16.21.20:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
-vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:806#💕 @v2ray_configs_pool 💕
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.152.112:5498#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ@pl1.ssproxy.xyz:8388#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#💕 @v2ray_configs_pool 💕
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#💕 @v2ray_configs_pool 💕
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#💕 @v2ray_configs_pool 💕
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.111.114.133:8888#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.111.114.133:8091#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:800#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:807#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.111.114.133:9101#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@45.89.52.66:9031#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:808#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.111.114.133:8888#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.111.114.133:8091#💕 @v2ray_configs_pool 💕
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:800#💕 @v2ray_configs_pool 💕
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#💕 @v2ray_configs_pool 💕
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
