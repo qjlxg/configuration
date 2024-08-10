@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://Telegram-ipV2Ray-xaq@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#%40nofiltering2
 vless://00114363-e4b7-4dab-a9bf-956ccadf84f7@zula.ir:8080?type=ws&amp;path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&amp;host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&amp;security=none#t.me%2FV2rayFa-150gb
 vless://b927294d-b137-45ff-ac76-86d774a15c0a@159.223.172.97:443?type=tcp&amp;security=reality&amp;pbk=ypqMZeJHgAmookEe0qEObGo4kiEcTIu3nyV6AFfGDRU&amp;fp=chrome&amp;sni=zula.ir&amp;sid=f394b7d3&amp;spx=/&amp;flow=xtls-rprx-vision#telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.187:443?security=tls&amp;sni=zdyi.kpcloud.eu.org&amp;type=ws&amp;path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
@@ -603,3 +602,4 @@ trojan://telegram-id-privatevpns@51.44.54.92:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-privatevpns@3.10.236.55:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S118)
 trojan://5f27eb67-a1ea-43a3-9a33-8d85d61b9574@104.208.111.108:443?security=tls&amp;sni=hknode02.oportal.cc&amp;type=tcp&amp;headerType=none#%E5%85%B3%E6%B3%A8%E9%A2%91%E9%81%93https%3A%2F%2Ft.me%2Fmftizi
 trojan://NUeBvQHox0BmnHpu@gnmktnwq58.xyz:443?security=tls&amp;sni=gnmktnwq58.xyz&amp;type=tcp&amp;headerType=none#%E5%85%8D%E8%B4%B9%E6%A2%AF%E5%AD%90https%3A%2F%2Ft.me%2Fmftizi
+trojan://telegram-id-directvpn@18.222.94.131:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
