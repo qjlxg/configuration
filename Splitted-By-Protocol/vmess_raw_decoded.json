@@ -681,21 +681,21 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2ray1_ng | 1"
     },
     {
-        "add": "172.66.213.38",
+        "add": "104.21.51.208",
         "aid": "0",
         "alpn": "",
         "fp": "",
-        "host": "nl88.tradex2080.com",
-        "id": "f533e37c-9da5-4955-a218-a7886e5719b6",
+        "host": "deefull.tradex2080.com",
+        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
         "net": "ws",
-        "path": "/NkXnI0l6LGkotMyATWmx5f6MblN",
+        "path": "/0fpZFB6IbpNptGAxAtI0QM",
         "port": "80",
         "scy": "chacha20-poly1305",
         "sni": "",
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 332"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 315"
     },
     {
         "add": "185.146.173.92",
@@ -4499,20 +4499,6 @@
         "tls": "",
         "sni": "",
         "test_name": "130"
-    },
-    {
-        "v": "2",
-        "ps": "0|-https://t.me/MrXbin-13",
-        "add": "86.107.50.3",
-        "port": 80,
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "6a99725d-2af8-d27c-cef5-302fbbe54c07",
-        "host": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-        "path": "/IVApi/NL/7"
     },
     {
         "v": "2",
