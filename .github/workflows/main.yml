@@ -57,6 +57,6 @@ jobs:
         author_email: "actions@github.com"
         message: "Updated 4 minutes Ago ⚡️"
         add: "."
-        push: "https://github.com/barry-far/V2ray-Configs.git"
+        push: "https://github.com/TalesOrigin/configuration.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
