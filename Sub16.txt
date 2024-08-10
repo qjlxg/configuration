@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://auto@162.159.138.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A591
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ejA4Q1NHalpIWlp5bllqc1k1aDRu@212.113.106.76:61992#%E6%9C%AA%E7%9F%A592
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#%E6%9C%AA%E7%9F%A593
+trojan://r5DlwSKtJU@152.42.237.5:45021?security=tls&type=tcp&sni=m.zoom.us#%E6%9C%AA%E7%9F%A594
+trojan://CMLiu@45.143.234.181:56650?type=ws&sni=aliorg.filegear-sg.me&path=/?ed=2048&host=aliorg.filegear-sg.me#%E6%9C%AA%E7%9F%A595
 trojan://7cdd9182-ea93-33f6-a037-5ca09aedf66e@gy.58n.net:20295?sni=z295.hongkongnode.top#%E6%9C%AA%E7%9F%A596
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#%E6%9C%AA%E7%9F%A597%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.10:4444#US37%201.7MB%2Fs
@@ -598,8 +603,3 @@ vless://769c1301-9a0c-5564-a018-0559e6eef91b@190.93.247.119:80?path=/vless&secur
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#🚩CF | 🔴 | vless | @FreakConfig | 4
 vmess://eyJhZGQiOiIxMDQuMTYuNjcuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRpbGwtYnVzaC1kMjU1LmxveWFib2sxMjUud29ya2Vycy5kZXYiLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enpcL2xpbmt3cyIsInBvcnQiOiIyMDgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWE5Q0YgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBGcmVha0NvbmZpZyB8IDYifQ==
 vmess://eyJhZGQiOiIxNzIuNjcuMTcxLjQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJObDIudm1lc3Muc2l0ZS4iLCJpZCI6IjhmOTEwNmQ5LTFkNzItNTc1Ny1iYzkyLTZlODMyOTMzYzgxMCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEZyZWFrQ29uZmlnIHwgNyJ9
-vless://2bce897a-07a8-42b7-9d5f-540dfb350386@speedtest.net:443?path=/rezakiri&security=tls&encryption=none&host=basei.snapp.ir.sososlodigolas.com&fp=chrome&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @FreakConfig | 8
-vmess://eyJhZGQiOiJjZmNkbjIuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpwYWZ6eWhmc2czLnlvZm5oa2ZjLnh5eiIsImlkIjoiODIzYjRhNDUtODcyOC00MjViLWFiYjQtMmQ5ZWEzMGZkNjFlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92aWRlb1wvdTRlQ1pUeFciLCJwb3J0IjoiMjA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARnJlYWtDb25maWcgfCA5In0=
-vless://bcd8dfbf-9d4a-4034-8485-4092a3306d4f@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 0
-vless://b8a5af61-fce5-4d32-8727-8bf28e4fd017@sport.k6n.ir:443?path=/JoinChanel-@proxyforopeta-telegram:@proxyforopeta-telegram-proxyforopeta-joinchanel@proxyforopeta.@proxyforopeta.join-@proxyforopeta/?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=exo.ir&fp=firefox&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @flyv2ray | 3
-vless://70118225-e1a9-4b64-b67b-e263c51d202c@www.parspack.com:8880?path=/?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=httpupgrade#🇺🇸US | 🔴 | vless | @flyv2ray | 8
