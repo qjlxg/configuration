@@ -511,6 +511,125 @@
         "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 18"
     },
     {
+        "add": "142.0.134.243",
+        "aid": "64",
+        "alpn": "",
+        "fp": "",
+        "host": "",
+        "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
+        "net": "tcp",
+        "path": "",
+        "port": "45017",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 0"
+    },
+    {
+        "add": "104.17.148.22",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "us-ccs.yuji2022.eu.org",
+        "id": "4b5e4565-322f-4223-a891-78a84f189726",
+        "net": "ws",
+        "path": "/XSjeg73o6ZdsheahCb5JG",
+        "port": "8880",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 1"
+    },
+    {
+        "add": "142.0.134.241",
+        "aid": "64",
+        "alpn": "",
+        "fp": "",
+        "host": "",
+        "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
+        "net": "tcp",
+        "path": "",
+        "port": "45017",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 2"
+    },
+    {
+        "add": "172.67.171.48",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "Nl2.vmess.site.",
+        "id": "8f9106d9-1d72-5757-bc92-6e832933c810",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 3"
+    },
+    {
+        "add": "198.2.234.99",
+        "aid": "64",
+        "alpn": "",
+        "fp": "",
+        "host": "",
+        "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
+        "net": "tcp",
+        "path": "",
+        "port": "39771",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 4"
+    },
+    {
+        "add": "198.2.234.98",
+        "aid": "64",
+        "alpn": "",
+        "fp": "",
+        "host": "",
+        "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
+        "net": "tcp",
+        "path": "",
+        "port": "39771",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 5"
+    },
+    {
+        "add": "142.0.134.242",
+        "aid": "64",
+        "alpn": "",
+        "fp": "",
+        "host": "",
+        "id": "418048af-a293-4b99-9b0c-98ca3580dd24",
+        "net": "tcp",
+        "path": "",
+        "port": "45017",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 6"
+    },
+    {
         "add": "172.67.183.220",
         "aid": "0",
         "alpn": "",
@@ -525,7 +644,7 @@
         "tls": "tls",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 0"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 7"
     },
     {
         "add": "172.67.138.140",
@@ -542,7 +661,7 @@
         "tls": "tls",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 1"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 8"
     },
     {
         "add": "104.16.61.8",
@@ -559,7 +678,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 2"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 9"
     },
     {
         "add": "104.21.9.236",
@@ -576,7 +695,7 @@
         "tls": "tls",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 3"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 10"
     },
     {
         "add": "172.67.146.10",
@@ -593,7 +712,7 @@
         "tls": "tls",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 4"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 11"
     },
     {
         "add": "23.162.200.182",
@@ -610,7 +729,7 @@
         "tls": "",
         "type": "none",
         "v": "2",
-        "ps": "\ud83c\udde8\ud83c\udde6CA | \ud83d\udfe2 | vmess | @ShadowProxy66 | 5"
+        "ps": "\ud83c\udde8\ud83c\udde6CA | \ud83d\udfe2 | vmess | @ShadowProxy66 | 12"
     },
     {
         "add": "107.189.31.139",
@@ -627,7 +746,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83c\uddf1\ud83c\uddfaLU | \ud83d\udfe2 | vmess | @ShadowProxy66 | 6"
+        "ps": "\ud83c\uddf1\ud83c\uddfaLU | \ud83d\udfe2 | vmess | @ShadowProxy66 | 13"
     },
     {
         "add": "188.114.97.210",
@@ -644,7 +763,7 @@
         "tls": "tls",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 7"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 14"
     },
     {
         "add": "23.154.136.47",
@@ -661,7 +780,7 @@
         "tls": "",
         "type": "none",
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 8"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 15"
     },
     {
         "add": "104.21.94.64",
