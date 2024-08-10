@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#US30%201.8MB%2Fs
+trojan://telegram-id-directvpn@13.50.73.220:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A581
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.187:2087?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A582
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#US31%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.162.216.117:443#%E6%9C%AA%E7%9F%A583
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjUW8zSUw1VkM0MjRsMlpydlRaclZS@163.172.171.137:443#%E6%9C%AA%E7%9F%A584
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.134.94.175:8119#US32%201.9MB%2Fs
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@36.231.109.74:725?security=tls&type=tcp&sni=tw2.233235.xyz#TW
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2MxNTg5Yi0zZTA1LTRiYmQtYWVlYy0xNmZlMWYwZjVkYTU=@213.130.141.113:39418#HK7
+trojan://ce433528-39fa-4711-bc0d-25a5b1579574@in-03.licom.ml:40001?sni=in-03.licom.ml#%E6%9C%AA%E7%9F%A585
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A586
+trojan://d74bfcb4-a21e-4475-b83d-7bc413f456dd@20.163.211.117:443?#US33
+trojan://telegram-id-directvpn@54.73.3.235:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A587
+trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&sni=egajz.phooeyunfold.com#%E6%9C%AA%E7%9F%A588%202.7MB%2Fs
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&type=ws&sni=bangladeshipatri.com&path=6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A589
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.19:8090#US34%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#%E6%9C%AA%E7%9F%A590%206.8MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.19:8888#US35%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#US36%201.9MB%2Fs
 trojan://auto@162.159.138.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A591
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ejA4Q1NHalpIWlp5bllqc1k1aDRu@212.113.106.76:61992#%E6%9C%AA%E7%9F%A592
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#%E6%9C%AA%E7%9F%A593
@@ -583,23 +603,3 @@ vless://eefcf749-fcfc-4321-b974-2828d4acb15c@142.132.183.55:2096?type=tcp&encryp
 vless://12959e76-3f23-40a3-b94b-848b64c6a234@178.62.76.106:20248?type=grpc&encryption=none&serviceName=@proxyforopeta&sni=www.google.com&fp=firefox&security=reality&pbk=2Lxke5-99aKfEtI4_UiNhAB0CJYs4CA_8r-376g2ZWQ&sid=0b03c417#🇬🇧GB | 🔴 | vless | @Capital_NET | 32
 vless://bdd00939-26be-4c99-9f4f-2a94df83a9c6@dlf.ornam.tech:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&alpn=http/1.1&fp=chrome&security=reality&pbk=hNVOQ6YXqVOT71Fe-dptYmqMBDHsGE_LYu6mipfgExU&sid=cb69dab2#❔XX | 🔴 | vless | @Capital_NET | 33
 vless://551cec03-459b-44c4-b2f1-e2b00d64c7a0@138.68.137.73:17293?type=grpc&encryption=none&serviceName=telegram:@proxyforopeta&sni=discord.com&fp=firefox&security=reality&pbk=Vh49zRfE7BzeIquhoEOC6RdvTPz5IkmE1J2imSSZoHg&sid=5d694d7d#🇬🇧GB | 🔴 | vless | @Capital_NET | 34
-vless://5fea461d-9dd5-4c30-9dfa-63b966b6d411@128.140.49.29:443?type=tcp&encryption=none&sni=cdnjs.com&fp=firefox&security=reality&pbk=ssfcbUE7g67nECKXytt9CbDMZzu-X9ECtfgkIqIsWhk&sid=7a8275aa7bd14661#🇩🇪DE | 🔴 | vless | @Capital_NET | 35
-vless://c0a5453e-fcb3-47bb-a00f-ebd3e1d08f80@104.248.33.161:2566?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sovrn.com&fp=chrome&security=reality&pbk=4FrUU-xUEW07hK15lua0w7WML-czQ-N-xBLVM3Du8BU&sid=c5dce9b439679390#🇩🇪DE | 🔴 | vless | @Capital_NET | 36
-vless://783164cb-6410-4a96-e432-832489e4848c@ec18.kiava.fun:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=5ek-pf6OKRVq8oRuLF1ApIfZd2eeA1RY2J7YTH5EsXc&sid=5e#❔XX | 🔴 | vless | @Capital_NET | 37
-vless://0fb7a7c5-b82a-49ba-89a8-fc2e3f213a35@94.228.169.211:10565?type=grpc&encryption=none&sni=aws.amazon.com&fp=chrome&security=reality&pbk=NLmLDtMcz9aKs3JXtuM0O3hw_4d7r4eEULHlezwLRG0&sid=ea05036f#🇦🇹AT | 🔴 | vless | @Capital_NET | 38
-vless://a642fe4b-3326-40af-8929-71616eb9052f@lion.lionforpeople.site:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ns.cloudflare.com&fp=chrome&security=reality&pbk=H2GPj9jI13FyXVB0NLOhSAUimkI5pQmln9gEA3ynWgo&sid=4aeebc87#❔XX | 🔴 | vless | @Capital_NET | 39
-vless://5c096904-d1ce-486c-9e1f-757e27b4244a@5.75.214.174:443?type=grpc&encryption=none&sni=www.iranserver.com&fp=chrome&security=reality&pbk=NUXzekpnYOisWQrl5Hidhxmzto5eF-pzZCqhRRrsuVg&sid=ce356e2c#🇩🇪DE | 🔴 | vless | @Capital_NET | 40
-vless://e48bd3bf-b241-4d18-8b10-743154b05882@194.5.97.158:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=drive.google.com&alpn=http/1.1&fp=chrome&security=reality&pbk=aVwOKq0nDf_ridh7KG-TlQUsTlbktQ262wN1Bli1PwI&sid=89#🇳🇱NL | 🔴 | vless | @Capital_NET | 41
-vless://698a1505-b335-4ce2-97bc-8a4ffd67da4b@195.201.130.7:57706?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=F6wV-NlEVPipP6-0IXq4gM9UEbXB2XAUCrGyFS0_1wU&sid=fdc11189#🇩🇪DE | 🔴 | vless | @Capital_NET | 42
-vless://1b5648b6-da73-4ffb-b964-46c6d3d52136@159.69.23.6:22531?type=grpc&encryption=none&sni=zula.ir&fp=chrome&security=reality&pbk=jb36M2GejuMVpv36Tx0zEAq5qPgF7Ux1pHoWre7moHE&sid=4638b111#🇩🇪DE | 🔴 | vless | @Capital_NET | 43
-vless://783164cb-6410-4a96-e432-832489e4848c@ec76.kiava.fun:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=wQGZ3Ppa4ajV1HrQUYdpZF9D6yejNt84iWv2fV3kVHc&sid=5e#❔XX | 🔴 | vless | @Capital_NET | 44
-vless://fbe02c0b-775f-4431-8615-a9497255c876@four.felinetest.site:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=none.felinetest.site&fp=chrome&security=reality&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#🇺🇸US | 🔴 | vless | @Capital_NET | 45
-vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xNy4xNDguMjIiLCJwb3J0IjoiODAiLCJpZCI6IjNlNWNkYTBhLTYxMjItNGY1NC05ZTNjLTNmNDllN2E1MjZmOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJubGNoLmJsdWViZXJyeW5ldHdvcmsuc3RvcmUiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAdjJMaW5lIHwgMCJ9
-vless://7b43e848-67fe-45bf-afba-197fd75999a8@www.parspack.com:8880?path=/?ed=2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=httpupgrade#🇺🇸US | 🔴 | vless | @FreakConfig | 0
-vless://49fc52a8-64d5-4fbe-8049-97e9173b2937@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=lc4.lebasnoo.ir.&type=ws#🇸🇪SE | 🔴 | vless | @FreakConfig | 1
-vless://769c1301-9a0c-5564-a018-0559e6eef91b@190.93.247.119:80?path=/vless&security=none&encryption=none&host=Uk2.vless.site.&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 3
-vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=/ws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#🚩CF | 🔴 | vless | @FreakConfig | 4
-vmess://eyJhZGQiOiIxMDQuMTYuNjcuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRpbGwtYnVzaC1kMjU1LmxveWFib2sxMjUud29ya2Vycy5kZXYiLCJpZCI6ImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enpcL2xpbmt3cyIsInBvcnQiOiIyMDgyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWE5Q0YgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBGcmVha0NvbmZpZyB8IDYifQ==
-vmess://eyJhZGQiOiIxNzIuNjcuMTcxLjQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJObDIudm1lc3Muc2l0ZS4iLCJpZCI6IjhmOTEwNmQ5LTFkNzItNTc1Ny1iYzkyLTZlODMyOTMzYzgxMCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQEZyZWFrQ29uZmlnIHwgNyJ9
-vless://2bce897a-07a8-42b7-9d5f-540dfb350386@speedtest.net:443?path=/rezakiri&security=tls&encryption=none&host=basei.snapp.ir.sososlodigolas.com&fp=chrome&type=ws&sni=speedtest.net#🇺🇸US | 🔴 | vless | @FreakConfig | 8
-vmess://eyJhZGQiOiJjZmNkbjIuc2FuZmVuY2RuOS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImpwYWZ6eWhmc2czLnlvZm5oa2ZjLnh5eiIsImlkIjoiODIzYjRhNDUtODcyOC00MjViLWFiYjQtMmQ5ZWEzMGZkNjFlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92aWRlb1wvdTRlQ1pUeFciLCJwb3J0IjoiMjA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARnJlYWtDb25maWcgfCA5In0=
