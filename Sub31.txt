@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx29.ntr.biz.id&sni=cx29.ntr.biz.id&path=%2F%3Fed%3D2048#🇦🇷AR-CX29-DattatecCorp-P443
-vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx32.ntr.biz.id&sni=cx32.ntr.biz.id&path=%2F%3Fed%3D2048#🇧🇪BE-CX32-GlobalInternetSolutions-P443
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx31.ntr.biz.id&sni=cx31.ntr.biz.id&path=%2F%3Fed%3D2048#🇩🇰DK-CX31-M247-P443
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx3.ntr.biz.id&sni=cx3.ntr.biz.id&path=%2F%3Fed%3D2048#🇮🇩ID-CX3-Zenlayer-P443
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:443?encryption=none&security=tls&fp=randomized&type=ws&host=cx2.ntr.biz.id&sni=cx2.ntr.biz.id&path=%2F%3Fed%3D2048#🇮🇩ID-CX2-Zenlayer-P443
@@ -603,3 +601,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#%F0%9F%87%BA%F0%9F%87%B8US-74.50.98.185-3749
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-3337
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-3402
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.139-3643
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTQ2LjEwIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2FyZWlrZWxhLmNvbSIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNDYuMTAtMjcxMSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInNhcmVpa2VsYS5jb20iCn0=
