@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://bb2a93b9-2f48-4c3a-9355-c044caa70511@104.254.140.126:80/?type=ws&encryption=none&host=speedtest.net.xn--mgbfubi1jl.pinocchio1.ir.&path=%2F%3Fed%3D2048#%E2%8F%BA%EF%B8%8F77%40oneclickvpnkeys
+vless://1c196487-2da1-4af0-ad59-3166a35eee37@176.96.137.139:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&sid=c3949bd4#%F0%9F%86%9353%40oneclickvpnkeys
+vless://4692cfc1-8ae4-40f4-9b56-38280de488ee@91.107.145.93:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=chrome&security=reality&pbk=wgTq2PPfJyqHE1wbG7GOkkPfdq0bulCumEEm63nH_3Y&sid=4a367f#%F0%9F%86%9354%40oneclickvpnkeys
+vless://f53f1a5d-6a86-48ca-b897-f673daf45021@77.92.145.153:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=Y6NJmcTdR_w9hSOlAFxPaqz37sYhbj_MhuJT3DddnCI&sid=bfc2e70f#%F0%9F%86%9374%40oneclickvpnkeys
 vmess://eyJhZGQiOiIxNzIuNjcuMTcxLjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkazEudm1lc3Muc2l0ZS4iLCJpZCI6ImE4YWYxMWMwLWRjNGItNDFiNi05YzMyLWEzYTNkZWNlMjg1MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IiPvuI/ig6MxOUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJub25lIiwic25pIjoiZGsxLnZtZXNzLnNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vless://236a784b-2506-4236-b336-00f2f792986a@172.67.171.46:80/?type=ws&encryption=none&host=Nl2.vless.site.&path=%2Fvless#%23%EF%B8%8F%E2%83%A346%40oneclickvpnkeys
 vless://07de6293-b8e6-457d-9e99-54e8964e293a@45.67.32.147:14875/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&sid=e34371db#%23%EF%B8%8F%E2%83%A363%40oneclickvpnkeys
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:5001#%F0%9F%87%B5%F0%9F%87
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3209
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3210
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3181
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@51.77.53.200:9101#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3176
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@51.77.53.200:8000#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3177
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3171
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSkE0WmM4MVpzRjhPMTVicENlOTJQ@185.235.243.5:12306#%F0%9F%87%AC%F0%9F%87%B7GR-185.235.243.5-1315
