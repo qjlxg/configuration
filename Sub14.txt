@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.218.173:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.173:443
-vless://d3bd1731-d230-4b46-9846-6b7747934150@104.18.86.70:2082?security=none&type=ws&host=Kanal-polproxy.Vipnufilter.Online.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.86.70:2082
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.51.189:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.51.189:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.52.46:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.52.46:80
-vless://25d5ece5-8952-4529-98fa-30b09bacd307@104.21.78.12:2053?security=tls&sni=Ter.Iranasanejesh.org&type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.78.12:2053
 vless://332635fe-1986-5594-8fa9-c9fd1f2ff615@190.93.247.158:443?security=tls&sni=pt1.vless.site&type=ws&host=pt1.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.158:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.9.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.9.214:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.118:443?security=tls&sni=0B6F7f9a.NAzIRr.PAGES.DEv&type=ws&host=0b6f7f9A.NazIrr.PAGES.deV&path=%2FivcHEo5aGrgYM5l5%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.118:443
@@ -603,3 +598,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.202.5:2053?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.215.165:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.215.165:443
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb59@188.114.98.223:2095?security=none&type=ws&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.223:2095
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.106.47:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.106.47:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.153:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.153:80
+vless://1109d7d0-a975-4ac4-a98a-d56282313e6b@188.245.98.140:443?security=tls&sni=de1.phoenixnetwork.monster&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-188.245.98.140:443
+vless://10716279-b1ee-41d8-b63e-87782088305b@104.19.219.89:443?security=tls&sni=hey.BAcHebIapaIn.IR&type=ws&host=Hey.BacHEBiaPaIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.89:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.99.91:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.99.91:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.106.158:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.106.158:80
