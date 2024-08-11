@@ -105,4 +105,4 @@ file_paths = {
 decode_vmess_links(file_paths['decode'])
 update_host_in_json(file_paths['update'], file_paths['encode'])
 encode_vmess_links(file_paths['encode'], file_paths['subscription'])
-create_subscription_link(file_paths['subscription'], file_paths['final_subscription'])
+#create_subscription_link(file_paths['subscription'], file_paths['final_subscription'])
