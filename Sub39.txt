@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-203.210.16.78-3743
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.232.63.16-3746
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-3747
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.232.63.16-3748
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.205.220-3749
@@ -601,5 +603,3 @@ trojan://cc05b267-2e17-4e73-92f0-2cf603aa5997@146.56.179.67:40005?security=tls#%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.221:802#%F0%9F%87%BA%F0%9F%87%B8US-162.251.61.221-6044
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.62.68:6679#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-6046
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.62.68:8881#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-6047
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.99:2375#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.99-6048
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.62.68:5003#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-6049

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.119.128.0:443?encryption=none&type=ws&host=ndfddd.azurewebsites.net&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&fragment=tlshello%2C50-100%2C10-50&sni=ndfddd.azurewebsites.net#295-%E7%BE%8E%E5%9B%BD_0811131774
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.71:80?encryption=none&type=ws&host=us3.rtacg.com&security=none&alpn=h3%2Ch2&fp=chrome&sni=us3.rtacg.com#296-%E6%9C%AA%E7%9F%A5_0811132910
 vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.21.69.44:8443?encryption=none&type=ws&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&host=ggho.pages.dev.&security=tls&alpn=http%2F1.1&fp=safari&fragment=tlshello%2C20-50%2C10-20&sni=ggho.pages.dev.#297-%E6%9C%AA%E7%9F%A5_0811135373
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.176.88:8443?encryption=none&type=ws&path=%2Fblue&security=tls&alpn=h3%2Ch2&fp=chrome&fragment=tlshello%2C20-50%2C20-50&sni=jp070.ylks01.eu.org#298-%E7%BE%8E%E5%9B%BD_0811133863
 vless://ea040230-e7f4-4a54-8eed-7b02956b66b9@104.17.147.22:2053?encryption=none&type=ws&path=%2F%40IRN_VPN&host=irn-vpn-irn-vpn.veboril990.workers.Dev&security=tls&alpn=h3%2Ch2&fp=randomized&fragment=tlshello%2C10-20%2C10-20&sni=irn-vpn-irn-vpn.veboril990.workers.Dev#299-%E6%9C%AA%E7%9F%A5_0811138751
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5601#%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-6216
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-6880
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0106
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5378
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0097

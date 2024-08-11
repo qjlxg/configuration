@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-aol.pages.dev:8443?allowInsecure=0&sni=bPb-AOl.Pages.deV&alpn=h2,http/1.1&type=ws&host=bPb-aOL.pageS.dEV&path=/uFbLDthE2ypTvCj5?ed=2560fp=randomized&security=tls#12|US_speednode_0206
+vless://de44b044-8f90-4e18-b742-16591667ff96@67.230.175.34:443?allowInsecure=0&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=/?ed=2048fp=randomized&security=tls#12|US_speednode_0207
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-aol.pages.dev:2096?allowInsecure=0&sni=bPB-aOl.PagES.dEV&alpn=h2,http/1.1&type=ws&host=BpB-AOL.PAGEs.DEv&path=/TrkOwL396551jSFM?ed=2560fp=randomized&security=tls#12|US_speednode_0208
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN8ZCoqKioqKioqKmcuY29tXzIgIzMiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http%2F1.1&fp=chrome&security=tls#13|d*********g.com_6
@@ -601,5 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#🔒 SS-TCP-NA 🇵�
 ss://Y2RiMTUzNjUtMWNjYi00ZDVhLWE1ZDktNmZiMDhkM2M3NWFjOg==@104.20.18.168:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.20.18.168:8880
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaa3luRlg1ZVNhRTBZdXNGOGpYZ3FR@77.91.123.173:18332#🔒 SS-TCP-NA 🇳🇱 NL-77.91.123.173:18332
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVVN1Q0lOeDl1TEZEQ04xTXVrNEFT@85.159.230.44:52842#🔒 SS-TCP-NA 🇩🇪 DE-85.159.230.44:52842
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.65:2375#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.65:2375
