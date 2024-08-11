@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8a285610-d24b-4f53-8d0d-fd447eef6b6b@172.67.184.1:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-172.67.184.1:2083
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.55:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.55:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.244:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.244:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.35:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.35:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.176:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.219.88:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.219.88:443
 vless://ba68c893-0196-4af5-8db5-69e19177e525@162.251.82.187:8443?security=tls&sni=a-sub-1ewl9uvfag-v2ray-xy.boobsvpn.com.tr&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-162.251.82.187:8443
@@ -603,3 +599,7 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=/XV2ry2?ed=2
 vless://386e270d-7d87-4970-97e3-d685cab1ee82@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#❔XX | 🔴 | vless | @UnlimitedDev | 0
 vless://b25fa07c-169d-4366-8733-82e82feb6083@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#❔XX | 🔴 | vless | @UnlimitedDev | 1
 vless://83bbe1a3-a9c6-4e73-a7c1-3f0baf5d7461@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#❔XX | 🔴 | vless | @UnlimitedDev | 2
+vless://c839cb98-85c4-4645-a961-bfdd24cff846@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#❔XX | 🔴 | vless | @UnlimitedDev | 3
+vless://0b0e94b0-417c-42f2-a394-5c3d8b294ae9@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#❔XX | 🔴 | vless | @UnlimitedDev | 4
+vless://2a16d3a6-33b0-4c4d-9cc2-24f2d9d5b259@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#❔XX | 🔴 | vless | @UnlimitedDev | 5
+vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&host=join-to.vmessorg.Community.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 0

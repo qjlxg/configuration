@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-aol.pages.dev:2053?allowInsecure=0&sni=Bpb-AOl.pages.dEV&alpn=h2,http/1.1&type=ws&host=bpB-aOl.PagES.Dev&path=/RZAfP9ylD88dnkeA?ed=2560fp=randomized&security=tls#12|US_speednode_0196
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.76:2083?allowInsecure=0&sni=bPB-aOL.paGEs.DEv&alpn=h2,http/1.1&type=ws&host=BPb-aoL.pAges.dEV&path=/GRhLLpnrX8SrfMsV?ed=2560fp=randomized&security=tls#12|US_speednode_0197
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-aol.pages.dev:2083?allowInsecure=0&sni=Bpb-AOL.PAgeS.Dev&alpn=h2,http/1.1&type=ws&host=BPb-AoL.PagEs.dev&path=/wyFz2JSmx8eVbVjF?ed=2560fp=randomized&security=tls#12|US_speednode_0198
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.180:2096?allowInsecure=0&sni=BPB-AOl.pAgEs.dev&alpn=h2,http/1.1&type=ws&host=bPb-aol.pages.DeV&path=/3PUJaNIIWUr9UNXS?ed=2560fp=randomized&security=tls#12|US_speednode_0199
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.180:2087?allowInsecure=0&sni=BPb-aOL.PaGeS.dev&alpn=h2,http/1.1&type=ws&host=bpb-AOl.PaGEs.dEV&path=/WcDWwnEvaqnNqPpQ?ed=2560fp=randomized&security=tls#12|US_speednode_0200
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.180:2083?allowInsecure=0&sni=BpB-aol.PageS.dEv&alpn=h2,http/1.1&type=ws&host=Bpb-AOl.PageS.dEV&path=/KvSRzPzvZmtKqxjB?ed=2560fp=randomized&security=tls#12|US_speednode_0201
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-aol.pages.dev:2087?allowInsecure=0&sni=Bpb-AoL.PAGes.deV&alpn=h2,http/1.1&type=ws&host=bpb-AoL.pageS.Dev&path=/ShcMqONF0EMFNoxj?ed=2560fp=randomized&security=tls#12|US_speednode_0202
@@ -603,3 +599,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2MxNTg5Yi0zZTA1LTRiYmQtYWVlYy0xNmZlMWYwZjV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.188:56047#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.188:56047
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@80.92.204.106:9046#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9046
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.162.216.117:443#🔒 SS-TCP-NA 🇬🇧 GB-20.162.216.117:443
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5003
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5004
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.137.71:7306#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:7306
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.19:5004#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:5004
