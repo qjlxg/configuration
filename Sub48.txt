@@ -209,6 +209,8 @@ vless://94f51d56-204b-466b-b1d7-d397df9273d5@www.parspack.com:2095?path=%2FDigi-
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.16.21.20:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
+vless://386e270d-7d87-4970-97e3-d685cab1ee82@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#💕 @v2ray_configs_pool 💕
+vless://386e270d-7d87-4970-97e3-d685cab1ee82@185.146.173.252:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTmRaTWE0V05YbzRnTlRQRTh0SUp6@138.68.182.23:2248/?outline=1#💕 @v2ray_configs_pool 💕
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SEVTWkVSbzl2UHRiQ2duSmlKMzk2@23.102.13.113:49906/?outline=1#💕 @v2ray_configs_pool 💕
 vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443/?type=ws&encryption=none&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&fp=chrome#💕 @v2ray_configs_pool 💕
@@ -223,6 +225,8 @@ vless://94f51d56-204b-466b-b1d7-d397df9273d5@www.parspack.com:2095?path=%2FDigi-
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.16.21.20:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
+vless://386e270d-7d87-4970-97e3-d685cab1ee82@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#💕 @v2ray_configs_pool 💕
+vless://386e270d-7d87-4970-97e3-d685cab1ee82@185.146.173.252:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTmRaTWE0V05YbzRnTlRQRTh0SUp6@138.68.182.23:2248/?outline=1#💕 @v2ray_configs_pool 💕
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SEVTWkVSbzl2UHRiQ2duSmlKMzk2@23.102.13.113:49906/?outline=1#💕 @v2ray_configs_pool 💕
 vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443/?type=ws&encryption=none&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&fp=chrome#💕 @v2ray_configs_pool 💕
@@ -237,6 +241,8 @@ vless://94f51d56-204b-466b-b1d7-d397df9273d5@www.parspack.com:2095?path=%2FDigi-
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.16.21.20:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 vless://c2e97327-46dd-482d-839b-816a7f34877f@104.17.25.45:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#💕 @v2ray_configs_pool 💕
+vless://386e270d-7d87-4970-97e3-d685cab1ee82@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#💕 @v2ray_configs_pool 💕
+vless://386e270d-7d87-4970-97e3-d685cab1ee82@185.146.173.252:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#💕 @v2ray_configs_pool 💕
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
