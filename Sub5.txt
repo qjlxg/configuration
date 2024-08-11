@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.176:7307
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5003
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9101
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6697
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.111.114.133:5004#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:5004
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.19:8080#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:8080
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8888
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YzJiZjU0Zi01ZjEzLTRkNzEtYjg2Ni0zYTNmMjNjNGQ4NmI=@38.207.154.30:30002#🔒 SS-TCP-NA 🇭🇰 HK-38.207.154.30:30002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.83:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:7001
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.135.19:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.19:2375
@@ -603,3 +595,11 @@ vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.207.214:2053?security=tls&sni
 vless://3cbf20c1-f673-45de-8114-8267cf05d801@104.21.91.124:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.91.124:2096
 vless://933bf3c5-5989-4183-bf47-8b1a1af0b7cf@104.26.14.16:2095?security=none&type=httpupgrade&host=upgrade.google.com.www.speedtest.net.www.speedtest.net.piNocchio1.iR.&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.14.16:2095
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.28.27:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.27:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.194.51:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.194.51:80
+vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.137.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.137.232:8880
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.146.173.94:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.94:2053
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:8443?security=tls&sni=JOinMaHDiseRvEr-6BP.pAgeS.dEV&type=ws&host=JoinmaHDISeRvER-6bp.Pages.deV&path=%2FRe9bwBvItqeJ1BOx%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.83:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.242:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.44:80?security=none&sni=a.ssll.gay&type=ws&path=Twitterfreecodes#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.44:80
+vless://058b2e58-980e-4460-859e-ee4c5afbf9fe@45.80.110.106:8080?security=none&type=httpupgrade&host=99.a.v.y.www.speedtest.net.ftp.debian.online.photoshott.ir#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.106:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.115.211:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.115.211:443

@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.19:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-6573
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.59:443#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-6581
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@134.195.196.230:6679#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.230-6593
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-6719
-trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-1.161.63.223-6822
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@172.99.190.87:8080#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-6823
-trojan://cd39f62aed7b90f6@5.44.249.43:3389/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6936
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.64.138.145:443#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7027
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7142
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.163-0106
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7304
@@ -603,3 +595,11 @@ vless://e2443e49-e0ce-4628-808f-76469b53cf66@net15.ntr.biz.id:443?encryption=non
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net14.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net14.ntr.biz.id&path=%2F%3Fed%3D2048#net14.ntr.biz.id
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net13.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net13.ntr.biz.id&path=%2F%3Fed%3D2048#net13.ntr.biz.id
 vless://e2443e49-e0ce-4628-808f-76469b53cf66@net12.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net12.ntr.biz.id&path=%2F%3Fed%3D2048#net12.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net11.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net11.ntr.biz.id&path=%2F%3Fed%3D2048#net11.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net10.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net10.ntr.biz.id&path=%2F%3Fed%3D2048#net10.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net9.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net9.ntr.biz.id&path=%2F%3Fed%3D2048#net9.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net8.ntr.biz.id:443?encryption=none&security=tls&sni=net8.ntr.biz.id&fp=randomized&type=ws&host=net8.ntr.biz.id&path=%2F%3Fed%3D2048#net8.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net7.ntr.biz.id:443?encryption=none&security=tls&sni=net7.ntr.biz.id&fp=randomized&type=ws&host=net7.ntr.biz.id&path=%2F%3Fed%3D2048#net7.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net6.ntr.biz.id:443?encryption=none&security=tls&sni=net6.ntr.biz.id&fp=randomized&type=ws&host=net6.ntr.biz.id&path=%2F%3Fed%3D2048#net6.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net5.ntr.biz.id:443?encryption=none&security=tls&sni=net5.ntr.biz.id&fp=randomized&type=ws&host=net5.ntr.biz.id&path=%2F%3Fed%3D2048#net5.ntr.biz.id
+vless://e2443e49-e0ce-4628-808f-76469b53cf66@net4.ntr.biz.id:443?encryption=none&security=tls&sni=net4.ntr.biz.id&fp=randomized&type=ws&host=net4.ntr.biz.id&path=%2F%3Fed%3D2048#net4.ntr.biz.id

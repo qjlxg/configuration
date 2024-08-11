@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.196.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.196.251:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.203:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.203:80
-vless://dcacefde-6be0-4865-b0e6-2354ff6e990e@178.128.89.89:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=grpc&path=/&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-178.128.89.89:2003
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.29.251:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.29.251:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.185:2053
-vless://77c41047-a1d4-4682-9a20-29e24da6cb4c@188.114.97.2:8080?security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.2:8080
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.79.102:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.79.102:80
-vless://4fd24a54-529b-44a6-becd-eefcc52609a5@104.22.22.186:80?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.com.top.自己不去看啥事情基本没啥事事.telactive.net.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.22.186:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.38.92:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.38.92:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.59.124:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.59.124:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.249:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.249:443
@@ -603,3 +595,11 @@ trojan://telegram-id-privatevpns@13.49.101.250:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@16.170.42.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 13
 trojan://telegram-id-privatevpns@3.248.60.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 14
 trojan://telegram-id-privatevpns@52.51.27.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15
+trojan://telegram-id-privatevpns@35.177.144.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16
+trojan://telegram-id-privatevpns@18.171.2.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 17
+trojan://telegram-id-privatevpns@35.181.255.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18
+trojan://telegram-id-privatevpns@35.180.8.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19
+trojan://telegram-id-directvpn@3.18.70.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 0
+trojan://telegram-id-directvpn@3.98.200.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 1
+trojan://telegram-id-directvpn@15.156.174.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 2
+trojan://telegram-id-directvpn@54.246.93.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 3

@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://95faeb0c-2eaf-4a76-9a30-0db9efd9ab51@172.67.146.84:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.146.84:8880
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.149.134:80?security=none&type=ws&host=aryoovpn.commen-esoteric-0q.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.149.134:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.91.173:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.91.173:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.157:443
-vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@172.67.214.110:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.110:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.149.56:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.149.56:80
-vless://c0615218-5881-49d3-a008-03ca8359dc68@104.18.14.19:80?security=none&type=ws&host=thexw4.huondadalioshop.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.35.161:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.35.161:80
 vless://0f3137a5-ce08-499c-ad63-a0de19ae06b4@185.148.106.90:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🇺🇸 US-185.148.106.90:8080
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@45.131.210.26:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.26:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.188:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.188:80
@@ -603,3 +595,11 @@ vless://f071635b-e08a-4f02-802a-4705ec9ff1cd@104.20.21.0:443?security=tls&sni=DA
 vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.0.155:443?security=tls&sni=www.elledecor.com&type=ws&host=farm.vpn.farm.vpnbdhdjwj.sbs&path=/#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.155:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.214.91:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.214.91:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.151.132:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.151.132:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.46.211:443?security=tls&sni=edtunnel-csc.pages.dev&type=ws&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.211:443
+vless://10d686fe-e14a-49fd-8496-88d5c26f5ccb@94.182.106.183:44456?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.106.183:44456
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.15.19:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.218.231:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.231:443
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.56.140:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.97.18:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.18:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.140.254:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.140.254:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.159.46:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.159.46:80
