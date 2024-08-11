@@ -1,12 +1,8 @@
 name: Update Configs
-permissions: write-all
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    # Run every 10 minutes
+    # Run every 5 minutes
     - cron: "*/5 * * * *"
 
 jobs:
@@ -28,10 +24,6 @@ jobs:
     - name: Install dependencies
       run: cd scripts && pip install -r requirements.txt
 
-      
-    - name: Install beautifulsoup4
-      run: pip install beautifulsoup4
-
     - name: Run Config script and save output to file
       run: cd scripts && python app.py
       
@@ -41,20 +33,8 @@ jobs:
     - name: Run Splitter script and save output to file
       run: cd scripts && python sort.py
 
-    - name: Run the script to get the actual subscribtion link of vmess port 80
-      run: cd scripts && python try.py
-
-    - name: Run the script to test for all working vmess
-      run: cd scripts && python working.py
-
-    - name: Run the script to remove duplicate vmess
-      run: cd scripts && python reducer.py
-
-    - name: Run the script to get the actual subscribtion link of vmess port 80
+    - name: Run the script to get the actual subscription link of vmess port 80
       run: cd scripts && python create_subscription_link.py
-
-    - name: Run the script to retest the vmess and remove non working ones
-      run: cd scripts && python retest.py
 
     - name: Check changes
       run: |
@@ -67,8 +47,8 @@ jobs:
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated 4 minutes Ago ⚡️"
+        message: "Updated scripts and files every 5 minutes ⚡️"
         add: "."
         push: "https://github.com/TalesOrigin/configuration.git"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
