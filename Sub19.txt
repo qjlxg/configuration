@@ -3,6 +3,27 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.19:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-6292
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8881#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0584
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.10:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0634
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.68.135.19:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-6760
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.68.135.19:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7681
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:5000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0576
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7661
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7426
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:9090#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0578
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-0593
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.114.69:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6306
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.102:8118#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.102-0564
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.68.135.19:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-6743
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7049
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.114.114.69:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7633
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.114.69:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7180
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8882#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0615
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.113:8080#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.113-0625
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.113-0629
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7702
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:5001#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0596
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.102:5001#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.102-0563
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.19:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-6282
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:3389#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0599
@@ -582,24 +603,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.243:2053/?type=ws&host=t
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.254:2053/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_254%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.19:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_019%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.24:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_024%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.28:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_028%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.33:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_033%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.17:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_017%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.60:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_060%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.65:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_065%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.38:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_038%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.44:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_044%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.84:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_084%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.66:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_066%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.101:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_101%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.69:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_069%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.71:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_071%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.113:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_113%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.122:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_122%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.128:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_128%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.139:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_139%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.114:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_114%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.117:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_117%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.131:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_131%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.133:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_133%20%40WangCai_8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.137:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_137%20%40WangCai_8
