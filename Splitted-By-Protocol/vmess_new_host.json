@@ -17,23 +17,6 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 4"
     },
     {
-        "add": "104.21.51.208",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.241.94.160",
-        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
-        "net": "ws",
-        "path": "/0fpZFB6IbpNptGAxAtI0QM",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 324"
-    },
-    {
         "add": "185.146.173.92",
         "aid": "0",
         "alpn": "",
@@ -109,7 +92,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 9"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 10"
     },
     {
         "add": "104.21.51.208",

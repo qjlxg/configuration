@@ -817,24 +817,24 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2ray1_ng | 4"
     },
     {
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @DailyV2RY | 305"
+        "v": "2",
+        "add": "104.16.4.103",
+        "port": 8080,
+        "id": "d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d",
+        "aid": 0,
+        "scy": "chacha20-poly1305",
+        "net": "ws",
+        "type": "none",
+        "host": "fl1.tradex2080.com",
+        "alpn": "http/1.1",
+        "path": "/RqOHFT06qnkXOdFN4WJ",
+        "tls": "",
+        "sni": "fl1.tradex2080.com",
+        "fp": "chrome",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 300"
     },
     {
-        "add": "104.21.51.208",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "deefull.tradex2080.com",
-        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
-        "net": "ws",
-        "path": "/0fpZFB6IbpNptGAxAtI0QM",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 324"
+        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @DailyV2RY | 315"
     },
     {
         "add": "185.146.173.92",
@@ -1015,7 +1015,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 8"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 9"
     },
     {
         "add": "172.67.171.48",
@@ -1032,24 +1032,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 9"
-    },
-    {
-        "add": "cfcdn2.sanfencdn9.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "jpafzyhfsg3.yofnhkfc.xyz",
-        "id": "823b4a45-8728-425b-abb4-2d9ea30fd61e",
-        "net": "ws",
-        "path": "/video/u4eCZTxW",
-        "port": "2052",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @FreakConfig | 11"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @FreakConfig | 10"
     },
     {
         "v": "2",

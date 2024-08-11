@@ -295,7 +295,6 @@ vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@WWW.SPEEDTEST.NET:2086?path=%2FTele
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUlV3cGtTb3VXNUhDVFVGVXhFcmZuTDVBbWFob2ZyanpuVnJBdTJpTkZNRkdVQ3JDaHpuQVVMaHVIR0FRZEM0NjNtemNnbzJqVjU0NlV0NUhLaGszcHo5NTZjSFlZeWM=@188.212.132.20:52952#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@18.219.136.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#configkade%F0%9F%91%89%40proxystore11
@@ -307,6 +306,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNE5va2ozWXFmdGE2dFdxdW02cjhr@46.29.238.83:2
 vless://Telegram-ipV2Ray-box@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.2.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#configkade%F0%9F%91%89%40proxystore11
 vless://7d13a8f0-d3d4-4062-b541-fdf732f6bb79@srv7a.f2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://7d13a8f0-d3d4-4062-b541-fdf732f6bb79@srv7a.f2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
+vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=13.V2.i.www.speedtest.net.dnschecker.tecH.&type=httpupgrade#configkade%F0%9F%91%89%40proxystore11
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
