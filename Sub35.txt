@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:804#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0804
 vmess://ewogICAgImFkZCI6ICIxMDQuMTkuNDUuMTEiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpcDEuMTQ1NzIzMC54eXoiLAogICAgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwKICAgICJwb3J0IjogMjA4NiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE5LjQ1LjExLTAzMjQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0813
 vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTY2LjIyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwKICAgICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsCiAgICAicG9ydCI6IDIwODYsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42NC4xNjYuMjItMDQyNCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -603,3 +602,4 @@ trojan://telegram-id-directvpn@18.198.213.139:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-directvpn@52.36.241.66:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-52.36.241.66-0716
 trojan://w2hzAZv(urZd@52.60.80.11:13431?security=tls&sni=appsvs.shop#%F0%9F%87%A8%F0%9F%87%A6CA-52.60.80.11-0717
 trojan://2155145a-b1b5-443a-8977-670f6bd10f02@bgroup.node3.t.nodelist-gfwairport2.top:50001?security=tls&sni=bgroup.node3.t.nodelist-gfwairport2.top#%F0%9F%87%B8%F0%9F%87%ACSG-18.142.178.64-0718
+trojan://telegram-id-privatevpns@18.170.159.228:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-18.170.159.228-0719

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_078%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.130:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_130%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.99:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_099%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.115:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_115%20%40WangCai_8
@@ -603,3 +602,4 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.149:2083/?type=ws&host=t
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.116:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_116%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.118:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_118%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.171:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_171%20%40WangCai_8
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.173:2083/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_173%20%40WangCai_8

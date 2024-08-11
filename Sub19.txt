@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://M3lOal9RPR@146.56.171.71:30056/?type=tcp&security=tls&sni=kkr100515a.go02.top#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.171.71-0799
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.114.114.69:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7046
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7597
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6929
@@ -603,3 +602,4 @@ vmess://eyJhZGQiOiIxMDQuMTkuNTIuMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.18:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_018%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.19:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_019%20%40WangCai_8
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.23:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_023%20%40WangCai_8
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.24:443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_024%20%40WangCai_8
