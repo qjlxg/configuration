@@ -3,23 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.245.159:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.245.159:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.103.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.103.247:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.167:80
-vless://92c12734-d19e-40a1-f7a2-1735711d039b@104.21.25.178:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.178:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.173.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.173.155:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.50.38:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.50.38:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.114.137:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.114.137:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.157.154:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.154:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.52.180:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.52.180:80
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.15.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:8443
-vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:443?security=tls&sni=sisand.waztow.WorKErs.dEv&type=ws&host=sisand.waztow.WorKErs.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.243.229:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.243.229:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.61:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.61:80
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.86:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%253...#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.86:8080
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.157.156:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.156:80
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.191.136:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.191.136:80
 vless://8a285610-d24b-4f53-8d0d-fd447eef6b6b@172.67.184.1:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-172.67.184.1:2083
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.55:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.224.55:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.244:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.244:443
@@ -603,3 +586,20 @@ ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.19.81.4:443#🚩CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUWFoUUJsTjFYZHUxdWh3VUtyRTdr@64.227.144.190:50690#🇮🇳IN | 🟢 | ss | @DeamNet_Proxy | 14
 ss://YzA2NGViMjQtNjQzYy00MDVmLWEyMjItMDQzZDI5ZTE1MWJmOg==@188.114.96.3:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 15
 ss://ZjhmNWRjZTItZTY2Yi00NWJkLTk1N2UtNTNjMWVjZGRhMzdhOg==@104.21.3.182:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 16
+ss://MTdhN2JmOTctZmVmNS00MTAxLWE1YzUtN2M3MzBmYWJlZWVlOg==@104.18.202.232:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 17
+ss://ZTZhZWRjZDItMjRhZC00YmRkLTgyYzUtMDA2ZDg0MTc5MTk3Og==@www.speedtest.net:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 18
+vmess://eyJ2IjoiMiIsImFkZCI6IjE4OC4xMTQuOTcuMTYiLCJwb3J0IjoiNDQzIiwiaWQiOiI0ODA0ZjE0Yi1jMWY4LTQ1MmQtYTZlYy1lZmYxNDkwYWVhYzkiLCJhaWQiOjAsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJwYXRoIjoibFJrR0NrWVM5WDVHRnpvWm9hdm4ya21KIiwidGxzIjoidGxzIiwic25pIjoiaGRmeTZjNS5jcGlvbmxpbmUuY28iLCJhbHBuIjoiaDIiLCJmcCI6ImNocm9tZSIsInBzIjoiXHVkODNkXHVkZWE5Q0YgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBEZWFtTmV0X1Byb3h5IHwgMTkifQ==
+vless://434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @customv2ray | 0
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US | 🔴 | vless | @customv2ray | 1
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=/TELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI/?ed=2048&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US | 🔴 | vless | @customv2ray | 2
+vless://I_Love_#❔XX | 🔴 | vless | @customv2ray | 3
+vless://911e7942-4c0a-47f5-95e1-25740be19043@[2a01:7e01::f03c:94ff:fe2a:b2d]:5011?security=none&encryption=none&headerType=none&type=tcp#❔XX | 🔴 | vless | @customv2ray | 4
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=/?ed&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#🇺🇸US | 🔴 | vless | @customv2ray | 5
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=/&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🇺🇸US | 🔴 | vless | @customv2ray | 7
+vless://25c6c489-7eac-440e-cece-2205e4f85c11@www.speedtest.net:8880?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8880&security=none&encryption=none&host=8.V2.c.www.speedtest.net.debian.org.asve.iR.&type=httpupgrade#🇺🇸US | 🔴 | vless | @customv2ray | 8
+vless://c4b5894c-418e-4b44-88bd-6198fafa7e09@www.parspack.com:8880?path=/SHHPROXY?ed=2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US | 🔴 | vless | @customv2ray | 9
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=/XV2ray?ed&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#🚩CF | 🔴 | vless | @customv2ray | 11
+vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@SpeeDTeST.OrG:80?path=/&security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V08.SiMansaNaT.Ir.&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 12
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@198.41.202.5:443?path=/XV2ray?ed=2560&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#🚩CF | 🔴 | vless | @customv2ray | 13
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=/XV2ry2?ed=2560&security=none&encryption=none&host=w.w.w.speedtest.net.xn--g28h.dns-dynamic.net.&type=ws#🚩CF | 🔴 | vless | @customv2ray | 14
+vless://386e270d-7d87-4970-97e3-d685cab1ee82@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 0
