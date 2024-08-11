@@ -1,4 +1,5 @@
 name: Update Configs
+permissions: write-all
 
 on:
   schedule:
