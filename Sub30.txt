@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7458
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.113:8008#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.113-0547
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7197
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7192
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7735
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.75.136.21:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7662
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-7665
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7945
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.10:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0620
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.102:8118#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.102-0550
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7922
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.115:8888#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.115-0566
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6825
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.121.43.71:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5531
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.75.136.21:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7930
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.65:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.65-0009
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.51-6346
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7689
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7851
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.21:443#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7719
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.21:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7425
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7395
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.68.134.9:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-6330
@@ -583,23 +603,3 @@ vmess://eyJhZGQiOiIxMDMuMTg0LjQ1LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ1LjE3NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmx1ZSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6jwn4ezQ04tMTAzLjE4NC40NS4xNzctOTMzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjE5MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmx1ZSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6jwn4ezQ04tMTAzLjE4NC40NC4xOTAtOTM0NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZDQxYjVjYi1iNzJlLTRhOGMtYzc1YS0zZWNjOTI4ZDZlYjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmx1ZSIsInBvcnQiOiI4MCIsInBzIjoi8J+HqPCfh7NDTi0xMDMuMTg0LjQ0LjE2NC05MzQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYW00YmIxYzJRbVljSmlmZmR1MkIw@167.99.216.236:50250#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://c6916d66-b191-4651-8bbc-120ea8af539a@visa.com:80/?type=ws&encryption=none&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://8a9e55a5-d958-4e24-8421-3de89069a2b8@104.16.232.76:80/?type=ws&encryption=none&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://54613db2-a01f-4a19-be05-96868066d1ac@185.146.173.85:80/?type=ws&encryption=none&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://e751cd61-3d05-4a5f-82ad-d902bb342eb7@198.41.193.40:80/?type=ws&encryption=none&host=www.speedtest.net.ftp.debian.org.nobitex.com.vigilantecollection.com.&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443/?type=ws&encryption=none&host=fraud.chase&path=%2F&security=tls&sni=speedtest.net&fp=chrome#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443/?type=ws&encryption=none&host=bIA-paiN-BaCHE.pAGES.Dev&path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&alpn=http%2F1.1&fp=randomized#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vmess://eyJhZGQiOiIxNjIuMTU5LjEyOS4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1jMC5wYWdlcy5kZXYiLCJpZCI6ImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9mMiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkpUgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5KVIiwic2N5IjoiYXV0byIsInNuaSI6InBhZ2VzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443/?type=ws&encryption=none&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&fp=chrome#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443/?type=ws&encryption=none&host=ShAH-AGZ.PAGES.dEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=ShAh-aGz.pAGes.DEV&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRSVlIN3NpRTVmNmJjYVotSXVUczl3@172.233.62.73:1080#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d8a95a51-294c-4460-9525-36ef4023434c@104.25.24.18:8080/?type=ws&encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@63.141.128.97:443/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.123.255.242:443/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.200.160.6:443/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@63.141.128.98:443/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.67.215.99:443/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.218.211.17:80/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@168.138.179.107:36322/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.236.167.231:8443/?type=ws&encryption=none&host=a.ssll.gay&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai_8%20%2F%3Fed%3D2048&security=tls&sni=a.ssll.gay#%F0%9F%92%95%20%40v2ray_configs_pool%20%F0%9F%92%95

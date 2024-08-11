@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsSE9YMzhwQ09vdVVPVko1SlVSV2VP@62.133.63.21:65262#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.21-0234
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3p0czZ1Q0hNQWNTeHZPY2xuU1FR@103.35.190.211:55672#%F0%9F%87%BA%F0%9F%87%B8US-103.35.190.211-3695
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@45.89.52.66:9079#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-5785
+ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@45.89.52.66:9061#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-5275
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@45.89.52.66:9003#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-5254
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:801#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-5641
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-3296
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.113-3431
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-3839
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.175.134.2:989#%F0%9F%87%B2%F0%9F%87%A9MD-178.175.134.2-3579
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:802#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-3840
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.153.178-3818
@@ -594,12 +603,3 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&securi
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F%3Fed&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔outline_vpn%20🔒%20VL-WS-N/A%20🆥🆥%20%201ms
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80?path=%2F&security=none&encryption=none&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V10.SiMansaNaT.Ir.&type=ws#🆔outlinev2rayng%20🔓%20VL-WS-N/A%20🆥🆥%20%202ms
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&fp=chrome&type=ws&sni=www.Arizona.edu#🆔outlinev2rayng%20🔒%20VL-WS-N/A%20🆥🆥%20%201ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔outlinev2rayng%20🔒%20VL-WS-N/A%20🆥🆥%20%202ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔outlinev2rayng%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms
-vless://a6499809-e8b6-4afc-a472-fff658215148@ai-shoping.lgaiphone.biz.tr:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=dev&sni=shoping-lg.lgaiphone.biz.tr#🆔outlinev2rayng%20🔒%20VL-GRPC-N/A%20🆥🆥%20%2087ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#🆔outlinev2rayng%20🔓%20VL-WS-N/A%20🇺🇸%20US%201ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔outlinev2rayng%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.66.133:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔outlinev2rayng%20🔒%20VL-WS-N/A%20🇺🇸%20US%201ms
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&encryption=none&host=5.V.V2.www.speedtest.net.e.debian.org.mehpow.iR.&type=httpupgrade#🆔outlinev2rayng%20🔓%20VL-HTTPUPGRADE-N/A%20🆥🆥%20%204ms
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#🆔outlinev2rayng%20🔒%20VL-WS-N/A%20🆥🆥%20%201ms
-vless://3a86e031-efb7-45d5-8fb8-5c4f600f2848@104.16.89.160:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🆔outlinev2rayng%20🔓%20VL-WS-N/A%20🇺🇸%20US%201ms
