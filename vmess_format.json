@@ -106375,48 +106375,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "add": "104.17.197.31",
-        "port": "443",
-        "id": "441da342-ce90-441e-bff9-d2ceb55e68ca",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "host": "quiet-moon-132a.xetag42714.workers.dev",
-        "path": "/ivideos.sbs/linkws",
-        "tls": "tls",
-        "sni": "quiet-moon-132a.xetag42714.workers.dev",
-        "ps": "\ud83c\udd94 @v2ray_configs_pool "
-    },
-    {
-        "v": "2",
-        "add": "104.17.197.31",
-        "port": "443",
-        "id": "441da342-ce90-441e-bff9-d2ceb55e68ca",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "host": "quiet-moon-132a.xetag42714.workers.dev",
-        "path": "/ivideos.sbs/linkws",
-        "tls": "tls",
-        "sni": "quiet-moon-132a.xetag42714.workers.dev",
-        "ps": "\ud83c\udd94 @v2ray_configs_pool "
-    },
-    {
-        "v": "2",
-        "add": "104.17.197.31",
-        "port": "443",
-        "id": "441da342-ce90-441e-bff9-d2ceb55e68ca",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "host": "quiet-moon-132a.xetag42714.workers.dev",
-        "path": "/ivideos.sbs/linkws",
-        "tls": "tls",
-        "sni": "quiet-moon-132a.xetag42714.workers.dev",
-        "ps": "\ud83c\udd94 @v2ray_configs_pool "
-    },
-    {
         "add": "45.131.248.183",
         "aid": "0",
         "host": "snapp.ir",
