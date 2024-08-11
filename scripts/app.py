@@ -224,7 +224,7 @@ def decode_base64_vmess(data):
         
         # Validate Base64 characters
         if not re.match(r'^[A-Za-z0-9+/=]+$', data):
-            print(f"Invalid Base64 characters detected in data: {data}")
+            #print(f"Invalid Base64 characters detected in data: {data}")
             return None
         
         decoded_bytes = base64.b64decode(data, validate=True)
@@ -334,8 +334,8 @@ def extract_and_test_vmess_data(input_file, temp_file):
         }
 
         # Print extracted data for verification
-        print("Extracted Data:")
-        print(json.dumps(vmess_data, indent=2))
+      #  print("Extracted Data:")
+       # print(json.dumps(vmess_data, indent=2))
 
         # Write the extracted data to a temporary file for review
         with open(temp_file, 'a', encoding='utf-8') as file:
