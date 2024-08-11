@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%87%AA%F0%9F%87%B8%7CES%7C%E8%A5%BF%E7%8F%AD%E7%89%99%7C%40wxgqlfx%7C305
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.217:2053?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C%E6%B3%95%E5%9B%BD%7C%40wxgqlfx%7C306
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.45:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%87%AC%F0%9F%87%A7%7CGB%7C%E8%8B%B1%E5%9B%BD%7C%40wxgqlfx%7C307
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.25:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%87%A8%F0%9F%87%A6%7CCA%7C%E5%8A%A0%E6%8B%BF%E5%A4%A7%7C%40wxgqlfx%7C308
@@ -602,4 +603,3 @@ trojan://M3lOal9RPR@146.56.171.71:30056/?type=tcp&security=tls&sni=kkr100515a.go
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.114.114.69:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7046
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7597
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6929
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.10:4444#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.10-0588

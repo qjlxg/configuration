@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJhZGQiOiIxNTQuOTIuOS4yMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0IjoiODAiLCJwcyI6IvCfj4FSRUxBWS0xNTQuOTIuOS4yMTQtODk5NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxNTQuOTIuOS4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0IjoiODAiLCJwcyI6IvCfj4FSRUxBWS0xNTQuOTIuOS4yMTItODk5NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxNTQuOTIuOS4xODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0IjoiODAiLCJwcyI6IvCfj4FSRUxBWS0xNTQuOTIuOS4xODYtOTAwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxNTQuOTIuOS4xNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGQ0MWI1Y2ItYjcyZS00YThjLWM3NWEtM2VjYzkyOGQ2ZWIzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JsdWUiLCJwb3J0IjoiODAiLCJwcyI6IvCfj4FSRUxBWS0xNTQuOTIuOS4xNzctOTAwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
@@ -601,5 +602,4 @@ vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80?encryption=none&secur
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80?encryption=none&security=none&type=ws&host=cx32.ntr.biz.id&path=%2F%3Fed%3D2048#🇧🇪BE-CX32-GlobalInternetSolutions-P80
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80?encryption=none&security=none&type=ws&host=cx21.ntr.biz.id&path=%2F%3Fed%3D2048#🇸🇬SG-CX21-HostHatch-P80
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80?encryption=none&security=none&type=ws&host=cx31.ntr.biz.id&path=%2F%3Fed%3D2048#🇩🇰DK-CX31-M247-P80
-trojan://telegram-id-privatevpns@18.199.16.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.69.134.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.180.8.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
