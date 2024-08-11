@@ -44,6 +44,18 @@ jobs:
     - name: Run the script to get the actual subscribtion link of vmess port 80
       run: cd scripts && python try.py
 
+    - name: Run the script to test for all working vmess
+      run: cd scripts && python working.py
+
+    - name: Run the script to remove duplicate vmess
+      run: cd scripts && python reducer.py
+
+    - name: Run the script to get the actual subscribtion link of vmess port 80
+      run: cd scripts && python create_subscription_link.py
+
+    - name: Run the script to retest the vmess and remove non working ones
+      run: cd scripts && python retest.py
+
     - name: Check changes
       run: |
         echo "Checking the changes made..."
