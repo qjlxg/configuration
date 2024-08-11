@@ -8096,28 +8096,27 @@
     },
     {
         "v": "2",
-        "add": "104.17.197.31",
-        "port": "443",
-        "id": "441da342-ce90-441e-bff9-d2ceb55e68ca",
+        "add": "104.16.60.8",
+        "port": "2086",
+        "id": "76221bfb-e92f-4e80-81c5-6fe48f50ac0b",
         "aid": 0,
         "scy": "auto",
         "net": "ws",
-        "host": "quiet-moon-132a.xetag42714.workers.dev",
-        "path": "/ivideos.sbs/linkws",
-        "tls": "tls",
-        "sni": "quiet-moon-132a.xetag42714.workers.dev",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DeamNet_Proxy | 5"
+        "host": "1c11-muddy-rice-1c11.vetanex501.workers.dev",
+        "path": "/glweidf.sbs/linkws",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DeamNet_Proxy | 2"
     },
     {
         "v": "2",
-        "add": "154.47.21.52",
-        "port": "8099",
-        "id": "fa1897db-1925-4c86-a495-939a959af900",
+        "add": "104.16.67.38",
+        "port": "80",
+        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
         "aid": 0,
         "scy": "auto",
-        "net": "tcp",
-        "type": "none",
-        "ps": "\ud83c\uddf3\ud83c\uddf1NL | \ud83d\udfe2 | vmess | @DeamNet_Proxy | 10"
+        "net": "ws",
+        "host": "us3e-mmnnfr9dop0.v2freevpn.com",
+        "path": "/v118-fccxmxm35",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DeamNet_Proxy | 7"
     },
     {
         "add": "sin.raspberryip.com",
