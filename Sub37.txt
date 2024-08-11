@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://ewogICAgImFkZCI6ICI2OC4xODMuMTI5LjE5NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjY4LjE4My4xMjkuMTk3IiwKICAgICJpZCI6ICIxNTdhYjI0Yy0yZjAyLTQ0ZDItYjIxMS02ZDcwNjEyYzlmNjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvY2N0djEzL2hkLm0zdTgiLAogICAgInBvcnQiOiA4MDgwLAogICAgInBzIjogIvCfh7rwn4e4VVMtNjguMTgzLjEyOS4xOTctMDE3MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxNTkuMjIzLjMyLjIzMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjE1OS4yMjMuMzIuMjMwIiwKICAgICJpZCI6ICI3MDAyMzMwZC1mZTI3LTRiNTYtYjIyZi1kN2UzZWI4MjVmZGIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvY2N0djEzL2hkLm0zdTgiLAogICAgInBvcnQiOiA4MDgwLAogICAgInBzIjogIvCfh7jwn4esU0ctMTU5LjIyMy4zMi4yMzAtMDE2OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxOTIuOTYuMjA0LjI1MCIsCiAgICAiYWlkIjogNCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTkyLjk2LjIwNC4yNTAtMDE2OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxMzkuMTYyLjExNy4xNzMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9jaGF0IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTM5LjE2Mi4xMTcuMTczLTEzNDAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-1341
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.113.248-1342
@@ -600,6 +603,3 @@ trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:48434?security=t
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@uns.xiaohouzi.club:13328?security=tls&sni=siga01.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.143-2591
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:17115?security=tls&sni=$$hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.138-2592
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19362?security=tls&sni=aws-hk03.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.143-2593
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:47555?security=tls&sni=$$$au02.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.138-2594
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:51054?security=tls&sni=hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.138-2595
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:61005?security=tls&sni=$$aru05.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-172.234.222.143-2596
