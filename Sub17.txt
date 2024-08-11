@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.60.173:8880?path=/f6QE1QHz0sEFAUIO/MjAyLjYxLjE5My4yNDg&security=none&encryption=none&host=bpb.KmEVPs.iR&type=ws#🚩CF | 🔴 | vless | @v2ray1_ng | 6
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?path=/?ed=2048&security=tls&encryption=none&host=ios-azadnet.pages.dev&type=ws&sni=ios-azadnet.pages.dev#🚩CF | 🔴 | vless | @v2ray1_ng | 9
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?path=/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @v2ray1_ng | 12
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🚩CF | 🔴 | vless | @MTConfig | 0
-vless://6e94bfa2-e3e2-443d-ad69-d6fcfcaf14f2@185.146.173.37:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @MTConfig | 1
-vless://0a4acf58-cc3c-4f99-89c1-70d7ca3fbd92@all.vipxali.cfd:443?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=mx.XsV2ray.cfd#🇺🇸US | 🔴 | vless | @MTConfig | 2
 vless://XsV2ray---XsV2ray---XsV2ray@all.vipxali.cfd:2095?path=/XsV2ray,@XsV2ray,@XsV2ray?ed=2048&security=none&encryption=none&host=xali.mmxvip.cfd&type=ws#🇺🇸US | 🔴 | vless | @MTConfig | 3
 vless://74c2c452-9cb4-4c97-be11-2cfef6a8e635@all.vipxali.cfd:443?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=mx.XsV2ray.cfd#🇺🇸US | 🔴 | vless | @MTConfig | 4
 vless://9f3d6a0a-492c-47dc-b2c5-6889eabeb940@vip.alonext.com:443?type=grpc&serviceName=@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=vip.alonext.com#❔XX | 🔴 | vless | @MTConfig | 5
@@ -603,3 +597,9 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.97:8119#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6562
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7682
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.113-0630
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.19:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-6280
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.113:8008#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.113-0561
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7430
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8118#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.113-0626
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7195
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.114.69:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6761

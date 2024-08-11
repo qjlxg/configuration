@@ -817,9 +817,6 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2ray1_ng | 4"
     },
     {
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @DailyV2RY | 306"
-    },
-    {
         "add": "104.21.51.208",
         "aid": "0",
         "alpn": "",
@@ -834,7 +831,10 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 325"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 306"
+    },
+    {
+        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @DailyV2RY | 321"
     },
     {
         "add": "185.146.173.92",
