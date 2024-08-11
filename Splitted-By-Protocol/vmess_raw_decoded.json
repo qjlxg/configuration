@@ -1099,22 +1099,6 @@
         "v": "2"
     },
     {
-        "v": "2",
-        "add": "104.19.51.232",
-        "port": "2086",
-        "id": "29eebb60-b27b-4a9d-bba5-947763d9205e",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "ip005.dtku47.xyz",
-        "path": "github.com/Alvin9999",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "ps": "\ud83d\udc95 @v2ray_configs_pool \ud83d\udc95"
-    },
-    {
         "add": "162.159.129.129",
         "aid": "0",
         "alpn": "",
