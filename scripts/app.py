@@ -1,6 +1,9 @@
 #app.py
 
 import os,re,json,base64,binascii,requests,pybase64
+import queue
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from bs4 import BeautifulSoup
 
@@ -136,7 +139,85 @@ def format_vmess_links(input_file, formatted_file):
     # Write the formatted content to the output file
     with open(formatted_file, 'w', encoding='UTF-8') as file:
         file.write(formatted_content)
+# File paths
+base_path = '../'
 
+def load_vmess_data(file_path):
+    """Load VMess data from a JSON file."""
+    try:
+        with open(file_path, 'r') as file:
+            return json.load(file)
+    except (IOError, json.JSONDecodeError) as e:
+        print(f"Error loading VMess data from file {file_path}: {e}")
+        return []
+
+def is_valid_vmess(vmess_data):
+    """Check if a VMess link is valid by making an HTTP request."""
+    # Remove any leading or trailing whitespace from port
+    port = vmess_data.get('port', '').strip()
+    
+    if not port:
+        print(f"Missing or invalid port in VMess data: {vmess_data}")
+        return False
+    
+    # Construct the URL for testing the VMess link
+    url = f"http://{vmess_data.get('add', '')}:{port}/"
+    
+    # Print the URL being tested for debugging
+    print(f"Testing URL: {url}")
+    
+    try:
+        # Send a request to the URL
+        response = requests.get(url, timeout=30)
+        # Check if the response is successful (status code 200)
+        return response.status_code == 200
+    except requests.RequestException as e:
+        print(f"Request failed for {url}: {e}")
+        return False
+
+def encode_base64_a(vmess_data):
+    """Encode VMess data in Base64."""
+    try:
+        # Convert the dictionary to a JSON string
+        json_str = json.dumps(vmess_data, separators=(',', ':'))
+        # Encode the JSON string in Base64
+        return base64.b64encode(json_str.encode()).decode()
+    except (TypeError, ValueError) as e:
+        print(f"Error encoding VMess data to Base64: {e}")
+        return None
+
+def process_chunk(chunk, result_queue):
+    """Process a chunk of VMess data and put valid results into a queue."""
+    print(f"Processing chunk with {len(chunk)} items")
+    for vmess_data in chunk:
+        try:
+            if is_valid_vmess(vmess_data):
+                encoded_data = encode_base64_a(vmess_data)
+                if encoded_data:
+                    result_queue.put(f"vmess://{encoded_data}")
+                else:
+                    print(f"Failed to encode VMess data: {vmess_data}")
+            else:
+                print("Invalid VMess link:", vmess_data)
+        except Exception as e:
+            print(f"Error processing VMess data {vmess_data}: {e}")
+
+def write_results(result_queue, file_path):
+    """Write results from the queue to the output file."""
+    print(f"File writer thread started for {file_path}")
+    try:
+        with open(file_path, 'a') as file:
+            while True:
+                result = result_queue.get()
+                if result is None:
+                    break
+                try:
+                    file.write(result + '\n')
+                    print(f"Written result to file: {result}")
+                except IOError as e:
+                    print(f"Error writing result to file: {e}")
+    except IOError as e:
+        print(f"Error opening file {file_path} for writing: {e}")
 
 def extract_links(input_file, vmess_file, vless_file):
     # Initialize lists to store vmess and vless links
@@ -224,7 +305,7 @@ def decode_base64_vmess(data):
         
         # Validate Base64 characters
         if not re.match(r'^[A-Za-z0-9+/=]+$', data):
-            #print(f"Invalid Base64 characters detected in data: {data}")
+            print(f"Invalid Base64 characters detected in data: {data}")
             return None
         
         decoded_bytes = base64.b64decode(data, validate=True)
@@ -266,12 +347,12 @@ def update_hosts(input_file, output_file, new_host):
 
     # Update the 'host' field for each entry
     for entry in data:
-        if 'host' in entry:
+        if 'host' in entry and entry.get('net') == 'ws' and entry.get('port') == '80':
             entry['host'] = new_host
 
-    # Write the updated data to the output file
-    with open(output_file, 'w', encoding='utf-8') as file:
-        json.dump(data, file, indent=4)
+        # Write the updated data to the output file
+        with open(output_file, 'w', encoding='utf-8') as file:
+            json.dump(data, file, indent=4)
 
 def convert_vmess_links(input_file, output_file):
     # Initialize a list to store JSON data
@@ -334,8 +415,8 @@ def extract_and_test_vmess_data(input_file, temp_file):
         }
 
         # Print extracted data for verification
-      #  print("Extracted Data:")
-       # print(json.dumps(vmess_data, indent=2))
+        print("Extracted Data:")
+        print(json.dumps(vmess_data, indent=2))
 
         # Write the extracted data to a temporary file for review
         with open(temp_file, 'a', encoding='utf-8') as file:
@@ -592,7 +673,7 @@ def main():
 
     # Define file paths
     input_file = '../vmess.txt'       # Change this to your original vmess.txt file path
-   # formatted_file = '../vmess_formatted.txt'  # Path to save the formatted file
+    formatted_file = '../vmess_formatted.txt'  # Path to save the formatted file
 
     # Format the vmess links
     format_vmess_links(input_file, formatted_file)
@@ -606,37 +687,82 @@ def main():
 
 
     # Define file paths and new host
-    input_file2 = '../vmess_format.json'  # Change this to your input JSON file path
-    output_file2 = '../vmess_updated.json'  # Path to save the updated JSON file
-    new_host = '91.341.94.160'  # New host to set
+ #   input_file2 = '../vmess_format.json'  # Change this to your input JSON file path
+ #   output_file2 = '../vmess_updated.json'  # Path to save the updated JSON file
+ #   new_host = '91.341.94.160'  # New host to set
 
     # Update hosts in the JSON file
-    update_hosts(input_file2, output_file2, new_host)
+  #  update_hosts(input_file2, output_file2, new_host)
 
+    input_file = os.path.join(base_path, 'vmess_updated.json')
+    output_file = os.path.join(base_path, 'vmess_working.txt')
+    
+    # Ensure output file is empty before starting
+    try:
+        open(output_file, 'w').close()
+    except IOError as e:
+        print(f"Error opening file {output_file} for writing: {e}")
+        return
 
+    vmess_list = load_vmess_data(input_file)
+    
+    # Check if the input file is loaded correctly
+    if not vmess_list:
+        print("No VMess data found in the input file.")
+        return
+
+    # Create a thread-safe queue for results
+    result_queue = queue.Queue()
+
+    # Define the number of threads
+    num_threads = 500
+
+    # Split the list into chunks for each thread
+    chunk_size = max(1, len(vmess_list) // num_threads)
+    chunks = [vmess_list[i:i + chunk_size] for i in range(0, len(vmess_list), chunk_size)]
+    
+    # Start the file writer thread
+    file_writer_thread = threading.Thread(target=write_results, args=(result_queue, output_file))
+    file_writer_thread.start()
+
+    with ThreadPoolExecutor(max_workers=num_threads) as executor:
+        # Submit each chunk to a separate thread
+        futures = [executor.submit(process_chunk, chunk, result_queue) for chunk in chunks]
+        
+        # Wait for all threads to complete
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                print(f"Thread encountered an error: {e}")
+
+    # Signal the file writer thread to stop
+    result_queue.put(None)
+    file_writer_thread.join()
+    print("All threads have completed and file writing is done.")
 
     # Input and output file paths
     input_file = '../vless.txt'  # Replace with your input file path
     output_file = '../vless_modified.txt'  # Replace with your output file path
 
-    #update_host_in_vless_config(input_file, output_file)
+    update_host_in_vless_config(input_file, output_file)
 
     # Input and output file paths
-    input_file = '../vmess_updated.json'  # Replace with your input file path
-    temp_file = '../vmess_temp.txt'  # Temporary file to check the extracted data
-    output_file = '../vmess_links.txt'  # Final output file for valid VMess links
+  #  input_file = '../vmess_updated.json'  # Replace with your input file path
+ #   temp_file = '../vmess_temp.txt'  # Temporary file to check the extracted data
+#    output_file = '../vmess_links.txt'  # Final output file for valid VMess links
 
     # Extract data and write to temporary file for verification
-    vmess_data_list = extract_and_test_vmess_data(input_file, temp_file)
+ #   vmess_data_list = extract_and_test_vmess_data(input_file, temp_file)
 
     # Convert the valid VMess data to links and save to the final file
-    convert_to_vmess_links(vmess_data_list, output_file)
+ #   convert_to_vmess_links(vmess_data_list, output_file)
 
-    vmess_file = '../vmess_links.txt'  # Path to the VMess file
-   # vless_file = '../vless_modified.txt'  # Path to the VLess file
+    vmess_file = '../vmess_working.txt'  # Path to the VMess file
+    vless_file = '../vless_modified.txt'  # Path to the VLess file
     final_file = '../finalwork.txt'  # Path to the final output file
 
-    files_to_append = [vmess_file] #, vless_file]
+    files_to_append = [vmess_file, vless_file]
     append_files(files_to_append, final_file)
 
 
