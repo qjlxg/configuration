@@ -15,13 +15,15 @@ TIMEOUT = 20  # seconds
 # Base64 decoding function
 def decode_base64(encoded):
     decoded = ""
-    for encoding in ["UTF-8", "iso-8859-1"]:
-        try:
-            decoded = pybase64.b64decode(encoded + b"=" * (-len(encoded) % 4)).decode(encoding)
-            
-            break
-        except (UnicodeDecodeError, binascii.Error):
-            pass
+    try:
+        for encoding in ["UTF-8", "iso-8859-1"]:
+            try:
+                decoded = pybase64.b64decode(encoded + b"=" * (-len(encoded) % 4)).decode(encoding)
+                break
+            except (UnicodeDecodeError, binascii.Error):
+                pass
+    except Exception as e:
+        print(f"An unexpected error occurred in decode_base64: {e}")
     return decoded
 
 # Function to decode base64-encoded links with a timeout
@@ -29,12 +31,18 @@ def decode_links(links):
     decoded_data = []
     for link in links:
         try:
-            response = requests.get(link, timeout=TIMEOUT)
-            encoded_bytes = response.content
-            decoded_text = decode_base64(encoded_bytes)
-            decoded_data.append(decoded_text)
-        except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+            try:
+                response = requests.get(link, timeout=TIMEOUT)
+                response.raise_for_status()  # Ensure we catch HTTP errors
+                encoded_bytes = response.content
+                decoded_text = decode_base64(encoded_bytes)
+                decoded_data.append(decoded_text)
+            except requests.RequestException as e:
+                print(f"Request error for {link}: {e}")
+            except Exception as e:
+                print(f"An unexpected error occurred while decoding link {link}: {e}")
+        except Exception as e:
+            print(f"An unexpected error occurred in decode_links: {e}")
     return decoded_data
 
 # Function to decode directory links with a timeout
@@ -42,19 +50,33 @@ def decode_dir_links(dir_links):
     decoded_dir_links = []
     for link in dir_links:
         try:
-            response = requests.get(link, timeout=TIMEOUT)
-            decoded_text = response.text
-            decoded_dir_links.append(decoded_text)
-        except requests.RequestException:
-            pass  # If the request fails or times out, skip it
+            try:
+                response = requests.get(link, timeout=TIMEOUT)
+                response.raise_for_status()  # Ensure we catch HTTP errors
+                decoded_text = response.text
+                decoded_dir_links.append(decoded_text)
+            except requests.RequestException as e:
+                print(f"Request error for {link}: {e}")
+            except Exception as e:
+                print(f"An unexpected error occurred while decoding directory link {link}: {e}")
+        except Exception as e:
+            print(f"An unexpected error occurred in decode_dir_links: {e}")
     return decoded_dir_links
+
+
 
 # Filter function to select lines based on specified protocols
 def filter_for_protocols(data, protocols):
     filtered_data = []
-    for line in data:
-        if any(protocol in line for protocol in protocols):
-            filtered_data.append(line)
+    try:
+        for line in data:
+            try:
+                if any(protocol in line for protocol in protocols):
+                    filtered_data.append(line)
+            except Exception as e:
+                print(f"An unexpected error occurred while filtering line: {line}. Error: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred in filter_for_protocols: {e}")
     return filtered_data
 
 # Create necessary directories if they don't exist
@@ -62,83 +84,125 @@ def ensure_directories_exist():
     output_folder = os.path.abspath(os.path.join(os.getcwd(), ".."))
     base64_folder = os.path.join(output_folder, "Base64")
 
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-    if not os.path.exists(base64_folder):
-        os.makedirs(base64_folder)
+    try:
+        if not os.path.exists(output_folder):
+            os.makedirs(output_folder)
+        if not os.path.exists(base64_folder):
+            os.makedirs(base64_folder)
+    except OSError as e:
+        print(f"Error creating directories: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred in ensure_directories_exist: {e}")
 
     return output_folder, base64_folder
 
 def read_file(file_path):
     """Read the content of a file."""
-    with open(file_path, 'r',encoding='UTF-8') as file:
-        return file.readlines()
+    try:
+        with open(file_path, 'r', encoding='UTF-8') as file:
+            return file.readlines()
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+    except IOError as e:
+        print(f"IO error occurred while reading file {file_path}: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred while reading file {file_path}: {e}")
+    return []
 
 def write_file(file_path, lines):
     """Write lines to a file."""
-    with open(file_path, 'w',encoding='UTF-8') as file:
-        file.writelines(lines)
+    try:
+        with open(file_path, 'w', encoding='UTF-8') as file:
+            file.writelines(lines)
+    except IOError as e:
+        print(f"IO error occurred while writing to file {file_path}: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred while writing to file {file_path}: {e}")
+
+
 
 def get_v2ray_links(url):
-    response = requests.get(url)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        divs = soup.find_all('div', class_='tgme_widget_message_text')
-        divs2 = soup.find_all('div', class_='tgme_widget_message_text js-message_text before_footer')
-        spans = soup.find_all('span', class_='tgme_widget_message_text')
-        codes = soup.find_all('code')
-        span = soup.find_all('span')
-        main = soup.find_all('div')
-        
-        all_tags = divs + spans + codes + divs2 + span + main
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Ensure we catch HTTP errors
+        if response.status_code == 200:
+            try:
+                soup = BeautifulSoup(response.content, 'html.parser')
+                
+                divs = soup.find_all('div', class_='tgme_widget_message_text')
+                divs2 = soup.find_all('div', class_='tgme_widget_message_text js-message_text before_footer')
+                spans = soup.find_all('span', class_='tgme_widget_message_text')
+                codes = soup.find_all('code')
+                span = soup.find_all('span')
+                main = soup.find_all('div')
+                
+                all_tags = divs + spans + codes + divs2 + span + main
 
-        v2ray_configs = []
-        for tag in all_tags:
-            text = tag.get_text()
-            if text.startswith('vless://') or text.startswith('vmess://') :
-                v2ray_configs.append(text)
+                v2ray_configs = []
+                for tag in all_tags:
+                    text = tag.get_text()
+                    if text.startswith('vless://') or text.startswith('vmess://'):
+                        v2ray_configs.append(text)
 
-        return v2ray_configs
-    else:
-        print(f"Failed to fetch URL (Status Code: {response.status_code})")
+                return v2ray_configs
+            except Exception as e:
+                print(f"Error parsing HTML content: {e}")
+                return None
+        else:
+            print(f"Failed to fetch URL (Status Code: {response.status_code})")
+            return None
+    except requests.RequestException as e:
+        print(f"Request error: {e}")
         return None
 
 def overwrite_input_file_with_filtered(input_file, filtered_file):
     """Overwrite the input file with the content of the filtered file."""
     try:
         filtered_lines = read_file(filtered_file)
-        write_file(input_file, filtered_lines)
-        print(f'Content of {input_file} has been replaced with filtered links.')
+        if filtered_lines is not None:
+            write_file(input_file, filtered_lines)
+            print(f'Content of {input_file} has been replaced with filtered links.')
+        else:
+            print(f"No content found in the filtered file: {filtered_file}")
     except Exception as e:
         print(f"Error in overwrite_input_file_with_filtered: {e}")
 
 def format_vmess_links(input_file, formatted_file):
-    with open(input_file, 'r', encoding='UTF-8') as file:
-        content = file.read()
+    try:
+        with open(input_file, 'r', encoding='UTF-8') as file:
+            content = file.read()
 
-    # Remove backticks and unwanted characters
-    content = content.replace('`', '')  # Remove backticks
-    content = content.replace('<br/>===', '')  # Remove specific unwanted characters
-    
-    # Split and format vmess links
-    parts = content.split('vless://')
-    formatted_content = '\n'.join('vless://' + part.strip() for part in parts if part.strip())
-    
-    # Split and format trojan links
-    parts = formatted_content.split('trojan://')
-    formatted_content = '\n'.join('trojan://' + part.strip() for part in parts if part.strip())
-    
-    # Split and format ss links
-    parts = formatted_content.split('vmess://')
-    formatted_content = '\n'.join('vmess://' + part.strip() for part in parts if part.strip())
+        # Remove backticks and unwanted characters
+        content = content.replace('`', '')  # Remove backticks
+        content = content.replace('<br/>===', '')  # Remove specific unwanted characters
+        
+        # Split and format vmess links
+        parts = content.split('vless://')
+        formatted_content = '\n'.join('vless://' + part.strip() for part in parts if part.strip())
+        
+        # Split and format trojan links
+        parts = formatted_content.split('trojan://')
+        formatted_content = '\n'.join('trojan://' + part.strip() for part in parts if part.strip())
+        
         # Split and format ss links
-    parts = formatted_content.split('==')
-    formatted_content = '\n'.join(part.strip() for part in parts if part.strip())
-    
-    # Write the formatted content to the output file
-    with open(formatted_file, 'w', encoding='UTF-8') as file:
-        file.write(formatted_content)
+        parts = formatted_content.split('vmess://')
+        formatted_content = '\n'.join('vmess://' + part.strip() for part in parts if part.strip())
+        
+        # Split and format ss links
+        parts = formatted_content.split('==')
+        formatted_content = '\n'.join(part.strip() for part in parts if part.strip())
+        
+        # Write the formatted content to the output file
+        with open(formatted_file, 'w', encoding='UTF-8') as file:
+            file.write(formatted_content)
+
+    except FileNotFoundError:
+        print(f"File not found: {input_file}")
+    except IOError as e:
+        print(f"IO error occurred: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred in format_vmess_links: {e}")
+
 # File paths
 base_path = '../'
 
@@ -150,29 +214,36 @@ def load_vmess_data(file_path):
     except (IOError, json.JSONDecodeError) as e:
         print(f"Error loading VMess data from file {file_path}: {e}")
         return []
+    except Exception as e:
+        print(f"An unexpected error occurred while loading VMess data: {e}")
+        return []
 
 def is_valid_vmess(vmess_data):
     """Check if a VMess link is valid by making an HTTP request."""
-    # Remove any leading or trailing whitespace from port
-    port = vmess_data.get('port', '').strip()
-    
-    if not port:
-        print(f"Missing or invalid port in VMess data: {vmess_data}")
-        return False
-    
-    # Construct the URL for testing the VMess link
-    url = f"http://{vmess_data.get('add', '')}:{port}/"
-    
-    # Print the URL being tested for debugging
-    print(f"Testing URL: {url}")
-    
     try:
+        # Remove any leading or trailing whitespace from port
+        port = vmess_data.get('port', '').strip()
+        
+        if not port:
+            print(f"Missing or invalid port in VMess data: {vmess_data}")
+            return False
+        
+        # Construct the URL for testing the VMess link
+        url = f"http://{vmess_data.get('add', '')}:{port}/"
+        
+        # Print the URL being tested for debugging
+        print(f"Testing URL: {url}")
+        
         # Send a request to the URL
-        response = requests.get(url, timeout=30)
-        # Check if the response is successful (status code 200)
-        return response.status_code == 200
-    except requests.RequestException as e:
-        print(f"Request failed for {url}: {e}")
+        try:
+            response = requests.get(url, timeout=30)
+            # Check if the response is successful (status code 200)
+            return response.status_code == 200
+        except requests.RequestException as e:
+            print(f"Request failed for {url}: {e}")
+            return False
+    except Exception as e:
+        print(f"An unexpected error occurred in is_valid_vmess: {e}")
         return False
 
 def encode_base64_a(vmess_data):
@@ -181,9 +252,13 @@ def encode_base64_a(vmess_data):
         # Convert the dictionary to a JSON string
         json_str = json.dumps(vmess_data, separators=(',', ':'))
         # Encode the JSON string in Base64
-        return base64.b64encode(json_str.encode()).decode()
+        try:
+            return base64.b64encode(json_str.encode()).decode()
+        except (TypeError, ValueError) as e:
+            print(f"Error encoding JSON string to Base64: {e}")
+            return None
     except (TypeError, ValueError) as e:
-        print(f"Error encoding VMess data to Base64: {e}")
+        print(f"Error encoding VMess data to JSON or Base64: {e}")
         return None
 
 def process_chunk(chunk, result_queue):
@@ -192,11 +267,14 @@ def process_chunk(chunk, result_queue):
     for vmess_data in chunk:
         try:
             if is_valid_vmess(vmess_data):
-                encoded_data = encode_base64_a(vmess_data)
-                if encoded_data:
-                    result_queue.put(f"vmess://{encoded_data}")
-                else:
-                    print(f"Failed to encode VMess data: {vmess_data}")
+                try:
+                    encoded_data = encode_base64_a(vmess_data)
+                    if encoded_data:
+                        result_queue.put(f"vmess://{encoded_data}")
+                    else:
+                        print(f"Failed to encode VMess data: {vmess_data}")
+                except Exception as e:
+                    print(f"Error encoding VMess data {vmess_data}: {e}")
             else:
                 print("Invalid VMess link:", vmess_data)
         except Exception as e:
@@ -208,92 +286,114 @@ def write_results(result_queue, file_path):
     try:
         with open(file_path, 'a') as file:
             while True:
-                result = result_queue.get()
-                if result is None:
-                    break
                 try:
-                    file.write(result + '\n')
-                    print(f"Written result to file: {result}")
-                except IOError as e:
-                    print(f"Error writing result to file: {e}")
+                    result = result_queue.get()
+                    if result is None:
+                        break
+                    try:
+                        file.write(result + '\n')
+                        print(f"Written result to file: {result}")
+                    except IOError as e:
+                        print(f"Error writing result to file: {e}")
+                except Exception as e:
+                    print(f"Error getting result from queue: {e}")
     except IOError as e:
         print(f"Error opening file {file_path} for writing: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred in write_results: {e}")
+
 
 def extract_links(input_file, vmess_file, vless_file):
+    """Extract VMess and VLESS links from an input file and write them to separate files."""
     # Initialize lists to store vmess and vless links
     vmess_links = []
     vless_links = []
 
-    # Read the links from the input file
-    with open(input_file, 'r', encoding='utf-8') as file:
-        links = file.readlines()
+    try:
+        # Read the links from the input file
+        with open(input_file, 'r', encoding='utf-8') as file:
+            links = file.readlines()
 
-    # Process each link
-    for link in links:
-        link = link.strip()
-        if link.startswith('vmess://'):
-            vmess_links.append(link + '\n')
-        elif link.startswith('vless://'):
-            vless_links.append(link + '\n')
+        # Process each link
+        for link in links:
+            link = link.strip()
+            if link.startswith('vmess://'):
+                vmess_links.append(link + '\n')
+            elif link.startswith('vless://'):
+                vless_links.append(link + '\n')
 
-    # Write the vmess links to the vmess_file
-    with open(vmess_file, 'w', encoding='utf-8') as file:
-        file.writelines(vmess_links)
+        # Write the vmess links to the vmess_file
+        with open(vmess_file, 'w', encoding='utf-8') as file:
+            file.writelines(vmess_links)
 
-    # Write the vless links to the vless_file
-    with open(vless_file, 'w', encoding='utf-8') as file:
-        file.writelines(vless_links)
+        # Write the vless links to the vless_file
+        with open(vless_file, 'w', encoding='utf-8') as file:
+            file.writelines(vless_links)
+
+    except IOError as e:
+        print(f"IO error occurred: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred in extract_links: {e}")
 
 def update_host_in_vless_config(input_file, output_file):
+    """Update the host in VLESS configurations and save the result to an output file."""
     # Define the new host value
     new_host = "91.241.94.160"
     
-    # Read the content of the input file
-    with open(input_file, 'r', encoding='utf-8') as file:
-        vless_configurations = file.readlines()
+    try:
+        # Read the content of the input file
+        with open(input_file, 'r', encoding='utf-8') as file:
+            vless_configurations = file.readlines()
 
-    updated_configs = []
-    
-    # Regular expression to match VLESS URL components
-    vless_regex = re.compile(r'vless://([^@]+)@([^:/\s]+):(\d+)(\?[^#]*)?(#.*)?')
-    
-    for config in vless_configurations:
-        config = config.strip()  # Remove any extra newlines or spaces
+        updated_configs = []
+
+        # Regular expression to match VLESS URL components
+        vless_regex = re.compile(r'vless://([^@]+)@([^:/\s]+):(\d+)(\?[^#]*)?(#.*)?')
         
-        # Check if the configuration matches the VLESS pattern
-        match = vless_regex.match(config)
-        if match:
-            id_part = match.group(1)  # Extract ID part before '@'
-            host_ip = match.group(2)  # Extract host IP
-            port = match.group(3)  # Extract port
-            params = match.group(4) or ''  # Extract parameters
-            fragment = match.group(5) or ''  # Extract fragment
+        for config in vless_configurations:
+            config = config.strip()  # Remove any extra newlines or spaces
             
-            # Parse parameters
-            params_dict = dict(re.findall(r'([^&=]+)=([^&]*)', params))
-            net = params_dict.get('type')
-            existing_host = params_dict.get('host')
-
-            if net == 'ws' and port == '80':
-                # Update or add the host value
-                params_dict['host'] = new_host
+            # Check if the configuration matches the VLESS pattern
+            match = vless_regex.match(config)
+            if match:
+                id_part = match.group(1)  # Extract ID part before '@'
+                host_ip = match.group(2)  # Extract host IP
+                port = match.group(3)  # Extract port
+                params = match.group(4) or ''  # Extract parameters
+                fragment = match.group(5) or ''  # Extract fragment
                 
-                # Reconstruct the parameters
-                new_params = '&'.join(f'{k}={v}' for k, v in params_dict.items())
-                updated_config = f'vless://{id_part}@{host_ip}:{port}?{new_params}{fragment}'
-                updated_configs.append(updated_config)
-            else:
-                #updated_configs.append(config)
-                pass
-        else:
-           # updated_configs.append(config)
-           pass
-    
-    # Write the updated configurations to the output file
-    with open(output_file, 'w', encoding='utf-8') as file:
-        file.write('\n'.join(updated_configs) + '\n')
+                # Parse parameters
+                params_dict = dict(re.findall(r'([^&=]+)=([^&]*)', params))
+                net = params_dict.get('type')
+                existing_host = params_dict.get('host')
 
-    print(f"Updated VLESS configurations have been saved to {output_file}")
+                if net == 'ws' and port == '80':
+                    # Update or add the host value
+                    params_dict['host'] = new_host
+                    
+                    # Reconstruct the parameters
+                    new_params = '&'.join(f'{k}={v}' for k, v in params_dict.items())
+                    updated_config = f'vless://{id_part}@{host_ip}:{port}?{new_params}{fragment}'
+                    updated_configs.append(updated_config)
+                else:
+                    # Do not update if conditions are not met
+                    pass
+            else:
+                # Do not update if configuration does not match
+                pass
+        
+        # Write the updated configurations to the output file
+        with open(output_file, 'w', encoding='utf-8') as file:
+            file.write('\n'.join(updated_configs) + '\n')
+
+        print(f"Updated VLESS configurations have been saved to {output_file}")
+
+    except IOError as e:
+        print(f"IO error occurred: {e}")
+    except re.error as e:
+        print(f"Regex error occurred: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred in update_host_in_vless_config: {e}")
 
 def decode_base64_vmess(data):
     """Decode Base64 encoding with padding adjustment and validation."""
@@ -314,55 +414,76 @@ def decode_base64_vmess(data):
         print(f"Error decoding Base64 data: {e}")
         print(f"Base64 data: {data}")
         return None
+    except Exception as e:
+        print(f"An unexpected error occurred in decode_base64_vmess: {e}")
+        return None
 
 def format_vmess_links(input_file, formatted_file):
-    with open(input_file, 'r', encoding='utf-8') as file:
-        content = file.read()
+    """Format VMess links from an input file and write the formatted links to an output file."""
+    try:
+        with open(input_file, 'r', encoding='utf-8') as file:
+            content = file.read()
 
-    # Remove backticks and unwanted characters
-    content = content.replace('`', '')  # Remove backticks
-    content = content.replace('<br/>===', '')  # Remove specific unwanted characters
-    
-    # Split and format vmess links
-    parts = content.split('vmess://')
-    formatted_content = '\n'.join('vmess://' + part.strip() for part in parts if part.strip())
-    
-    # Split and format trojan links
-    parts = formatted_content.split('trojan://')
-    formatted_content = '\n'.join('trojan://' + part.strip() for part in parts if part.strip())
-    
-    # Split and format ss links
-    parts = formatted_content.split('vless://')
-    formatted_content = '\n'.join('vless://' + part.strip() for part in parts if part.strip())
-    
-    # Write the formatted content to the output file
-    with open(formatted_file, 'w', encoding='utf-8') as file:
-        file.write(formatted_content)
+        # Remove backticks and unwanted characters
+        content = content.replace('`', '')  # Remove backticks
+        content = content.replace('<br/>===', '')  # Remove specific unwanted characters
+        
+        # Split and format vmess links
+        parts = content.split('vmess://')
+        formatted_content = '\n'.join('vmess://' + part.strip() for part in parts if part.strip())
+        
+        # Split and format trojan links
+        parts = formatted_content.split('trojan://')
+        formatted_content = '\n'.join('trojan://' + part.strip() for part in parts if part.strip())
+        
+        # Split and format ss links
+        parts = formatted_content.split('vless://')
+        formatted_content = '\n'.join('vless://' + part.strip() for part in parts if part.strip())
+        
+        # Write the formatted content to the output file
+        with open(formatted_file, 'w', encoding='utf-8') as file:
+            file.write(formatted_content)
+
+    except IOError as e:
+        print(f"IO error occurred: {e}")
+    except Exception as e:
+        print(f"An unexpected error occurred in format_vmess_links: {e}")
 
 
 def update_hosts(input_file, output_file, new_host):
-    # Read the JSON data from the input file
-    with open(input_file, 'r', encoding='utf-8') as file:
-        data = json.load(file)
+    """Update the 'host' field in a JSON file and write the updated data to another file."""
+    try:
+        # Read the JSON data from the input file
+        with open(input_file, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+    except (IOError, json.JSONDecodeError) as e:
+        print(f"Error reading or parsing the JSON file {input_file}: {e}")
+        return
+    
+    try:
+        # Update the 'host' field for each entry
+        for entry in data:
+            if 'host' in entry and entry.get('net') == 'ws' and entry.get('port') == '80':
+                entry['host'] = new_host
 
-    # Update the 'host' field for each entry
-    for entry in data:
-        if 'host' in entry and entry.get('net') == 'ws' and entry.get('port') == '80':
-            entry['host'] = new_host
+                # Write the updated data to the output file
+                with open(output_file, 'w', encoding='utf-8') as file:
+                    json.dump(data, file, indent=4)
+    except (IOError, json.JSONDecodeError) as e:
+        print(f"Error writing JSON data to file {output_file}: {e}")
 
-        # Write the updated data to the output file
-        with open(output_file, 'w', encoding='utf-8') as file:
-            json.dump(data, file, indent=4)
-
-def convert_vmess_links(input_file, output_file):
-    # Initialize a list to store JSON data
+def convert_vmess_links(input_file, output_file, new_host):
+    """Convert VMess links from a file to JSON format and write to another file."""
     vmess_data = []
 
-    # Read the vmess links from the input file
-    with open(input_file, 'r', encoding='utf-8') as file:
-        links = file.readlines()
+    try:
+        # Read the vmess links from the input file
+        with open(input_file, 'r', encoding='utf-8') as file:
+            links = file.readlines()
+    except IOError as e:
+        print(f"Error reading file {input_file}: {e}")
+        return
 
-    # Process each link
     for link in links:
         link = link.strip()
         if link.startswith('vmess://'):
@@ -371,20 +492,34 @@ def convert_vmess_links(input_file, output_file):
             json_data = decode_base64_vmess(base64_data)
             if json_data:
                 try:
-                    # Parse JSON data and add to list
-                    vmess_data.append(json.loads(json_data))
+                    data_dict = json.loads(json_data)
+                    if 'host' in data_dict and data_dict.get('net') == 'ws' and data_dict.get('port') == '80':
+                        # Update the 'host' field
+                        data_dict['host'] = new_host
+                        # Add to list if valid
+                        vmess_data.append(data_dict)
                 except json.JSONDecodeError as e:
-                    print(f"Error decoding JSON data: {json_data} \nException: {e}")
+                    print(f"Error decoding JSON data: {json_data}\nException: {e}")
 
-    # Write the collected JSON data to the output file
-    with open(output_file, 'w', encoding='utf-8') as file:
-        json.dump(vmess_data, file, indent=4)
+    try:
+        # Write the collected JSON data to the output file
+        with open(output_file, 'w', encoding='utf-8') as file:
+            json.dump(vmess_data, file, indent=4)
+        print(f"VMess data has been saved to {output_file}")
+    except IOError as e:
+        print(f"Error writing JSON data to file {output_file}: {e}")
+
 
 def extract_and_test_vmess_data(input_file, temp_file):
-    with open(input_file, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-
+    """Extract VMess data from a JSON file and write to a temporary file."""
     vmess_data_list = []
+
+    try:
+        with open(input_file, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+    except (IOError, json.JSONDecodeError) as e:
+        print(f"Error reading or parsing the JSON file {input_file}: {e}")
+        return
 
     for entry in data:
         v = entry.get('v', '2')
@@ -418,9 +553,12 @@ def extract_and_test_vmess_data(input_file, temp_file):
         print("Extracted Data:")
         print(json.dumps(vmess_data, indent=2))
 
-        # Write the extracted data to a temporary file for review
-        with open(temp_file, 'a', encoding='utf-8') as file:
-            file.write(json.dumps(vmess_data, separators=(',', ':')) + '\n')
+        try:
+            # Write the extracted data to a temporary file for review
+            with open(temp_file, 'a', encoding='utf-8') as file:
+                file.write(json.dumps(vmess_data, separators=(',', ':')) + '\n')
+        except IOError as e:
+            print(f"Error writing to temporary file {temp_file}: {e}")
 
         vmess_data_list.append(vmess_data)
 
@@ -428,54 +566,93 @@ def extract_and_test_vmess_data(input_file, temp_file):
 
 def encode_base64(data):
     """Encode data to Base64."""
-    return base64.b64encode(data.encode('utf-8')).decode('utf-8')
+    try:
+        return base64.b64encode(data.encode('utf-8')).decode('utf-8')
+    except (TypeError, ValueError) as e:
+        print(f"Error encoding data to Base64: {e}")
+        return None
 
 def convert_to_vmess_links(vmess_data_list, output_file):
     vmess_links = []
 
     for vmess_data in vmess_data_list:
-        # Convert the dictionary to JSON and then encode it
-        vmess_json = json.dumps(vmess_data, separators=(',', ':'))
-        vmess_base64 = encode_base64(vmess_json)
+        try:
+            # Convert the dictionary to JSON and then encode it
+            vmess_json = json.dumps(vmess_data, separators=(',', ':'))
+            vmess_base64 = encode_base64(vmess_json)
+            
+            if vmess_base64:
+                # Construct the VMess link
+                vmess_link = f"vmess://{vmess_base64}"
+                vmess_links.append(vmess_link)
+            else:
+                print(f"Failed to encode VMess data to Base64: {vmess_data}")
+        
+        except (TypeError, ValueError, json.JSONDecodeError) as e:
+            print(f"Error processing VMess data {vmess_data}: {e}")
 
-        # Construct the VMess link
-        vmess_link = f"vmess://{vmess_base64}"
-        vmess_links.append(vmess_link)
+    try:
+        # Write the VMess links to the final output file
+        with open(output_file, 'w', encoding='utf-8') as file:
+            file.write('\n'.join(vmess_links) + '\n')
 
-    # Write the VMess links to the final output file
-    with open(output_file, 'w', encoding='utf-8') as file:
-        file.write('\n'.join(vmess_links) + '\n')
+        print(f"VMess links have been saved to {output_file}")
 
-    print(f"VMess links have been saved to {output_file}")
+    except IOError as e:
+        print(f"Error writing VMess links to file {output_file}: {e}")
 
 
 def append_files(file_list, output_file):
-    # Open the output file in append mode, create it if it doesn't exist
-    with open(output_file, 'a', encoding='utf-8') as outfile:
-        for filename in file_list:
-            with open(filename, 'r', encoding='utf-8') as infile:
-                # Read and write the content of each file
-                content = infile.read()
-                outfile.write(content + '\n')  # Add a newline between file contents
+    try:
+        # Open the output file in append mode, create it if it doesn't exist
+        with open(output_file, 'a', encoding='utf-8') as outfile:
+            for filename in file_list:
+                try:
+                    with open(filename, 'r', encoding='utf-8') as infile:
+                        # Read and write the content of each file
+                        content = infile.read()
+                        outfile.write(content + '\n')  # Add a newline between file contents
+                except IOError as e:
+                    print(f"Error reading file {filename}: {e}")
+
+    except IOError as e:
+        print(f"Error opening file {output_file} for appending: {e}")
 
 def remove_duplicates(input_file, output_file):
-    # Read all lines from the input file and remove duplicates
-    with open(input_file, 'r', encoding='utf-8') as file:
-        lines = file.readlines()
-    
-    # Remove duplicate lines while preserving the order
-    unique_lines = list(dict.fromkeys(lines))
+    try:
+        # Read all lines from the input file and remove duplicates
+        with open(input_file, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+        
+        # Remove duplicate lines while preserving the order
+        unique_lines = list(dict.fromkeys(lines))
 
-    # Write the unique lines to the output file
-    with open(output_file, 'w', encoding='utf-8') as file:
-        file.writelines(unique_lines)
+        try:
+            # Write the unique lines to the output file
+            with open(output_file, 'w', encoding='utf-8') as file:
+                file.writelines(unique_lines)
+        
+        except IOError as e:
+            print(f"Error writing unique lines to file {output_file}: {e}")
+
+    except IOError as e:
+        print(f"Error reading file {input_file}: {e}")
 
 def overwrite_file(source_file, destination_file):
-    with open(source_file, 'r', encoding='utf-8') as src:
-        content = src.read()
+    try:
+        with open(source_file, 'r', encoding='utf-8') as src:
+            content = src.read()
+    
+        try:
+            with open(destination_file, 'w', encoding='utf-8') as dest:
+                dest.write(content)
         
-    with open(destination_file, 'w', encoding='utf-8') as dest:
-        dest.write(content)
+        except IOError as e:
+            print(f"Error writing to file {destination_file}: {e}")
+    
+    except IOError as e:
+        print(f"Error reading file {source_file}: {e}")
+
 # Main function to process links and write output files
 def main():
     output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
@@ -493,13 +670,11 @@ def main():
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
         "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
         "https://raw.githubusercontent.com/resasanian/Mirza/main/sub",
-       # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
-       # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
-       # "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
         "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
         "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix"
+
     ]
     telegram_urls = [
         "https://t.me/s/Awlix_ir",
@@ -633,13 +808,7 @@ def main():
     if os.path.exists(filename1):
         os.remove(filename1)
 
-    for i in range(20):
-        filename = os.path.join(output_folder, f"Sub{i}.txt")
-        if os.path.exists(filename):
-            os.remove(filename)
-        filename1 = os.path.join(base64_folder, f"Sub{i}_base64.txt")
-        if os.path.exists(filename1):
-            os.remove(filename1)
+
 
     # Write merged configs to output file
     with open(output_filename, "w" ,encoding="UTF-8") as f:
@@ -681,20 +850,12 @@ def main():
     # Define file paths
     input_file1 = '../vmess_formatted.txt'  # Change this to your formatted vmess file path
     output_file1 = '../vmess_format.json'
-
+    new_host = '91.341.94.160'
     # Convert the vmess links
-    convert_vmess_links(input_file1, output_file1)
+    convert_vmess_links(input_file1, output_file1,new_host)
 
 
-    # Define file paths and new host
- #   input_file2 = '../vmess_format.json'  # Change this to your input JSON file path
- #   output_file2 = '../vmess_updated.json'  # Path to save the updated JSON file
- #   new_host = '91.341.94.160'  # New host to set
-
-    # Update hosts in the JSON file
-  #  update_hosts(input_file2, output_file2, new_host)
-
-    input_file = os.path.join(base_path, 'vmess_updated.json')
+    input_file = os.path.join(base_path, 'vmess_format.json')
     output_file = os.path.join(base_path, 'vmess_working.txt')
     
     # Ensure output file is empty before starting
@@ -778,5 +939,7 @@ def main():
     destination_file = '../finalwork.txt'  # Path to the file to overwrite
 
     overwrite_file(source_file, destination_file)
+
+
 if __name__ == "__main__":
     main()
