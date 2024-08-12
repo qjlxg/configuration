@@ -584,7 +584,7 @@ def main():
     # Define file paths
     input_file = '../All_Configs_Sub_formatted.txt'  # Change this to your input file name
     vmess_file = '../vmess.txt'
-    vless_file = '../vless.txt'
+   # vless_file = '../vless.txt'
 
     # Extract the links
     extract_links(input_file, vmess_file, vless_file)
@@ -592,7 +592,7 @@ def main():
 
     # Define file paths
     input_file = '../vmess.txt'       # Change this to your original vmess.txt file path
-    formatted_file = '../vmess_formatted.txt'  # Path to save the formatted file
+   # formatted_file = '../vmess_formatted.txt'  # Path to save the formatted file
 
     # Format the vmess links
     format_vmess_links(input_file, formatted_file)
@@ -619,7 +619,7 @@ def main():
     input_file = '../vless.txt'  # Replace with your input file path
     output_file = '../vless_modified.txt'  # Replace with your output file path
 
-    update_host_in_vless_config(input_file, output_file)
+    #update_host_in_vless_config(input_file, output_file)
 
     # Input and output file paths
     input_file = '../vmess_updated.json'  # Replace with your input file path
@@ -633,10 +633,10 @@ def main():
     convert_to_vmess_links(vmess_data_list, output_file)
 
     vmess_file = '../vmess_links.txt'  # Path to the VMess file
-    vless_file = '../vless_modified.txt'  # Path to the VLess file
+   # vless_file = '../vless_modified.txt'  # Path to the VLess file
     final_file = '../finalwork.txt'  # Path to the final output file
 
-    files_to_append = [vmess_file, vless_file]
+    files_to_append = [vmess_file] #, vless_file]
     append_files(files_to_append, final_file)
 
 
