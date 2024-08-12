@@ -3372,3 +3372,4 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 407
 vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 382
 vless://34c1677d-ceff-46ed-81e1-952fcdec5c3c@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 371
+vless://2dbac56a-40e9-4e0d-b2ee-554e6bdb6874@bama.ir:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#🇮🇷IR | 🔴 | vless | @iP_CF | 9
