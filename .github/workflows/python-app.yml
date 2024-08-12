@@ -7,7 +7,7 @@ on:
       - main
   schedule:
     # Run every 10 minutes
-    - cron: "*/ * * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
@@ -49,7 +49,7 @@ jobs:
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated  minutes Ago ⚡️"
+        message: "Updated 9 minutes Ago ⚡️"
         add: "."
         push: "https://github.com/TalesOrigin/configuration.git"
     env:
