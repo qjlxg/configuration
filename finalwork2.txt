@@ -9870,3 +9870,4 @@ vless://4b8abdb1-c93b-4e37-bb45-1513428e931b@Visa.com:80??path=2048%2FDaily_Conf
 vless://63092695-8056-4435-b64e-509b682e2d8e@185.146.173.85:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://eace10bf-a79b-4180-b0aa-e8092ccd9b10@Zula.ir:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://8d81f7f6-ec79-48c7-95ac-e14ea300ef16@104.16.11.133:80??path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://07dd2ece-71ad-48fa-b637-547883e96e1d@198.41.193.40:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
