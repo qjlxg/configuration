@@ -3434,3 +3434,8 @@ vless://518ff002-dfe3-4854-930f-ccdfd52c9b11@104.21.69.44:80??security=none&type
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🇺🇸 US-151.101.67.1:80
 vless://81f1f510-3ca7-4734-8956-0f4fce670af5@44.214.204.124:80??security=none&type=ws&host=91.241.94.160&path=/fastssh/xmxmmxmxm/63482aa422d82/#🔒 VL-WS-NONE 🇺🇸 US-44.214.204.124:80
 vless://801dfdd1-f122-4988-a722-a023a192a1a9@104.16.11.133:80??path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??path=/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @v2ray1_ng | 0
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@www.zula.ir:80??path=/Telegram.proxy_mtm.spacefp/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @proxy_mtm | 2
+vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 20
+vless://34c1677d-ceff-46ed-81e1-952fcdec5c3c@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 7
+vless://4c66cb0b-8953-5b20-95a5-a9596b8ad3e7@185.146.173.178:80??path=%2Fvless%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
