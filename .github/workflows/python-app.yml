@@ -22,8 +22,7 @@ jobs:
     - name: Stash any local changes
       run: git stash
       
-    - name: commit any local changes
-      run: git commit -m "Updated at ${CURRENT_TIME} ⚡️"
+
       
     - name: Install dependencies
       run: cd scripts && pip install -r requirements.txt
