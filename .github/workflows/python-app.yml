@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - main
+  schedule:
+    # Run every 1 minute
+    - cron: "*/1 * * * *"
 
 jobs:
   build:
@@ -22,8 +25,6 @@ jobs:
     - name: Stash any local changes
       run: git stash
       
-
-      
     - name: Install dependencies
       run: cd scripts && pip install -r requirements.txt
 
@@ -32,9 +33,13 @@ jobs:
 
     - name: Run Config script and save output to file
       run: cd scripts && python app.py
+      
+
+
+
 
     - name: Check changes
-      run: |
+      run: 
         echo "Checking the changes made..."
         git status
         ls -l scripts/
@@ -44,17 +49,8 @@ jobs:
       with:
         author_name: "Github Actions"
         author_email: "actions@github.com"
-        message: "Updated now ⚡️"
+        message: "Updated 9 minutes Ago ⚡️"
         add: "."
         push: "https://github.com/TalesOrigin/configuration.git"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Trigger workflow again
-      uses: actions/github-script@v6
-      with:
-        script: |
-          const { exec } = require('@actions/exec');
-          await exec('gh', ['workflow', 'run', 'Update Configs.yml']);
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
