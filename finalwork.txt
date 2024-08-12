@@ -3503,3 +3503,4 @@ vless://0949b592-9c5f-47b6-a6d9-19f1e268649a@Zula.ir:80??path=2048%2FDaily_Confi
 vless://bdb88d5b-a888-44d2-99a3-e33b65bd6880@185.146.173.85:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://ff9cf8d6-68ee-4c4d-a024-038e8b03697b@104.16.232.76:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://7fb8d481-b0c5-4337-901e-ea193678af45@Visa.com:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40Freakconfig
