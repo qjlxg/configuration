@@ -40,11 +40,13 @@ jobs:
         ls -l scripts/
         
     - name: Commit and push files
-      run: |
-        CURRENT_TIME=$(date +"%Y-%m-%d %H:%M:%S")
-        git add .
-        git commit -m "Updated at ${CURRENT_TIME} ⚡️"
-        git push
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "Github Actions"
+        author_email: "actions@github.com"
+        message: "Updated now ⚡️"
+        add: "."
+        push: "https://github.com/TalesOrigin/configuration.git"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
