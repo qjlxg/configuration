@@ -3523,3 +3523,5 @@ vless://28585055-e1e3-4edd-be4d-92c779981139@190.93.247.155:80??security=none&ty
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@172.67.130.66:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80
 vless://e90feed4-ecd6-4b70-bdf4-617c82c95b5f@104.16.11.133:80??security=none&type=ws&host=91.241.94.160&path=/@Vpn_Mikey،@Vpn_Mikey#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.11.133:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.67.120:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.28.169:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.111.121:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
