@@ -584,7 +584,7 @@ def main():
     # Define file paths
     input_file = '../All_Configs_Sub_formatted.txt'  # Change this to your input file name
     vmess_file = '../vmess.txt'
-   # vless_file = '../vless.txt'
+    vless_file = '../vless.txt'
 
     # Extract the links
     extract_links(input_file, vmess_file, vless_file)
