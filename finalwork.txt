@@ -9570,3 +9570,6 @@ vless://67b06764-1214-4354-bf98-a2b69760b486@www.speedtest.net:80??path=/www.Spe
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 404
 vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 378
 vless://34c1677d-ceff-46ed-81e1-952fcdec5c3c@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 368
+vless://5574ae58-f829-4ec3-961d-22721a46d297@116.202.10.69:80??path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://joinbede--ZEDMODEON@103.252.88.241:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://c7be7a0f-44f6-463e-a65c-7749020b1db1@84.32.230.107:80??path=%2FzugF9IeL4d7Y6rrzLNIZhip&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
