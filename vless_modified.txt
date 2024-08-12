@@ -29,8 +29,6 @@ vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram+channel+%3A+@pandavpntc#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.192.33:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.52.46:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.234.102:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#🆔 @v2ray_configs_pool
@@ -41,7 +39,11 @@ vless://5574ae58-f829-4ec3-961d-22721a46d297@116.202.10.69:80??path=%2FTelegram+
 vless://c7be7a0f-44f6-463e-a65c-7749020b1db1@84.32.230.107:80??path=%2FzugF9IeL4d7Y6rrzLNIZhip&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://ea6e5af4-a368-4c42-9c79-820944c26f9d@www.speedtest.net:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://3c9d5aa7-be1c-484a-aada-12343be8aa4c@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://ea6e5af4-a368-4c42-9c79-820944c26f9d@zula.ir:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://8d81f7f6-ec79-48c7-95ac-e14ea300ef16@104.16.11.133:80??path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0001
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|AE_speednode_0002
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|CH_speednode_0009
