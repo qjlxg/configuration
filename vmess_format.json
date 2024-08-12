@@ -201,6 +201,23 @@
         "tls": ""
     },
     {
+        "add": "188.114.98.198",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "91a80c8a-fcc2-53e1-9184-791cafbdbbc9",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-188.114.98.198:80",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "172.67.171.48",
         "aid": "0",
         "alpn": "",
@@ -17881,6 +17898,23 @@
     },
     {
         "add": "172.67.72.154",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "f533e37c-9da5-4955-a218-a7886e5719b6",
+        "net": "ws",
+        "path": "/NkXnI0l6LGkotMyATWmx5f6MblN",
+        "port": "80",
+        "ps": "telegram \u2602\ufe0f DailyV2ry",
+        "scy": "chacha20-poly1305",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
+        "add": "172.66.213.38",
         "aid": "0",
         "alpn": "",
         "fp": "",
