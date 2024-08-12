@@ -3187,3 +3187,7 @@ vless://ee2960f8-2e78-4832-9c1f-3be20897cd30@104.21.46.33:80??security=none&type
 vless://7cd1ef99-28ac-4c24-b61a-91eb3dd688b3@173.245.59.100:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.59.100:80
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://bia--ZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://join--ZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
