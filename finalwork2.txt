@@ -4172,3 +4172,4 @@ vless://%66%39%31%35%66%62%61%61%2d%66%38%66%65%2d%34%62%62%35%2d%62%38%61%66%2d
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🆥🆥%20%20148ms
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🆥🆥%20%207ms
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@speedtest.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
+vless://b610d241-2385-560e-a31a-1b9a907d30be@185.146.173.125:80??path=%2Fvless%3Fed%3D2052&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
