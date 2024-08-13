@@ -17833,6 +17833,23 @@
         "v": "2"
     },
     {
+        "add": "irtr1.ngiftcard.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "7c7af2de-bb97-429f-ac3c-8ef849717491",
+        "net": "ws",
+        "path": "/34L4qODA1XwJYopk6e398A",
+        "port": "80",
+        "ps": "telegram \u2602\ufe0f DailyV2ry",
+        "scy": "chacha20-poly1305",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "108.162.193.143",
         "aid": "0",
         "alpn": "",
