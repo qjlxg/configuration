@@ -134,19 +134,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddef\ud83c\uddf5 10,11|\u65e5\u672c4|@ripaojiedian",
-        "add": "cfcdn3.sanfencdn9.com",
-        "port": "80",
-        "type": "none",
-        "id": "9a403efc-18d7-4a78-8532-fb15541ef836",
-        "aid": "0",
-        "net": "ws",
-        "path": "/video/X37qXHip",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "172.67.116.48",
         "aid": "0",
         "host": "91.341.94.160",
@@ -17778,7 +17765,7 @@
         "net": "ws",
         "path": "/vmess",
         "port": "80",
-        "ps": "@Vip_Security join us - 357\n",
+        "ps": "@Vip_Security join us - 43\n",
         "scy": "none",
         "sni": "",
         "tls": "",
@@ -17795,7 +17782,7 @@
         "net": "ws",
         "path": "/vmess",
         "port": "80",
-        "ps": "@Vip_Security join us - 356\n",
+        "ps": "@Vip_Security join us - 42\n",
         "scy": "none",
         "sni": "",
         "tls": "",
@@ -17812,7 +17799,7 @@
         "net": "ws",
         "path": "/f3",
         "port": "80",
-        "ps": "@Vip_Security join us - 349\n",
+        "ps": "@Vip_Security join us - 35\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -17829,7 +17816,7 @@
         "net": "ws",
         "path": "/ca1",
         "port": "80",
-        "ps": "@Vip_Security join us - 348\n",
+        "ps": "@Vip_Security join us - 34\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -17846,7 +17833,7 @@
         "net": "ws",
         "path": "/0fpZFB6IbpNptGAxAtI0QM",
         "port": "80",
-        "ps": "@Vip_Security join us - 344\n",
+        "ps": "@Vip_Security join us - 30\n",
         "scy": "chacha20-poly1305",
         "sni": "",
         "tls": "",
@@ -18041,20 +18028,6 @@
         "v": "2"
     },
     {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "tls": "",
-        "type": "",
-        "v": 2,
-        "ps": "\ud83c\udd94 @v2ray_configs_pool "
-    },
-    {
         "add": "104.21.51.208",
         "aid": "0",
         "alpn": "",
@@ -18072,20 +18045,6 @@
         "ps": "\ud83c\udd94 @v2ray_configs_pool "
     },
     {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "tls": "",
-        "type": "",
-        "v": 2,
-        "ps": "\ud83c\udd94 @v2ray_configs_pool "
-    },
-    {
         "add": "104.21.51.208",
         "aid": "0",
         "alpn": "",
@@ -18100,20 +18059,6 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83c\udd94 @v2ray_configs_pool "
-    },
-    {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "tls": "",
-        "type": "",
-        "v": 2,
         "ps": "\ud83c\udd94 @v2ray_configs_pool "
     },
     {
