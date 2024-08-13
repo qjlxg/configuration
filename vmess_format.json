@@ -134,23 +134,6 @@
         "tls": ""
     },
     {
-        "add": "104.26.15.148",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6965a407-7549-436e-8064-22e3d3d2e7cd",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.26.15.148:80"
-    },
-    {
         "add": "172.67.171.48",
         "aid": "0",
         "alpn": "",
