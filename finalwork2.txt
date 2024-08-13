@@ -3525,3 +3525,7 @@ vless://e90feed4-ecd6-4b70-bdf4-617c82c95b5f@104.16.11.133:80??security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.67.120:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.28.169:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.111.121:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
+vless://bb1aa3e7-cff1-48a3-80fa-8c1765598e94@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
+vless://22b2db74-7497-4bc8-947c-18095befa4d4@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=artikV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+vless://7fb8d481-b0c5-4337-901e-ea193678af45@162.159.153.2:80??security=none&type=ws&host=91.241.94.160&path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://34c1677d-ceff-46ed-81e1-952fcdec5c3c@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 388
