@@ -1,5 +1,21 @@
 [
     {
+        "v": "2",
+        "ps": "\u672a\u77e567",
+        "add": "104.17.148.22",
+        "port": "80",
+        "id": "3e5cda0a-6122-4f54-9e3c-3f49e7a526f9",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "67"
+    },
+    {
         "add": "irtr1.ngiftcard.com",
         "aid": "0",
         "alpn": "",
@@ -67,6 +83,22 @@
         "path": "/anti13.zingfast.vn",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e567",
+        "add": "104.17.148.22",
+        "port": "80",
+        "id": "3e5cda0a-6122-4f54-9e3c-3f49e7a526f9",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "67"
     },
     {
         "add": "172.67.171.48",
