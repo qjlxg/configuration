@@ -17947,23 +17947,6 @@
         "v": "2"
     },
     {
-        "add": "185.146.173.92",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "8639e52b-a0ce-5d68-b465-b594881feb78",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "configkade\ud83d\udc49@proxystore11",
-        "scy": "none",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
