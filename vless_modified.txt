@@ -45,6 +45,9 @@ vless://ea6e5af4-a368-4c42-9c79-820944c26f9d@zula.ir:80??path=%2Fmelo%2Fis%2Fnee
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://28585055-e1e3-4edd-be4d-92c779981139@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80??path=%2F%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER-%40CUSTOMVPNSERVER&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://67b06764-1214-4354-bf98-a2b69760b486@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.67.120:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.28.169:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.111.121:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0001
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|AE_speednode_0002
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|CH_speednode_0009
