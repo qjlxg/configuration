@@ -3788,3 +3788,4 @@ vless://%62%62%31%61%61%33%65%37%2d%63%66%66%31%2d%34%38%61%33%2d%38%30%66%61%2d
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🆥🆥%20%20350ms
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://jo%69n--%5aED%4d%4fDE%4f%4e@www.speedtest.net:80??path=%2F%40%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%40%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-TEL-%5aED%4d%4fDE%4f%4e-%40%5aED%4d%4fDE%4f%4e%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://joinZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
