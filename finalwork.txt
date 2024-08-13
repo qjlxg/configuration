@@ -4089,3 +4089,5 @@ vless://%62%62%31%61%61%33%65%37%2d%63%66%66%31%2d%34%38%61%33%2d%38%30%66%61%2d
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🆥🆥%20%2021ms
 vless://03040b9d-e574-49ce-9f8a-8fec00930e78@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://8b60c360-003c-4ecf-9c30-7521d96a880d@speedtest.net:80??path=/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfigFreeV2ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://82b7624c-8c12-4156-b192-6a4b6d272417@speedtest.net:80??path=%2F%3Fed%3D1024&security=none&encryption=none&alpn=h2,http/1.1&host=91.241.94.160&fp=randomized&type=ws&sni=speedtest.net#🆔 @v2ray_configs_pool
