@@ -4035,3 +4035,5 @@ vless://5c8dd987-9ed7-4181-b932-8f511f2a456d@104.17.147.22:80??security=none&typ
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=/TELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 1
 vless://769c1301-9a0c-5564-a018-0559e6eef91b@190.93.247.119:80??path=/vless&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 12
+vless://517d7690-7244-4b0b-aaf1-c86247a747b5@85.198.15.59:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#🆔 @v2ray_configs_pool
+vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@speedtest.org:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
