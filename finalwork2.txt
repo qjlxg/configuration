@@ -4872,3 +4872,5 @@ vless://4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.123:80??path=/vless&sec
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @DailyV2RY | 283
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @DailyV2RY | 285
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @DailyV2RY | 287
+vless://8931eecf-dcb0-46cf-8a68-99190a7fefb0@104.17.147.22:80??Telegram=@V2RayTz,@V2RayTz&type=ws&host=91.241.94.160&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none#🚩CF | 🔴 | vless | @V2RayTz | 8
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed#🆔 @v2ray_configs_pool
