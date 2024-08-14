@@ -4808,3 +4808,4 @@ vless://2344a14e-154c-44f4-9df5-6de9ab7ea346@104.18.86.70:80??path=/telegram-@po
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#🆔 @v2ray_configs_pool
 vless://97ce59d9-7a8a-4ec7-bc70-a723f4254afe@www.speedtest.net:80??path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @shh_proxy | 26
 vless://8931eecf-dcb0-46cf-8a68-99190a7fefb0@104.17.147.22:80??Telegram=@V2RayTz,@V2RayTz&type=ws&host=91.241.94.160&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none#🚩CF | 🔴 | vless | @V2RayTz | 5
+vless://fe484e8c-316c-4b9f-dba8-6acf1f465ed4@128.199.80.135:80??path=%2FFREE+By+Tharuwa++%280767597317%29&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
