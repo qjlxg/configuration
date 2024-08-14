@@ -16,23 +16,6 @@
         "test_name": "31"
     },
     {
-        "add": "irtr1.ngiftcard.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "7c7af2de-bb97-429f-ac3c-8ef849717491",
-        "net": "ws",
-        "path": "/34L4qODA1XwJYopk6e398A",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83c\udd94 @v2ray_configs_pool "
-    },
-    {
         "add": "172.67.171.48",
         "aid": "0",
         "alpn": "",
