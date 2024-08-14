@@ -4592,3 +4592,27 @@ vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTeleg
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 96
 vless://6d8744b3-a96a-4bb8-ac10-cad1e89b4a2a@www.speedtest.net:80??path=%2Ftelegram-%40ExpressVPN_420-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 79
 vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 76
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.46.180:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.46.180:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.169.252:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.169.252:80
+vless://f89e9fcb-16a2-472b-8649-a3d1be3433d5@104.21.69.44:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.187.55:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.55:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.70.184:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.70.184:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.167.91:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.167.91:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.157.51:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.51:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.184.157:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.184.157:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.52.31:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.31:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.10.99:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.10.99:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.42.63:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.42.63:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.71.190:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.71.190:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.26.248:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.26.248:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.201:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.201:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.57.253:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.57.253:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.58.49:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.58.49:80
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=/TELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 3
+vless://2dbac56a-40e9-4e0d-b2ee-554e6bdb6874@bama.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔ip_cf%20🔓%20VL-WS-N/A%20🆥🆥%20%20683ms
+vless://2dbac56a-40e9-4e0d-b2ee-554e6bdb6874@bama.ir:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔ip_cf%20🔓%20VL-WS-N/A%20🆥🆥%20%20590ms
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔outline_vpn%20🔓%20VL-WS-N/A%20🇺🇸%20US%202ms
+vless://b610d241-2385-560e-a31a-1b9a907d30be@185.146.173.125:80??path=%2Fvless%3Fed%3D2052&security=none&encryption=none&host=91.241.94.160&type=ws#🆔proxy_kafee%20🔓%20VL-WS-N/A%20🇸🇪%20SE%202ms
+vless://319796a6-73a6-4515-9972-09e298334b76@Visa.com:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔proxystore11%20🔓%20VL-WS-N/A%20🆥🆥%20%20124ms
+vless://b1a27dd9-0e29-4f47-bd58-67f7f8b11c70@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔shh_proxy%20🔓%20VL-WS-N/A%20🆥🆥%20%206ms
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🆥🆥%20%208ms
