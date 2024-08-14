@@ -4937,3 +4937,8 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.144.229:80??security=none&ty
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.145.88:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.145.88:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.62.199:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.62.199:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.155.245:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.155.245:80
+vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 406
+vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 404
+vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 400
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 396
+vless://6d8744b3-a96a-4bb8-ac10-cad1e89b4a2a@www.speedtest.net:80??path=%2Ftelegram-%40ExpressVPN_420-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 379
