@@ -4738,3 +4738,6 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.247.53:80??security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.18.168:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.18.168:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.193.220:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.193.220:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.230.34:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.230.34:80
+vless://join--ZEDMODEON@www.speedtest.net:80??path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @proxy_kafee | 1
+vless://joinbede--ZEDMODEON@www.speedtest.net:80??path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @proxy_kafee | 4
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??path=/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @v2ray1_ng | 1
