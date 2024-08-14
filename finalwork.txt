@@ -4641,3 +4641,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.171.183:80??security=none&ty
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.174.157:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.174.157:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.9.192:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.9.192:80
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔 @v2ray_configs_pool
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
