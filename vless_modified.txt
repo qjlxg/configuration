@@ -29,12 +29,7 @@ vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
-vless://801dfdd1-f122-4988-a722-a023a192a1a9@104.16.11.133:80??path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://03040b9d-e574-49ce-9f8a-8fec00930e78@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://e9464052-dbc7-4818-935f-8aba6ae81fa9@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://f77795cd-4c00-4a6f-a262-eef2ba4c4191@104.17.147.22:80??path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://f915fbaa-f8fe-4bb5-b8af-0808388b8c2a@104.17.147.22:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://9af2ca44-6b57-4331-ab53-075963d1ef8f@www.speedtest.net:80??path=%2Fdashboard%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://8b60c360-003c-4ecf-9c30-7521d96a880d@speedtest.net:80??path=/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfig/@AlfredConfigFreeV2ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://b610d241-2385-560e-a31a-1b9a907d30be@185.146.173.125:80??path=%2Fvless%3Fed%3D2052&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://d663fecc-1f02-4e9e-8157-c33cdb30da23@190.93.244.166:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.64.53:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#🆔 @v2ray_configs_pool
@@ -43,6 +38,9 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.225.243:80??security=none&ty
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.62.250:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.100.169:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.226.225:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://68c421f0-278b-4fa4-9115-d86ee41d8798@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80??path=%2FCUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://8931eecf-dcb0-46cf-8a68-99190a7fefb0@185.146.173.58:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0001
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|AE_speednode_0002
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|CH_speednode_0007
