@@ -5512,3 +5512,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.80.71:80??security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.42.234:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.42.234:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.72:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.53.72:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.59.64:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.59.64:80
+vless://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@www.speedtest.net:80??path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
