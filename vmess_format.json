@@ -282,24 +282,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @mftizi | 0"
-    },
-    {
-        "add": "104.21.51.208",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
-        "net": "ws",
-        "path": "/0fpZFB6IbpNptGAxAtI0QM",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 318"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 0"
     },
     {
         "add": "104.26.15.148",
@@ -330,7 +313,7 @@
         "host": "91.341.94.160",
         "tls": "",
         "path": "/",
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @yaney_01 | 4"
+        "ps": "\ud83c\udde8\ud83c\uddf3CN | \ud83d\udfe2 | vmess | @yaney_01 | 4"
     },
     {
         "v": "2",
