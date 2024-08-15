@@ -5172,3 +5172,4 @@ vless://6c4510f0-3712-4ed8-8ecf-6bd81332af32@www.speedtest.net:80??path=2048%2FD
 vless://88e72384-c37c-44d4-85ce-cf8c08de8e1c@198.41.193.40:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://19ac2b7c-4a45-4930-a372-b81d4e68f96f@Visa.COm:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://66ee0d2f-6f20-48f6-bc5c-6f75565107a7@185.146.173.85:80??path=2048%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://0b182df1-eb4f-4852-8a4f-8a4d8bd81620@www.iodata.com:80??path=%2Fcontact%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
