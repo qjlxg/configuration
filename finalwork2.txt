@@ -5893,3 +5893,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.48.179:80??security=none&typ
 vless://bbb404ec-f1d3-4ed3-b75c-15ad111e7bcd@104.22.23.186:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.23.186:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.55.42:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.55.42:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.72.96:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.72.96:80
+vless://d1c3c2ed-f86b-416e-b5ef-916b12864f1f@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
