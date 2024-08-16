@@ -5945,3 +5945,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.249:80??security=none&ty
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.186.216:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.186.216:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.219.189:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.219.189:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.220.46:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.220.46:80
+vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 396

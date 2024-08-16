@@ -65,6 +65,23 @@
         "ps": "\ud83c\udd94 @v2ray_configs_pool "
     },
     {
+        "add": "104.18.75.32",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "4797db37-41dc-4bfc-a59f-6c7055b1d15b",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "[\ud83c\udde8\ud83c\udde6]t.me/ConfigsHub",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "10,11|\u65e5\u672c|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
@@ -16961,21 +16978,6 @@
         "sni": "",
         "alpn": "",
         "fp": ""
-    },
-    {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "@Vip_Security join us - 354\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
     },
     {
         "add": "irtr1.ngiftcard.com",
