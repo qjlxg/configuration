@@ -232,6 +232,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "104.18.69.0",
+        "port": "80",
+        "type": "none",
+        "id": "8d4af06d-598e-46bd-84c7-ac333a22437b",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\uddef\ud83c\uddf5 10,11|\u65e5\u672c|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
