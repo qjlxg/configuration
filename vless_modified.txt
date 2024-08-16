@@ -4504,16 +4504,16 @@ vless://d66d4443-9479-48fe-be15-d8fd53f2bf46@185.146.173.58:80??path=%2Ftelegram
 vless://5bc30385-0b73-421d-9608-7bf9274b8b80@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://5bc30385-0b73-421d-9608-7bf9274b8b80@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://5bc30385-0b73-421d-9608-7bf9274b8b80@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://5bc30385-0b73-421d-9608-7bf9274b8b80@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://5bc30385-0b73-421d-9608-7bf9274b8b80@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
-vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://5bc30385-0b73-421d-9608-7bf9274b8b80@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://5bc30385-0b73-421d-9608-7bf9274b8b80@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@198.41.201.125:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#%40XvProxy-eqk9tz8m
