@@ -6053,3 +6053,5 @@ vless://d1c3c2ed-f86b-416e-b5ef-916b12864f1f@www.speedtest.net:80??path=%2Fteleg
 vless://cc20370e-ed59-4056-b1b1-6db3cf421b42@www.speedtest.net:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://cc20370e-ed59-4056-b1b1-6db3cf421b42@zula.ir:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=/TELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 9
+vless://60395f9e-e556-492b-93cd-d2077fc135d0@104.17.147.22:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+vless://60395f9e-e556-492b-93cd-d2077fc135d0@104.17.148.22:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
