@@ -6350,3 +6350,4 @@ vless://5be32dbf-273f-4986-bef6-4f7e14eaf0e7@www.speedtest.net:80??security=&typ
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.54.150:80
 vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@45.131.4.9:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.9:80
 vless://5be32dbf-273f-4986-bef6-4f7e14eaf0e7@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://2ee34b56-920b-4ef7-a37a-1b9955467cde@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
