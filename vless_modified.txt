@@ -4101,7 +4101,6 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.239.71:80??security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.43.231:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.43.231:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.19.21:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.21:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.189.52:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.189.52:80
-vless://bia--ZEDMODEON@www.speedtest.net:80??path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇨🇦CA | 🔴 | vless | @V2pedia | 6
 vless://d1c3c2ed-f86b-416e-b5ef-916b12864f1f@www.speedtest.net:80??path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @shh_proxy | 2
 vless://c88bc657-f88b-4520-ae2c-83b02fedd7fc@www.speedtest.net:80??path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @shh_proxy | 5
 vless://5bc30385-0b73-421d-9608-7bf9274b8b80@www.speedtest.net:80??path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @shh_proxy | 8
@@ -4124,18 +4123,15 @@ vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&s
 vless://f30aad19-41df-486d-9b57-3df1eceab697@185.146.173.58:80??path=/servernett&security=none&encryption=none&host=91.241.94.160&type=ws#🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 8
 vless://d1c3c2ed-f86b-416e-b5ef-916b12864f1f@104.17.148.22:80??Telegram=@V2RayTz,@V2RayTz&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @V2RayTz | 6
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @VmessProtocol | 7
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 330
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 331
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 332
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 338
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 339
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 340
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 343
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 344
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 345
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 346
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 348
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 349
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 295
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 315
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 316
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 317
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 318
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 319
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 326
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 327
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 329
 vless://0d92cc5b-d8b2-411e-affe-b20e57eb270b@185.146.173.58:80??path=/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇸🇪SE | 🔴 | vless | @polproxy | 2
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=/TELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 9
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%94%9249%40oneclickvpnkeys
@@ -4181,10 +4177,6 @@ vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80??encryption=none&secu
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🇧🇪BE-CX32-GlobalInternetSolutions-P80
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🇸🇬SG-CX21-HostHatch-P80
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🇩🇰DK-CX31-M247-P80
-vless://bia--ZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#all+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
-vless://bia--ZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#all+2%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
@@ -4601,10 +4593,13 @@ vless://c88bc657-f88b-4520-ae2c-83b02fedd7fc@188.114.98.224:80??path=%2Ftelegram
 vless://d1c3c2ed-f86b-416e-b5ef-916b12864f1f@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://838093e6-ec78-4d4e-b1c6-bf3d2eed95ac@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#🆔 @v2ray_configs_pool
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://838093e6-ec78-4d4e-b1c6-bf3d2eed95ac@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#🆔 @v2ray_configs_pool
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
+vless://838093e6-ec78-4d4e-b1c6-bf3d2eed95ac@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#🆔 @v2ray_configs_pool
 vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@198.41.201.125:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#%40XvProxy-eqk9tz8m

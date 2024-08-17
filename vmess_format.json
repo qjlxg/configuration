@@ -353,23 +353,6 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 14"
     },
     {
-        "add": "172.66.213.38",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "f533e37c-9da5-4955-a218-a7886e5719b6",
-        "net": "ws",
-        "path": "/NkXnI0l6LGkotMyATWmx5f6MblN",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 315"
-    },
-    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
@@ -16854,23 +16837,6 @@
         "type": "none",
         "host": "91.341.94.160",
         "tls": "none"
-    },
-    {
-        "add": "172.66.213.38",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "f533e37c-9da5-4955-a218-a7886e5719b6",
-        "net": "ws",
-        "path": "/NkXnI0l6LGkotMyATWmx5f6MblN",
-        "port": "80",
-        "ps": "telegram \u2602\ufe0f DailyV2ry",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
     },
     {
         "add": "172.66.213.38",
