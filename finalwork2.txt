@@ -5988,3 +5988,9 @@ vless://%64%31%63%33%63%32%65%64%2d%66%38%36%62%2d%34%31%36%65%2d%62%35%65%66%2d
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇺🇸%20US%201ms
 vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 400
 vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 398
+vless://ea784fc6-58e5-40a0-93ab-fa1aa3b3d4de@172.67.204.84:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:80
+vless://fe477f80-71c6-41df-807b-95d93699f45d@162.159.153.2:80??security=none&type=ws&host=91.241.94.160&path=DAILYCONFIGS%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://8b60c360-003c-4ecf-9c30-7521d96a880d@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://815724d3-0d61-4761-be07-471441d42be5@104.22.33.78:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:80
+vless://fe477f80-71c6-41df-807b-95d93699f45d@162.159.152.2:80??security=none&type=ws&host=91.241.94.160&path=DAILYCONFIGS%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
+vless://8b60c360-003c-4ecf-9c30-7521d96a880d@151.101.2.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
