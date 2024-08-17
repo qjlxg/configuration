@@ -6370,3 +6370,4 @@ vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&typ
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 266
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 267
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 277
+vless://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@104.17.148.22:80??path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
