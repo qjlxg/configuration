@@ -48,6 +48,23 @@
         "test_name": "78"
     },
     {
+        "add": "104.25.181.33",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "4797db37-41dc-4bfc-a59f-6c7055b1d15b",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "[\ud83c\udde8\ud83c\udde6]t.me/ConfigsHub",
+        "scy": "none",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
