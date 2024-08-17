@@ -32,23 +32,6 @@
         "test_name": "US28"
     },
     {
-        "add": "104.18.75.32",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "4797db37-41dc-4bfc-a59f-6c7055b1d15b",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "[\ud83c\udde8\ud83c\udde6]t.me/ConfigsHub",
-        "scy": "none",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "104.27.78.90",
         "aid": "0",
         "alpn": "",
