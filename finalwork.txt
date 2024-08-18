@@ -6573,3 +6573,5 @@ vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&typ
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 276
 vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@104.21.63.149:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.149:80
 vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@172.67.147.31:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.31:80
+vless://8273003a-df36-4ebd-a6ef-e1ab262ab01c@visa.com:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://da25f6e2-f49a-4d43-944a-ca12bdc69b91@185.146.173.85:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇸🇪]t.me/ConfigsHub
