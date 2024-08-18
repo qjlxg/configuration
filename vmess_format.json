@@ -182,23 +182,6 @@
         "tls": ""
     },
     {
-        "add": "104.21.51.208",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
-        "net": "ws",
-        "path": "/0fpZFB6IbpNptGAxAtI0QM",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.51.208:80"
-    },
-    {
         "v": "2",
         "ps": "\u672a\u77e553 17.8MB/s",
         "add": "104.26.15.148",
