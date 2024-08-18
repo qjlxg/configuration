@@ -6688,3 +6688,4 @@ vless://8273003a-df36-4ebd-a6ef-e1ab262ab01c@162.159.153.2:80??security=none&typ
 vless://75db7870-a22f-4d51-cdd1-5e4c6e7cc169@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.17:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-XV2ry2%3Fed%3D512#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.16.17:80
 vless://baa80013-fe75-5879-b5c4-a9534d0e6bd7@172.67.171.68:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.68:80
+vless://f19e43f0-bb62-47b5-a9ab-c4c1d3718ad2@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 425
