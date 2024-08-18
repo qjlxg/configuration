@@ -6504,3 +6504,5 @@ vless://d1c3c2ed-f86b-416e-b5ef-916b12864f1f@www.speedtest.net:80??path=%2Fteleg
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.243.60.150:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔outlinev2rayng%20🔓%20VL-WS-N/A%20🇭🇰%20HK%20217ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.217.72.0:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔outlinev2rayng%20🔓%20VL-WS-N/A%20🇭🇰%20HK%20215ms
 vless://7eb2d99b-1fdb-48f4-bbbe-26d47327b096@162.159.129.17:80??path=%2Fuk2%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇺🇸%20US%203ms
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 254
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 258
