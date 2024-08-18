@@ -29,8 +29,6 @@ vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
-vless://2ee34b56-920b-4ef7-a37a-1b9955467cde@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://0b182df1-eb4f-4852-8a4f-8a4d8bd81620@146.75.118.225:80??path=%2Fcontact%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://5be32dbf-273f-4986-bef6-4f7e14eaf0e7@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#🆔 @v2ray_configs_pool
 vless://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@104.17.148.22:80??path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#🆔 @v2ray_configs_pool
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔 @v2ray_configs_pool
