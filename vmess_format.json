@@ -275,14 +275,14 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddef\ud83c\uddf5 10,11|\u65e5\u672c|@ripaojiedian",
+        "ps": "\ud83c\uddef\ud83c\uddf5 10,11|\u65e5\u672c3|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
         "type": "none",
-        "id": "c3d4cd98-a316-45d2-9725-d9be48ed8963",
+        "id": "eb57bbd8-8ee9-42a3-b069-e6e5418f27f5",
         "aid": "0",
         "net": "ws",
-        "path": "/video/P7EExoE2",
+        "path": "/video/VDXcaM7r",
         "host": "91.341.94.160",
         "tls": ""
     },
@@ -448,6 +448,23 @@
     },
     {
         "v": "2",
+        "add": "104.26.14.85",
+        "port": "80",
+        "id": "c0f3f890-d329-42fc-8311-16ae31c22c6b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": "",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 0"
+    },
+    {
+        "v": "2",
         "add": "172.67.73.163",
         "port": "80",
         "id": "a8d18d17-6eb0-4384-b3b0-558de7765686",
@@ -461,7 +478,7 @@
         "sni": "",
         "alpn": "",
         "fp": "",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 0"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 1"
     },
     {
         "v": "2",
@@ -478,7 +495,7 @@
         "sni": "",
         "alpn": "",
         "fp": "",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 1"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 2"
     },
     {
         "v": "2",
@@ -495,7 +512,7 @@
         "sni": "",
         "alpn": "",
         "fp": "",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 2"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 3"
     },
     {
         "add": "104.26.15.148",
@@ -17050,7 +17067,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 347\n",
+        "ps": "@Vip_Security join us - 348\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -17273,6 +17290,57 @@
         "tls": "",
         "type": "",
         "v": "2"
+    },
+    {
+        "v": "2",
+        "add": "104.26.14.85",
+        "port": "80",
+        "id": "c0f3f890-d329-42fc-8311-16ae31c22c6b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": "",
+        "ps": "\ud83c\udd94 @v2ray_configs_pool "
+    },
+    {
+        "v": "2",
+        "add": "104.26.14.85",
+        "port": "80",
+        "id": "c0f3f890-d329-42fc-8311-16ae31c22c6b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": "",
+        "ps": "\ud83c\udd94 @v2ray_configs_pool "
+    },
+    {
+        "v": "2",
+        "add": "104.26.14.85",
+        "port": "80",
+        "id": "c0f3f890-d329-42fc-8311-16ae31c22c6b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "alpn": "",
+        "fp": "",
+        "ps": "\ud83c\udd94 @v2ray_configs_pool "
     },
     {
         "add": "172.67.116.48",
