@@ -83,6 +83,23 @@
         "ps": "\ud83c\udd94 @v2ray_configs_pool "
     },
     {
+        "add": "104.18.69.0",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "8d4af06d-598e-46bd-84c7-ac333a22437b",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "T.me/SafeNet_Server \ud83d\udc9a\ud83e\udd0d\u2764",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "10,11|\u65e5\u672c3|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
