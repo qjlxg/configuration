@@ -6959,3 +6959,4 @@ vless://fb81fa44-40d8-441a-c9ab-04b10fe3a1c4@185.143.233.5:80??security=none&typ
 vless://3a500f69-5653-4ee4-921c-82adeafefc0d@151.101.65.57:80??security=none&type=ws&host=91.241.94.160&path=%2F-liv2%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs#🔒 VL-WS-NONE 🇺🇸 US-151.101.65.57:80
 vless://3a500f69-5653-4ee4-921c-82adeafefc0d@151.101.193.57:80??security=none&type=ws&host=91.241.94.160&path=%2F-liv2%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs#🔒 VL-WS-NONE 🇺🇸 US-151.101.193.57:80
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=/TELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @FreakConfig | 15
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
