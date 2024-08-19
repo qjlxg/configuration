@@ -4199,8 +4199,6 @@ vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&typ
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40Freakconfig
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40Freakconfig
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40Freakconfig
