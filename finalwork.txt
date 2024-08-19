@@ -6806,3 +6806,4 @@ vless://d1c3c2ed-f86b-416e-b5ef-916b12864f1f@www.speedtest.net:80??path=%2Fteleg
 vless://c88bc657-f88b-4520-ae2c-83b02fedd7fc@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔shh_proxy%20🔓%20VL-WS-N/A%20🆥🆥%20%203ms
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@speedtest.org:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🆥🆥%20%201ms
 vless://3a75d302-16e0-44fc-bc21-2ced41ddac4a@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
