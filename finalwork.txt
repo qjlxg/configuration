@@ -7016,3 +7016,4 @@ vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTeleg
 vless://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 423
 vless://6d8744b3-a96a-4bb8-ac10-cad1e89b4a2a@www.speedtest.net:80??path=%2Ftelegram-%40ExpressVPN_420-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%2Ctelegram-%40ExpressVPN_420%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 409
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40Freakconfig
