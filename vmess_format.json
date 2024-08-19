@@ -219,6 +219,21 @@
         "v": "2"
     },
     {
+        "add": "172.67.116.48",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "10,11|\u65e5\u672c3|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
