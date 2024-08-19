@@ -194,7 +194,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 1"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 2"
     },
     {
         "add": "104.25.181.33",
@@ -228,7 +228,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 270"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 290"
     },
     {
         "add": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
@@ -17054,57 +17054,6 @@
         "port": "80",
         "ps": "@V2rayNG3",
         "scy": "none",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
-        "add": "104.26.15.148",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6965a407-7549-436e-8064-22e3d3d2e7cd",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
-        "add": "104.26.15.148",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6965a407-7549-436e-8064-22e3d3d2e7cd",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
-        "add": "104.26.15.148",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6965a407-7549-436e-8064-22e3d3d2e7cd",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool",
-        "scy": "auto",
         "sni": "",
         "tls": "",
         "type": "",
