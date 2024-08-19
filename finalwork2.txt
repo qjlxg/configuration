@@ -7063,3 +7063,7 @@ vless://9bb7f043-97a1-5c63-8736-941269e1efde@185.146.173.169:80??security=none&t
 vless://e5515956-fdf3-4924-a441-6efa7b830076@198.41.193.40:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.193.40:80
 vless://ae3a4afb-36f5-5445-96ab-ea37759a5843@172.67.171.48:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.48:80
 vless://bc7d5e62-cbec-5d36-bcc2-f56122b205b5@172.67.171.113:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.113:80
+vless://5c023a50-f9f2-5563-9ce2-e46d5cda57bc@185.146.173.44:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://bc7d5e62-cbec-5d36-bcc2-f56122b205b5@172.67.171.113:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://f39736c2-8f46-5c61-8029-6c91b5506d4d@188.114.97.3:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://ae3a4afb-36f5-5445-96ab-ea37759a5843@zula.ir:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
