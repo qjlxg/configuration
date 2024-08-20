@@ -422,7 +422,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 318"
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DailyV2RY | 285"
     },
     {
         "add": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
@@ -16861,23 +16861,6 @@
         "type": "none",
         "host": "91.341.94.160",
         "tls": "none"
-    },
-    {
-        "add": "104.21.51.208",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "cb4fca5f-edf8-415b-aa8f-ac52f415296a",
-        "net": "ws",
-        "path": "/0fpZFB6IbpNptGAxAtI0QM",
-        "port": "80",
-        "ps": "telegram \u2602\ufe0f DailyV2ry",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
     },
     {
         "add": "104.21.51.208",
