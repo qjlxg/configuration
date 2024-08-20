@@ -437,7 +437,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 2"
+        "ps": "\ud83c\udde8\ud83c\uddf7CR | \ud83d\udfe2 | vmess | @mftizi | 2"
     },
     {
         "add": "104.25.181.33",
@@ -17143,21 +17143,6 @@
         "path": "/f4",
         "port": "80",
         "ps": "\ud83c\udd94v2ray1_ng \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "ps": "@Vip_Security join us - 350\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
