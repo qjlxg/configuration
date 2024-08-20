@@ -420,7 +420,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 2"
+        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @mftizi | 2"
     },
     {
         "add": "104.25.181.33",
@@ -468,7 +468,7 @@
         "host": "91.341.94.160",
         "tls": "",
         "path": "/",
-        "ps": "\ud83c\udde8\ud83c\uddf3CN | \ud83d\udfe2 | vmess | @yaney_01 | 4"
+        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @yaney_01 | 4"
     },
     {
         "v": "2",
@@ -569,21 +569,6 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 4"
     },
     {
-        "add": "djzze.makhluk.my.id",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "bde8c800-48b6-4c60-a379-e64f75065701",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "DuniaVPN",
-        "scy": "none",
-        "sni": "djzze.makhluk.my.id",
-        "tls": "none",
-        "type": "none",
-        "v": "2"
-    },
-    {
         "add": "172.64.154.211",
         "aid": "0",
         "alpn": "",
@@ -615,6 +600,21 @@
         "sni": "",
         "tls": "",
         "type": "",
+        "v": "2"
+    },
+    {
+        "add": "djzze.makhluk.my.id",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "bde8c800-48b6-4c60-a379-e64f75065701",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "DuniaVPN",
+        "scy": "none",
+        "sni": "djzze.makhluk.my.id",
+        "tls": "none",
+        "type": "none",
         "v": "2"
     },
     {
@@ -17023,7 +17023,7 @@
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83c\udd94freakconfig \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
+        "ps": "\ud83c\udd94freakconfig \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 1ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
@@ -17040,7 +17040,7 @@
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
