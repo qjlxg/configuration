@@ -322,20 +322,20 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.19.235.1",
+        "add": "104.16.141.26",
         "port": "80",
         "type": "none",
-        "id": "aa6c09dc-aa4a-4914-b439-6d8117f733a3",
+        "id": "ec286f13-7e1a-42bc-9deb-76b91b4b9d2d",
         "aid": "0",
         "net": "ws",
-        "path": "/vmess#t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro",
+        "path": "/vmess#t-me-DarkVPNpro#t-me-DarkVPNpro#t-me-DarkVPNpro#t-me-DarkVPNpro",
         "host": "91.341.94.160",
         "tls": ""
     },
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.16.141.26",
+        "add": "104.19.13.0",
         "port": "80",
         "type": "none",
         "id": "ec286f13-7e1a-42bc-9deb-76b91b4b9d2d",
@@ -406,6 +406,23 @@
         "type": "",
         "v": "2",
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 48"
+    },
+    {
+        "add": "172.64.154.211",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ee92bd8b-04cd-4b48-bafb-390801194eb4",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @proxystore11 | 0"
     },
     {
         "add": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
