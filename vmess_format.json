@@ -355,7 +355,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @mftizi | 2"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 2"
     },
     {
         "add": "104.25.181.33",
@@ -373,23 +373,6 @@
         "type": "",
         "v": "2",
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 48"
-    },
-    {
-        "add": "irtr1.ngiftcard.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "7c7af2de-bb97-429f-ac3c-8ef849717491",
-        "net": "ws",
-        "path": "/34L4qODA1XwJYopk6e398A",
-        "port": "80",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2",
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @DailyV2RY | 244"
     },
     {
         "add": "172.64.154.211",
@@ -420,7 +403,7 @@
         "host": "91.341.94.160",
         "tls": "",
         "path": "/",
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @yaney_01 | 4"
+        "ps": "\ud83c\udde8\ud83c\uddf3CN | \ud83d\udfe2 | vmess | @yaney_01 | 4"
     },
     {
         "v": "2",
