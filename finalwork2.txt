@@ -7277,3 +7277,5 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??path=%2F&security=
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇨🇦%20CA%202ms
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:80
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 3
+vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.18:80
+vless://319796a6-73a6-4515-9972-09e298334b76@162.159.153.2:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
