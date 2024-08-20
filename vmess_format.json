@@ -405,7 +405,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\ud83c\udde8\ud83c\uddf7CR | \ud83d\udfe2 | vmess | @mftizi | 2"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 2"
     },
     {
         "add": "104.25.181.33",
@@ -569,23 +569,6 @@
         "v": "2"
     },
     {
-        "add": "irtr1.ngiftcard.com",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "7c7af2de-bb97-429f-ac3c-8ef849717491",
-        "net": "ws",
-        "path": "/34L4qODA1XwJYopk6e398A",
-        "port": "80",
-        "ps": "telegram \u2602\ufe0f DailyV2ry",
-        "scy": "chacha20-poly1305",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "172.64.154.211",
         "aid": "0",
         "alpn": "",
@@ -597,6 +580,23 @@
         "port": "80",
         "ps": "\ud83e\ude8678@oneclickvpnkeys",
         "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
+        "add": "irtr1.ngiftcard.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "7c7af2de-bb97-429f-ac3c-8ef849717491",
+        "net": "ws",
+        "path": "/34L4qODA1XwJYopk6e398A",
+        "port": "80",
+        "ps": "telegram \u2602\ufe0f DailyV2ry",
+        "scy": "chacha20-poly1305",
         "sni": "",
         "tls": "",
         "type": "",
@@ -17016,8 +17016,25 @@
         "v": "2"
     },
     {
+        "add": "172.64.154.211",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "ee92bd8b-04cd-4b48-bafb-390801194eb4",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
-        "ps": "\ud83c\udd94v2line \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 3ms",
+        "ps": "\ud83c\udd94v2line \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
         "add": "172.64.154.211",
         "port": "80",
         "id": "ee92bd8b-04cd-4b48-bafb-390801194eb4",
