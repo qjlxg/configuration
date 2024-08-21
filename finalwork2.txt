@@ -7333,3 +7333,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80??path=TG+%40WangCa
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.49.212.232:80??path=TG+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@54.194.162.247:80??path=TG+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80??path=TG+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40Freakconfig
