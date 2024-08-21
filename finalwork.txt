@@ -7496,3 +7496,4 @@ vless://f116f334-d21c-4f6c-bec9-858a3019aa38@198.41.193.40:80??security=none&typ
 vless://993f1c3a-7654-4ee1-866a-8dc57cb9505a@162.159.152.2:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
 vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@172.67.197.154:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.197.154:80
 vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@104.21.36.170:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.36.170:80
+vless://-  KING OF SPEED  -@188.114.98.0:80??path=%2Fkingvrayng.shomalmegamall.ir.re%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
