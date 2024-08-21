@@ -7383,3 +7383,4 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D%2F
 vless://5e542e81-9869-4afd-ad5c-71629718c372@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://5c023a50-f9f2-5563-9ce2-e46d5cda57bc@185.146.173.44:80??flow=&host=91.241.94.160&path=%2Fvless&type=ws#👉🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/?ed=2048#🇺🇸US | 🔴 | vless | @iP_CF | 1
+vless://5e542e81-9869-4afd-ad5c-71629718c372@www.speedtest.net:80??security=&type=ws&path=/telegram-%40Shh_Proxy-%40Shh_Proxy,telegram-%40Shh_Proxy,telegram-%40Shh_Proxy,telegram-%40Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#👉🆔 @v2ray_configs_pool
