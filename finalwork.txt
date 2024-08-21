@@ -7279,3 +7279,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:80??security=none&type
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??path=/&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 3
 vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.18:80
 vless://319796a6-73a6-4515-9972-09e298334b76@162.159.153.2:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔dailyv2ry%20🔓%20VL-WS-N/A%20🆥🆥%20%20121ms
+vless://314902be-2ff3-49e8-9812-78a0faaff992@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔flyv2ray%20🔓%20VL-WS-N/A%20🆥🆥%20%207ms
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔proxy_mtm%20🔓%20VL-WS-N/A%20🆥🆥%20%20226ms
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔proxy_mtm%20🔓%20VL-WS-N/A%20🇺🇸%20US%201ms
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.17:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool
