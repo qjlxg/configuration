@@ -7384,3 +7384,6 @@ vless://5e542e81-9869-4afd-ad5c-71629718c372@www.speedtest.net:80??security=&typ
 vless://5c023a50-f9f2-5563-9ce2-e46d5cda57bc@185.146.173.44:80??flow=&host=91.241.94.160&path=%2Fvless&type=ws#👉🆔 @v2ray_configs_pool
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/?ed=2048#🇺🇸US | 🔴 | vless | @iP_CF | 1
 vless://5e542e81-9869-4afd-ad5c-71629718c372@www.speedtest.net:80??security=&type=ws&path=/telegram-%40Shh_Proxy-%40Shh_Proxy,telegram-%40Shh_Proxy,telegram-%40Shh_Proxy,telegram-%40Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#👉🆔 @v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80??security=none&type=ws&host=91.241.94.160&path=TG+%40WangCai_8+%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇩🇪 DE-130.162.61.18:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.101:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://baa80013-fe75-5879-b5c4-a9534d0e6bd7@190.93.247.116:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
