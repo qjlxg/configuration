@@ -7575,3 +7575,4 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.43.45:80??security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.31.101:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.173.212:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.24.142:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool
+vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:80??path=%2FodHGn0T9HGFXsTlN%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
