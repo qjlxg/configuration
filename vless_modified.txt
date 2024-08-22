@@ -4076,7 +4076,6 @@ vless://telegram-id-ArV2ray@185.146.173.158:80??path=/telegram-ArV2ray,telegram-
 vless://telegram-id-ArV2ray@185.146.173.237:80??path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇸🇪SE | 🔴 | vless | @v2logy | 9
 vless://50d0ecb0-cd77-4969-a9c5-0395b0c1e2ed@185.146.173.237:80??path=/vless?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇸🇪SE | 🔴 | vless | @V2rayCollectorDonate | 3
 vless://186c6afe-7234-4911-839f-77086e9b7278@172.64.86.128:80??path=/?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @V2rayCollectorDonate | 7
-vless://channel-VPNCUSTOMIZE@www.parsvds.ir:80??path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @V2rayNGn | 3
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:80??path=Telegram🇨🇳 @WangCai_8 /?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇫🇷FR | 🔴 | vless | @customv2ray | 6
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/#🚩CF | 🔴 | vless | @MTConfig | 0
 vless://f30aad19-41df-486d-9b57-3df1eceab697@185.146.173.58:80??path=/servernett&security=none&encryption=none&host=91.241.94.160&type=ws#🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 8
@@ -4085,7 +4084,7 @@ vless://e9ae53bf-369a-4b28-995f-3ea65024b2cf@104.17.148.22:80??Telegram=@V2RayTz
 vless://51fe448d-a2c0-4d21-af42-9b228539450a@104.17.147.22:80??Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 15
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 182
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 184
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇨🇦CA | 🔴 | vless | @DailyV2RY | 186
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 186
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 187
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 190
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 191

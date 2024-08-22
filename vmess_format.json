@@ -255,18 +255,6 @@
         "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 4"
     },
     {
-        "v": "2",
-        "add": "104.21.71.88",
-        "port": "80",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "host": "91.341.94.160",
-        "path": "/v118-fccxmxm35",
-        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @DeamNet_Proxy | 17"
-    },
-    {
         "add": "172.64.154.211",
         "aid": "0",
         "alpn": "",
