@@ -7901,3 +7901,4 @@ vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&typ
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 213
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 214
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 215
+vless://e9ae53bf-369a-4b28-995f-3ea65024b2cf@www.speedtest.net:80??security=&type=ws&path=/telegram-%40Shh_Proxy-%40Shh_Proxy,telegram-%40Shh_Proxy,telegram-%40Shh_Proxy,telegram-%40Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#👉🆔 @v2ray_configs_pool
