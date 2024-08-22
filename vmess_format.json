@@ -1,5 +1,22 @@
 [
     {
+        "add": "172.67.67.67",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
+        "net": "ws",
+        "path": "/f4",
+        "port": "80",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "104.26.14.85",
         "aid": "0",
         "alpn": "",
