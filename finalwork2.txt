@@ -7541,3 +7541,6 @@ vless://%35%65%35%34%32%65%38%31%2d%39%38%36%39%2d%34%61%66%64%2d%61%64%35%63%2d
 vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 429
 vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 426
 vless://b69f02d4-4947-5d4c-a341-aae33b616dbc@185.146.173.98:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#[🇸🇪]t.me/ConfigsHub
+vless://993f1c3a-7654-4ee1-866a-8dc57cb9505a@162.159.152.2:80??security=none&type=ws&host=91.241.94.160&path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
+vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
+vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@104.21.36.170:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.36.170:80
