@@ -1,22 +1,5 @@
 [
     {
-        "add": "172.67.67.67",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
-        "net": "ws",
-        "path": "/f4",
-        "port": "80",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "104.26.14.85",
         "aid": "0",
         "alpn": "",
@@ -131,6 +114,23 @@
         "type": "none",
         "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool"
+    },
+    {
+        "add": "us-21.hihu.net",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "6385d460-609f-11ef-b936-205c6d5f5d78",
+        "net": "ws",
+        "path": "/urzemhp6",
+        "port": "80",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "v": "2",
