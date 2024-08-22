@@ -8017,3 +8017,4 @@ vless://5bdf790f-0af2-4481-a624-41b66e7e3489@185.254.97.110:80??ed=2048&eh=Sec-W
 vless://e45d9352-3204-42c8-bcba-f719cf7952ac@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.202:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool
 vless://b8380e9e-fd36-4f98-96eb-d2b5377c69c2@104.18.27.94:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔 @v2ray_configs_pool
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇨🇦CA | 🔴 | vless | @DailyV2RY | 186
