@@ -29,12 +29,7 @@ vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.17:80??path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://9bb7f043-97a1-5c63-8736-941269e1efde@185.146.173.169:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
-vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@parsvds.com:80??path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
-vless://5bf19cf1-b54b-4718-b596-2d9ec5e82959@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#👉🆔 @v2ray_configs_pool
-vless://5bf19cf1-b54b-4718-b596-2d9ec5e82959@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
 vless://053f4c34-a565-4950-b316-9d100b81ae0f@www.speedtest.net:80??encryption=none&security=none&sni=ShepHerd-AssemBly-Math-sHowcase.TryCloudflare.coM&type=ws&host=91.241.94.160&path=%2Ffile%3Fed%3D2560#👉🆔 @v2ray_configs_pool
 vless://855c5f2f-c42c-41e2-bbb2-35cd09bc55ab@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
@@ -4270,10 +4265,6 @@ vless://5bf19cf1-b54b-4718-b596-2d9ec5e82959@188.114.98.224:80??path=%2Ftelegram
 vless://1eb7745d-e3e7-4217-ab93-c4224b943c12@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
 vless://07322a02-7d54-495c-9a1f-23ae333eb6c2@198.41.201.125:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80??path=%2Fdl%2Findex.php&security=none&encryption=none&host=91.241.94.160&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://505094ea-297c-496a-af29-ed33db58f820@www.speedtest.net.cdn.PaGeS.Dev:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80??path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://25aa0bd2-d457-472f-973b-2027cdf9eef3@zula.ir:80??path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:80??path=%2Fusers%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80??path=%2Firan.ir%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTelegram%40v2ray_alpha%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
@@ -4284,10 +4275,6 @@ vless://MdVpnSec@www.parsvds.ir:80??path=MDVPNSEC%3Fed%3D80&security=none&encryp
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80??path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3@V2ray_NG@SERVER444
-vless://505094ea-297c-496a-af29-ed33db58f820@www.speedtest.net.cdn.PaGeS.Dev:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80??path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://25aa0bd2-d457-472f-973b-2027cdf9eef3@zula.ir:80??path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:80??path=%2Fusers%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80??path=%2Firan.ir%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTelegram%40v2ray_alpha%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
@@ -4298,10 +4285,6 @@ vless://MdVpnSec@www.parsvds.ir:80??path=MDVPNSEC%3Fed%3D80&security=none&encryp
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80??path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://505094ea-297c-496a-af29-ed33db58f820@www.speedtest.net.cdn.PaGeS.Dev:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80??path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://25aa0bd2-d457-472f-973b-2027cdf9eef3@zula.ir:80??path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:80??path=%2Fusers%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80??path=%2Firan.ir%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTelegram%40v2ray_alpha%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
@@ -4313,7 +4296,6 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80??path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3@V2ray_NG@SERVER444
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%40VmessProtocol+%F0%9F%83%8Fss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40VmessProtocol+%F0%9F%83%8F
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
