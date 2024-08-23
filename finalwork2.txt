@@ -8204,3 +8204,11 @@ vless://e45d9352-3204-42c8-bcba-f719cf7952ac@104.17.147.22:80??Telegram=@V2RayTz
 vless://e9ae53bf-369a-4b28-995f-3ea65024b2cf@104.17.148.22:80??Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 17
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 199
 vless://-KING OF SPEED-@188.114.98.0:80??path=%2Fkingvrayng.shomalmegamall.ir.re%3Fed%3D8080&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://f19e43f0-bb62-47b5-a9ab-c4c1d3718ad2@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 59
+vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 58
+vless://e548e979-51af-4580-a676-2dc751f65eff@www.speedtest.net:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 56
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 55
+vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 51
+vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 46
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 28
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 27
