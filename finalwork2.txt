@@ -8070,3 +8070,11 @@ vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&enc
 vless://e548e979-51af-4580-a676-2dc751f65eff@www.speedtest.net:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%91%89%F0%9F%86%94+%40ConfigV2RayNG
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 202
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 211
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.59.209:80??security=none&sni=us3.rtacg.com&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.59.209:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.228.20:80??security=none&sni=us3.rtacg.com&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.20:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.221.204:80??security=none&sni=us3.rtacg.com&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.204:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-144.24.200.164:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.171.202:80??security=none&sni=us3.rtacg.com&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.171.202:80
+vless://abbacafa-8b31-4daa-9799-b2ac18fda155@185.146.173.58:80??security=none&type=ws&host=91.241.94.160&path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--%3Fed%3D8080#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.219.146:80??security=none&sni=us3.rtacg.com&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.219.146:80
+vless://23712fad-5976-4d17-84a2-f8b2b0adf9ec@172.67.204.39:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.39:80
