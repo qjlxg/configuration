@@ -8098,3 +8098,7 @@ vless://e9ae53bf-369a-4b28-995f-3ea65024b2cf@www.speedtest.net:80??security=&typ
 vless://c29dfd54-00a9-424d-ac4c-72f41614abaf@172.67.223.203:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.223.203:80
 vless://c29dfd54-00a9-424d-ac4c-72f41614abaf@104.21.62.129:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.62.129:80
 vless://381eb2e9-e18a-4f50-93b7-96965a36b7ad@188.114.96.3:80??security=none&type=ws&host=91.241.94.160&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.3:80
+vless://e07b0e67-5a07-4224-9485-ec5f832581ef@www.speedtest.net:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://ebe70fa0-1084-4092-962a-58d313ba4213@198.41.193.40:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://ee50981d-7add-404e-8c3c-2e58737c538b@104.16.232.2:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
+vless://22dce336-2469-426e-aa3d-97a103915427@185.146.173.85:80??path=2048netmaster%2FDaily_Configs-Daily_Configs-Daily_Configs-Daily_Configs%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool
