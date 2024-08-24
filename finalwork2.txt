@@ -8426,3 +8426,4 @@ vless://5bdf790f-0af2-4481-a624-41b66e7e3489@185.254.97.110:80??security=none&ty
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@172.67.130.66:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80
 vless://c18bb58f-54a0-4669-ae82-a294637db008@193.151.158.16:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-193.151.158.16:80
 vless://9bb7f043-97a1-5c63-8736-941269e1efde@185.146.173.169:80??security=none&type=ws&path=/vless&host=91.241.94.160#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.169:80
+vless://74b26212-3b66-465a-bc46-c6bfc36254dc@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
