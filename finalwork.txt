@@ -8557,3 +8557,5 @@ vless://485a58a9-ecaa-4860-905e-7288ad7db007@143.204.130.53:80??security=none&ty
 vless://485a58a9-ecaa-4860-905e-7288ad7db007@143.204.130.102:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-143.204.130.102:80
 vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@162.159.134.61:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless-ntls#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.61:80
 vless://485a58a9-ecaa-4860-905e-7288ad7db007@143.204.130.144:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-143.204.130.144:80
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/#🇺🇸US | 🔴 | vless | @iP_CF | 2
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/?ed=2048#🇺🇸US | 🔴 | vless | @iP_CF | 11
