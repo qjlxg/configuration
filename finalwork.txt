@@ -8400,3 +8400,4 @@ vless://3924d491-b1c2-4cec-c33c-ff115bb67bf1@151.101.194.219:80??security=none&t
 vless://74b26212-3b66-465a-bc46-c6bfc36254dc@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://74b26212-3b66-465a-bc46-c6bfc36254dc@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#😍 @v2ray_configs_pool😍
 vless://871b46a3-939c-4934-9a8a-ccc8dfc50c88@www.speedtest.net:80??path=%2Fdashboard%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80??path=TG+%40WangCai_8+%2F%3Fed&security=none&encryption=none&type=ws&host=91.241.94.160#😍 @v2ray_configs_pool😍
