@@ -8389,3 +8389,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80??path=TG+%40WangCa
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#🆔outline_vpn%20🔓%20VL-WS-N/A%20🆥🆥%20%208ms
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.17:80??path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@104.21.3.52:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.3.52:80
+vless://baa80013-fe75-5879-b5c4-a9534d0e6bd7@190.93.247.116:80??path=%2Fvless&security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
