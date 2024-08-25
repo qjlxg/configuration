@@ -1,22 +1,5 @@
 [
     {
-        "add": "104.25.181.33",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "4797db37-41dc-4bfc-a59f-6c7055b1d15b",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "\ud83d\ude0d @v2ray_configs_pool\ud83d\ude0d",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "10,11|\u65e5\u672c3|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
