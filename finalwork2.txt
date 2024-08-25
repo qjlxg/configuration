@@ -8707,3 +8707,4 @@ vless://5c023a50-f9f2-5563-9ce2-e46d5cda57bc@185.146.173.44:80??security=none&ty
 vless://363a1242-5d0b-44b5-be94-4f8d18f45206@104.21.50.26:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.50.26:80
 vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@172.67.167.150:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.167.150:80
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.161.104:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.104:80
+vless://54b3cbba-e6ac-485a-9481-976a0873eab9@104.21.10.196:80??path=%2FuKnxA8ei1XcX8fEh%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
