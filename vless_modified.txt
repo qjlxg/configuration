@@ -29,8 +29,6 @@ vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
-vless://363a1242-5d0b-44b5-be94-4f8d18f45206@test54.socepol945.workers.Dev:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
-vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.61.8:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM#😍 @v2ray_configs_pool😍
 vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@join-midas-x-x-join-midas-x-xjoin-midas-x-xjoin-midas-x-x.join-midas-x-x-a14.workers.dev:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#😍 @v2ray_configs_pool😍
 vless://5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26@skk.moe:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fvless-ws%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
@@ -50,6 +48,8 @@ vless://74b26212-3b66-465a-bc46-c6bfc36254dc@SpeeDTeST.OrG:80??security=none&typ
 vless://ebbeeb9f-0842-5048-89b9-64643d3424e6@172.67.218.206:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fvless-ws%2F%3Fed%3D2560#😍 @v2ray_configs_pool😍
 vless://6034088f-b713-40dd-93be-eaea802eafe1@172.67.157.34:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FTelegram%2Bchannel%2B%3A%2B@pandavpntc#😍 @v2ray_configs_pool😍
 vless://d94a5437-c4a6-469f-8d8f-af25a717f1a8@172.67.176.195:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#😍 @v2ray_configs_pool😍
+vless://22b3cbba-e6ac-485a-9321-976a0415eab7@104.21.5.57:80??path=%2FeunR9dQIB1sNoC31%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#%E2%9A%9C%EF%B8%8FTelegram%3A%2B%40IP_CF
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0001
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|AE_speednode_0002
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|EE_speednode_0040
