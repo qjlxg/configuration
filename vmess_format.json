@@ -17275,23 +17275,6 @@
         "v": "2"
     },
     {
-        "add": "104.26.14.85",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "c0f3f890-d329-42fc-8311-16ae31c22c6b",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "@Freakconfig",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "108.162.193.143",
         "aid": "0",
         "alpn": "",
