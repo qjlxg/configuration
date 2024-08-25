@@ -8664,3 +8664,4 @@ vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D25
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
 vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#😍 @v2ray_configs_pool😍
 vless://363a1242-5d0b-44b5-be94-4f8d18f45206@172.67.155.183:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.155.183:80
+vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.60.8:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM#😍 @v2ray_configs_pool😍
