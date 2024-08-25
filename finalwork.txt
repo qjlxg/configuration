@@ -8660,3 +8660,6 @@ vless://5bf19cf1-b54b-4718-b596-2d9ec5e82959@www.speedtest.net:80??security=&typ
 vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.61.8:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM#😍 @v2ray_configs_pool😍
 vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@join-midas-x-x-join-midas-x-xjoin-midas-x-xjoin-midas-x-x.join-midas-x-x-a14.workers.dev:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#😍 @v2ray_configs_pool😍
+vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%98%8D+%40ConfigV2RayNG%F0%9F%98%8D
+vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#😍 @v2ray_configs_pool😍
+vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#😍 @v2ray_configs_pool😍
