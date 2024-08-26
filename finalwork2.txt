@@ -9024,3 +9024,4 @@ vless://9ffb2bb1-b2d2-405b-bb79-e6733d84c9f4@www.speedtest.net:80??security=&typ
 vless://74b26212-3b66-465a-bc46-c6bfc36254dc@speedtest.org:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🆥🆥%20%203ms
 vless://765b1d13-5b88-4263-a27e-3bec46695f47@viP.nANVAiiISAeed.IR:80??hiddify=1&sni=TaRaWEB.At&type=ws&alpn=http/1.1&mc=1&path=/AOagIIfbJJ0hbXIwCE6mq&host=91.241.94.160&encryption=none&fp=chrome&headerType=None&security=none#🤩@v2ray_configs_pool🤩
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.17:80??path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#🤩@v2ray_configs_pool🤩
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
