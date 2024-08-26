@@ -17283,23 +17283,6 @@
         "v": "2"
     },
     {
-        "add": "172.64.154.211",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "ee92bd8b-04cd-4b48-bafb-390801194eb4",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "configkade\ud83d\udc49@proxystore11",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
