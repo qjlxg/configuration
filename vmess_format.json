@@ -1,19 +1,19 @@
 [
     {
         "v": "2",
-        "ps": "\u672a\u77e5122 1.2MB/s",
-        "add": "172.64.154.211",
+        "ps": "\u672a\u77e585",
+        "add": "172.67.73.163",
         "port": "80",
-        "id": "ee92bd8b-04cd-4b48-bafb-390801194eb4",
+        "id": "a8d18d17-6eb0-4384-b3b0-558de7765686",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "",
+        "type": "none",
         "host": "91.341.94.160",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "122"
+        "test_name": "85"
     },
     {
         "add": "104.26.15.148",
@@ -278,19 +278,19 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e5122 1.2MB/s",
-        "add": "172.64.154.211",
+        "ps": "\u672a\u77e585",
+        "add": "172.67.73.163",
         "port": "80",
-        "id": "ee92bd8b-04cd-4b48-bafb-390801194eb4",
+        "id": "a8d18d17-6eb0-4384-b3b0-558de7765686",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "",
+        "type": "none",
         "host": "91.341.94.160",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "122"
+        "test_name": "85"
     },
     {
         "v": "2",
