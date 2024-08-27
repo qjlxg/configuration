@@ -9349,3 +9349,6 @@ vless://f19e43f0-bb62-47b5-a9ab-c4c1d3718ad2@www.speedtest.net:80??path=%2FTeleg
 vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 48
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 26
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 10
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@54.194.162.247:80??path=TG+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🤩@v2ray_configs_pool🤩
+vless://Join-Telegram-Picumin@190.93.247.155:80??path=%2Frobots.txt%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🤩@v2ray_configs_pool🤩
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.111.135.19:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🤩@v2ray_configs_pool🤩
