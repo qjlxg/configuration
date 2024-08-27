@@ -1,10 +1,26 @@
 [
     {
         "v": "2",
-        "ps": "\u672a\u77e585",
-        "add": "172.67.73.163",
+        "ps": "\u672a\u77e517 18.0MB/s",
+        "add": "104.26.15.148",
         "port": "80",
-        "id": "a8d18d17-6eb0-4384-b3b0-558de7765686",
+        "id": "2f188c61-6622-4056-810e-a1a5f1c9b023",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "test_name": "17"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e5118 193.7MB/s",
+        "add": "104.26.14.85",
+        "port": "80",
+        "id": "c0f3f890-d329-42fc-8311-16ae31c22c6b",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
@@ -13,7 +29,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "85"
+        "test_name": "118"
     },
     {
         "add": "172.64.154.211",
@@ -263,10 +279,26 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e585",
-        "add": "172.67.73.163",
+        "ps": "\u672a\u77e517 18.0MB/s",
+        "add": "104.26.15.148",
         "port": "80",
-        "id": "a8d18d17-6eb0-4384-b3b0-558de7765686",
+        "id": "2f188c61-6622-4056-810e-a1a5f1c9b023",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "test_name": "17"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e5118 193.7MB/s",
+        "add": "104.26.14.85",
+        "port": "80",
+        "id": "c0f3f890-d329-42fc-8311-16ae31c22c6b",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
@@ -275,7 +307,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "85"
+        "test_name": "118"
     },
     {
         "v": "2",
