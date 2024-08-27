@@ -46,6 +46,7 @@ vless://1723872c-dc1e-442d-98cc-2f30451c93ac@www.speedtest.net:80??path=%2Fteleg
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🤩@v2ray_configs_pool🤩
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@13.56.207.185:80??path=%2Ffreecodes&security=tls&encryption=none&type=ws&sni=rh.ylks.xyz&host=91.241.94.160#🤩@v2ray_configs_pool🤩
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0001
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|AE_speednode_0002
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|EE_speednode_0040
