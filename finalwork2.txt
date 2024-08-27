@@ -9602,3 +9602,6 @@ vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTeleg
 vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 430
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 394
 vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#😊@v2ray_configs_pool😊
+vless://17e31708-0517-4687-998f-e54951a1139a@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#😊@v2ray_configs_pool😊
+vless://17e31708-0517-4687-998f-e54951a1139a@198.41.194.146:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#😊@v2ray_configs_pool😊
+vless://17e31708-0517-4687-998f-e54951a1139a@188.114.99.29:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#😊@v2ray_configs_pool😊
