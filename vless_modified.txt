@@ -4089,7 +4089,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.23:80??security=none&typ
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.32.105:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.32.105:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.77.160:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.77.160:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.19.169.10:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.169.10:80
-vless://bia--ZEDMODEON@www.speedtest.net:80??path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇨🇦CA | 🔴 | vless | @V2pedia | 7
+vless://bia--ZEDMODEON@www.speedtest.net:80??path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @V2pedia | 7
 vless://dfd1ba6a-8561-44c9-9cd9-e796b1f7f646@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🇺🇸US | 🔴 | vless | @shh_proxy | 2
 vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🇺🇸US | 🔴 | vless | @shh_proxy | 5
 vless://177a5f59-2308-4aba-9961-8f756a7854a3@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🇺🇸US | 🔴 | vless | @shh_proxy | 8
@@ -4114,21 +4114,23 @@ vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&s
 vless://dfd1ba6a-8561-44c9-9cd9-e796b1f7f646@104.17.147.22:80??Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 7
 vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@104.17.148.22:80??Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 10
 vless://177a5f59-2308-4aba-9961-8f756a7854a3@104.17.148.22:80??Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 18
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 181
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 182
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 183
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 188
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 189
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 190
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 191
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 192
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 193
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 194
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 198
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 204
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 206
-vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 207
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 199
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 201
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 202
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 203
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 208
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 209
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 210
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 211
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 212
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 213
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 214
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 218
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 224
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 226
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 227
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 228
 vless://0d92cc5b-d8b2-411e-affe-b20e57eb270b@185.146.173.58:80??path=/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy?ed=2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇸🇪SE | 🔴 | vless | @polproxy | 5
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.17:80??path=/Telegram-XV2ry2?ed=512&security=none&encryption=none&host=91.241.94.160&type=ws#🚩CF | 🔴 | vless | @v2rayng_vpnrog | 8
 vless://214db798-c8ab-4dcb-8f2d-345a75073f2f@www.speedtest.net:80??path=/melo/is/needed&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @flyv2ray | 7
@@ -4282,6 +4284,18 @@ vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&typ
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://5e542e81-9869-4afd-ad5c-71629718c372@185.146.173.58:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
 vless://b63da905-d70c-44d8-826c-e0f0d07f65d7@185.146.173.58:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
 vless://8c64f2f8-4aa7-4c22-ad3d-6e549610c903@188.114.98.224:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
@@ -4358,8 +4372,6 @@ vless://1eccf592-4323-4a11-8a2a-dd800eadff5b@185.146.173.18:80??security=none&ty
 vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.161:80??security=none&type=ws&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&path=/&encryption=none&headerType=none&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
 vless://1eccf592-4323-4a11-8a2a-dd800eadff5b@185.146.173.18:80??security=none&type=ws&sni=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&encryption=none&headerType=none&host=91.241.94.160#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.161:80??security=none&type=ws&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&path=/&encryption=none&headerType=none&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
-vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%98%8D+%40ConfigV2RayNG%F0%9F%98%8D
-vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%98%8D+%40ConfigV2RayNG%F0%9F%98%8D
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%98%8D+%40ConfigV2RayNG%F0%9F%98%8D
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%98%8D+%40ConfigV2RayNG%F0%9F%98%8D
 vless://f19e43f0-bb62-47b5-a9ab-c4c1d3718ad2@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#%40XvProxy-29kwzida
