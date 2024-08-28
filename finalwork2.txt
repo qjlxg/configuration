@@ -9978,3 +9978,6 @@ vless://b8380e9e-fd36-4f98-96eb-d2b5377c69c2@104.18.27.94:80??encryption=none&se
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#😎@v2ray_configs_pool😎
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fhttp#😎@v2ray_configs_pool😎
 vless://485a58a9-ecaa-4860-905e-7288ad7db007@13.226.220.78:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-13.226.220.78:80
+vless://1484e77e-30ea-460b-8d24-5f612890d206@66.235.200.32:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#vmessorg%20joinbede
+vless://1484e77e-30ea-460b-8d24-5f612890d206@154.85.99.38:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#vmessorg%20joinbede
+vless://1484e77e-30ea-460b-8d24-5f612890d206@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#vmessorg%20joinbede
