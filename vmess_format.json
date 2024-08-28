@@ -17182,7 +17182,7 @@
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 1ms",
+        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 5ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
