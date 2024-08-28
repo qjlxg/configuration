@@ -9821,3 +9821,4 @@ vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D25
 vless://d0f82ef3-ed0d-4bd2-9cf5-b24f7098245c@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#😎@v2ray_configs_pool😎
 vless://04b2875d-16d7-40d6-af59-47bcad169843@zula.ir:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
 vless://bad302b1-09a8-4060-ad72-209c09d75e19@www.parsvds.ir:80??path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80??path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
