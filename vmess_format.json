@@ -305,7 +305,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @mftizi | 8"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 9"
     },
     {
         "add": "104.26.15.148",
@@ -336,7 +336,7 @@
         "host": "91.341.94.160",
         "tls": "",
         "path": "/",
-        "ps": "\u2754XX | \ud83d\udfe2 | vmess | @yaney_01 | 4"
+        "ps": "\ud83c\udde8\ud83c\uddf3CN | \ud83d\udfe2 | vmess | @yaney_01 | 4"
     },
     {
         "v": "2",
@@ -17278,7 +17278,7 @@
         "net": "ws",
         "path": "/",
         "port": "80",
-        "ps": "@Vip_Security join us - 408\n",
+        "ps": "@Vip_Security join us - 352\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
