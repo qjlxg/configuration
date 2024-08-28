@@ -9945,3 +9945,5 @@ vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTeleg
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 387
 vless://02fc10dc-6ba8-4c52-b063-785703934775@104.17.147.22:80??Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 7
 vless://9498a976-9dc2-441b-bab3-610a694b175d@104.17.147.22:80??Telegram=@V2RayTz,@V2RayTz&security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&host=91.241.94.160&encryption=none#🚩CF | 🔴 | vless | @V2RayTz | 12
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.27:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#😎@v2ray_configs_pool😎
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.172:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#😎@v2ray_configs_pool😎
