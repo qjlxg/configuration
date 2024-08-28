@@ -9639,3 +9639,10 @@ vless://e2657454-92ce-4cdb-8744-955475c91687@151.101.66.219:80??security=none&ty
 vless://b3e9e865-5248-4096-bc2c-29a093e62261@185.146.173.32:80??security=none&type=ws&host=91.241.94.160&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.32:80
 vless://e2657454-92ce-4cdb-8744-955475c91687@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://4ff79117-a1cc-45e9-a088-65c68226e8cc@speed.cloudflare.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fvless%2F#😊@v2ray_configs_pool😊
+vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 442
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#@Vip_Security join us - 436
+vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 435
+vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 433
+vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 428
+vless://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 424
+vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 410
