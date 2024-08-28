@@ -9977,3 +9977,4 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8x
 vless://b8380e9e-fd36-4f98-96eb-d2b5377c69c2@104.18.27.94:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#😎@v2ray_configs_pool😎
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#😎@v2ray_configs_pool😎
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fhttp#😎@v2ray_configs_pool😎
+vless://485a58a9-ecaa-4860-905e-7288ad7db007@13.226.220.78:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-13.226.220.78:80
