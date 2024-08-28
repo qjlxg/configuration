@@ -9735,3 +9735,4 @@ vless://f19e43f0-bb62-47b5-a9ab-c4c1d3718ad2@www.speedtest.net:80??path=%2FTeleg
 vless://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 36
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 8
 vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#😊@v2ray_configs_pool😊
+vless://e85349bc-8644-4a27-ad40-b7e3dd0281b8@www.speedtest.net:80??path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#😊@v2ray_configs_pool😊
