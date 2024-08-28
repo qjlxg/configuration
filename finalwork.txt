@@ -9970,3 +9970,5 @@ vless://17e31708-0517-4687-998f-e54951a1139a@198.41.194.146:80??security=&type=w
 vless://bad302b1-09a8-4060-ad72-209c09d75e19@66.235.200.44:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=80&host=91.241.94.160&encryption=none#🇺🇸US | 🔴 | vless | @vmessorg | 8
 vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@66.235.200.44:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=80&host=91.241.94.160&encryption=none#🇺🇸US | 🔴 | vless | @vmessorg | 10
 vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@parsvds.com:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=80&host=91.241.94.160&encryption=none#🇺🇸US | 🔴 | vless | @vmessorg | 12
+vless://ee08ebb0-f3ad-494a-9daf-dfcae660598f@VIP.nanvAIiiSaEEd.IR:80??path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
+vless://ee08ebb0-f3ad-494a-9daf-dfcae660598f@SpeEDteST.nET:80??path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
