@@ -9899,3 +9899,4 @@ vless://f28681c1-3e76-483c-8fc4-4e09a79e5946@81.28.12.12:80??security=none&type=
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#😎@v2ray_configs_pool😎
 vless://9498a976-9dc2-441b-bab3-610a694b175d@185.146.173.58:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
 vless://91daf3a8-bb64-448e-b1b2-6dc00b6dd4fe@www.speedtest.net:80??security=none&encryption=none&type=ws&host=91.241.94.160&path=/?ed%3D2560#😎@v2ray_configs_pool😎
+vless://51def145-0893-4a15-8033-6e9cb150ca92@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
