@@ -204,6 +204,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddef\ud83c\uddf5 \u65e5\u672c V2CROSS.COM",
+        "add": "3h-philippines1.09vpn.com",
+        "port": "80",
+        "type": "none",
+        "id": "e7d6a050-e52a-4d85-ac26-95f85e44e8f4",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u516c\u53f8CDN\u8282\u70b9(iPower)",
         "add": "66.235.200.0",
         "port": "80",
@@ -212,6 +225,32 @@
         "aid": "0",
         "net": "ws",
         "path": "/vmess#t-me-DarkVPNpro#t-me-DarkVPNpro#t-me-DarkVPNpro#t-me-DarkVPNpro",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "104.18.75.32",
+        "port": "80",
+        "type": "none",
+        "id": "4797db37-41dc-4bfc-a59f-6c7055b1d15b",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmess",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddef\ud83c\uddf5 10,11|\u65e5\u672c3|@ripaojiedian",
+        "add": "cfcdn3.sanfencdn9.com",
+        "port": "80",
+        "type": "none",
+        "id": "b300b4b1-e6d4-463b-9dae-2ac0cfa0d218",
+        "aid": "0",
+        "net": "ws",
+        "path": "/video/X37qXHip",
         "host": "91.341.94.160",
         "tls": ""
     },
