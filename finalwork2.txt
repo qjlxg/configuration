@@ -10045,3 +10045,4 @@ vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@SpeeDTeST.OrG:80??security=none&enc
 vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
 vless://7c5dafce-db80-4ca3-a7db-0d5fc7314c73@www.parspack.com:80??path=%2Fvless%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🥰@v2ray_configs_pool🥰
 vless://c3e6ef87-7dbd-4f67-92cb-77d043c1fecd@www.parspack.com:80??path=%2Fvless%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🥰@v2ray_configs_pool🥰
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80??path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
