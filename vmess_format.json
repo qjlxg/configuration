@@ -1,22 +1,5 @@
 [
     {
-        "add": "104.16.67.38",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "net": "ws",
-        "path": "/v118-fccxmxm35",
-        "port": "80",
-        "ps": "\ud83d\ude0e@v2ray_configs_pool\ud83d\ude0e",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "www.speedtest.net",
         "aid": "0",
         "alpn": "h2,http/1.1",
