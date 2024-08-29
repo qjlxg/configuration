@@ -200,7 +200,7 @@
         "tls": "",
         "sni": "",
         "alpn": "",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 9"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 10"
     },
     {
         "add": "104.26.15.148",
@@ -347,6 +347,23 @@
         "alpn": "",
         "fp": "",
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 5"
+    },
+    {
+        "add": "104.17.148.22",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "\ud83e\udee77@oneclickvpnkeys",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "add": "104.26.15.148",
@@ -17022,7 +17039,7 @@
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
+        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 9ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
