@@ -165,6 +165,40 @@
         "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @mftizi | 10"
     },
     {
+        "add": "blang.kcapsys.com",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 0"
+    },
+    {
+        "add": "104.21.71.88",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
+        "net": "ws",
+        "path": "/us2ekjds3nay",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @ShadowProxy66 | 4"
+    },
+    {
         "add": "deji.kcapsys.com",
         "aid": "0",
         "alpn": "",
@@ -179,7 +213,7 @@
         "tls": "",
         "type": "",
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 14"
+        "ps": "\ud83c\uddfa\ud83c\uddf8US | \ud83d\udfe2 | vmess | @ShadowProxy66 | 19"
     },
     {
         "add": "104.26.15.148",
