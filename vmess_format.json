@@ -119,23 +119,6 @@
         "tls": ""
     },
     {
-        "add": "104.17.148.22",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "3f638f34-8dba-4186-bc43-2716a7ddd4be",
-        "net": "ws",
-        "path": "/az05.beyondy.cfd:443/link",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.17.148.22:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
