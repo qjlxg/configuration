@@ -281,23 +281,6 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 5"
     },
     {
-        "v": "2",
-        "add": "104.17.148.22",
-        "port": "80",
-        "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": "",
-        "ps": "\ud83e\udd70@v2ray_configs_pool\ud83e\udd70"
-    },
-    {
         "add": "104.17.148.22",
         "aid": "0",
         "alpn": "",
@@ -329,6 +312,21 @@
         "sni": "",
         "tls": "",
         "type": "",
+        "v": "2"
+    },
+    {
+        "add": "djzze.makhluk.my.id",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "bde8c800-48b6-4c60-a379-e64f75065701",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "DuniaVPN",
+        "scy": "none",
+        "sni": "djzze.makhluk.my.id",
+        "tls": "none",
+        "type": "none",
         "v": "2"
     },
     {
@@ -16771,21 +16769,6 @@
         "v": "2"
     },
     {
-        "add": "djzze.makhluk.my.id",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "bde8c800-48b6-4c60-a379-e64f75065701",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "DuniaVPN",
-        "scy": "none",
-        "sni": "djzze.makhluk.my.id",
-        "tls": "none",
-        "type": "none",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\u5723\u4fdd\u7f57 (\u81ea\u5df1\u4f18\u9009IP)",
         "add": "icook.hk",
@@ -16988,7 +16971,7 @@
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 6ms",
+        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 5ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
