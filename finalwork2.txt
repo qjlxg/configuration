@@ -10022,3 +10022,7 @@ vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@141.101.120.237:80??encryption=none
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.16.133.222:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#😎@v2ray_configs_pool😎
 vless://74b26212-3b66-465a-bc46-c6bfc36254dc@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 141
 vless://74b26212-3b66-465a-bc46-c6bfc36254dc@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🇺🇸US | 🔴 | vless | @DailyV2RY | 143
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.111.135.19:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@54.194.162.247:80??path=TG+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
+vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
+vless://610d7d20-ba6c-43a3-889d-7e4958791ee9@SpeeDTeST.OrG:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#😎@v2ray_configs_pool😎
