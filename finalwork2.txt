@@ -10488,3 +10488,4 @@ vless://53812aec-ca31-4900-9575-2f335b45a757@185.146.173.58:80??path=%2Ftelegram
 vless://53812aec-ca31-4900-9575-2f335b45a757@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🥰@v2ray_configs_pool🥰
 vless://04b2875d-16d7-40d6-af59-47bcad169843@www.speedtest.net:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#🥰@v2ray_configs_pool🥰
 vless://36048065-44f2-574d-b116-e76c34e9bd7e@104.21.51.208:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.51.208:80
+vless://e3121ce9-cfe3-4504-90ea-6fa6178cd4ad@66.235.200.17:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#🥰@v2ray_configs_pool🥰
