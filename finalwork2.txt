@@ -10459,3 +10459,4 @@ vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTeleg
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 9
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@108.162.196.21:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-108.162.196.21:80
 vless://76d62252-82ba-4267-9768-3d8aa87f17b0@www.speedtest.net:80??security=&type=ws&path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#🥰@v2ray_configs_pool🥰
+vless://36048065-44f2-574d-b116-e76c34e9bd7e@104.21.51.208:80??path=/Tel-@ELiV2ry-@ELiV2ry%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#swiss-S2-@ELiV2RAY
