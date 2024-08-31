@@ -10652,3 +10652,4 @@ vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.45.19:80??security=none&type
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??security=none&type=ws&path=freecodesfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.175:80
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.44.80:80??security=none&type=ws&host=91.241.94.160&path=%2Fmelo%2Fis%2Fneeded%3F%40%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.80:80
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.67.148.91:80??security=none&type=ws&host=91.241.94.160&path=%2Fmelo%2Fis%2Fneeded%3F%40%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.91:80
+vless://e4415adf-61d2-55c7-a8fe-34b112da932e@172.67.193.36:80??path=VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#➡️@v2ray_configs_pool⬅️
