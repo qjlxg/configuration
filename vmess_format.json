@@ -406,6 +406,23 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 5"
     },
     {
+        "add": "104.16.61.8",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "4804f14b-c1f8-452d-a6ec-eff1490aeac9",
+        "net": "ws",
+        "path": "/lRkGCkYS9X5GDNJYMWXN7kCm3lL",
+        "port": "80",
+        "ps": "\ud83d\uddb2\ufe0f80@oneclickvpnkeys",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "up.rayzellstore.tech",
         "aid": "0",
         "host": "91.341.94.160",
@@ -433,40 +450,6 @@
         "sni": "djzze.makhluk.my.id",
         "tls": "none",
         "type": "none",
-        "v": "2"
-    },
-    {
-        "add": "104.17.148.22",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83e\udee77@oneclickvpnkeys",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
-        "add": "104.26.15.148",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "947cb385-54b4-4453-ac92-63c95ef32a6a",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83e\uddff2@oneclickvpnkeys",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
         "v": "2"
     },
     {
@@ -16908,19 +16891,6 @@
     },
     {
         "v": "2",
-        "ps": "tfstore WS (CDN) NTLS",
-        "add": "43ujt.ftclouds.asia",
-        "port": "80",
-        "id": "b2a5b989-c19a-4148-8d46-bc888386da4c",
-        "aid": "0",
-        "net": "ws",
-        "path": "/whatever/vmess",
-        "type": "none",
-        "host": "91.341.94.160",
-        "tls": "none"
-    },
-    {
-        "v": "2",
         "ps": "\u5723\u4fdd\u7f57 (\u81ea\u5df1\u4f18\u9009IP)",
         "add": "icook.hk",
         "port": "80",
@@ -16952,6 +16922,19 @@
         "sni": "",
         "alpn": "",
         "fp": ""
+    },
+    {
+        "v": "2",
+        "ps": "tfstore WS (CDN) NTLS",
+        "add": "43ujt.ftclouds.asia",
+        "port": "80",
+        "id": "b2a5b989-c19a-4148-8d46-bc888386da4c",
+        "aid": "0",
+        "net": "ws",
+        "path": "/whatever/vmess",
+        "type": "none",
+        "host": "91.341.94.160",
+        "tls": "none"
     },
     {
         "v": "2",
@@ -17109,7 +17092,7 @@
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\uddfa\ud83c\uddf8 US 2ms",
+        "ps": "\ud83c\udd94proxystore11 \ud83d\udd13 VM-WS-N/A \ud83c\udde8\ud83c\udde6 CA 2ms",
         "scy": "auto",
         "sni": "",
         "tls": "",
