@@ -10691,3 +10691,11 @@ vless://dc5bad09-365f-4eb4-ab9e-4e6e7d5120dd@www.speedtest.net:80??path=%2FTeleg
 vless://d60bf638-f539-47ad-9ca9-a4e39dc13bf7@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 438
 vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 410
 vless://37222038-f3a4-457f-a382-c4b003b93537@104.18.27.94:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 397
+vless://24810c94-d108-4cb2-b9ce-b06714a326a5@185.146.173.58:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:80
+vless://f75190e0-8f9c-4ac3-8801-7191f8770e18@104.16.0.18:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.0.18:80
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@104.21.29.40:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.29.40:80
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.46.237:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.46.237:80
+vless://137b754d-09e6-4a5f-b1db-9655b042a55a@104.16.232.2:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.232.2:80
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@204.110.220.120:80??security=tls&sni=vv.ylkszy.eu.org&type=ws&path=/?ed&host=91.241.94.160#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.120:80
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.44.80:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.80:80
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.47.176:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.176:80
