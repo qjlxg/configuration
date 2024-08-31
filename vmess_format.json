@@ -34,6 +34,23 @@
         "ps": "\u27a1\ufe0f@v2ray_configs_pool\u2b05\ufe0f"
     },
     {
+        "add": "104.26.15.148",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2c4d6f66-2966-49c1-93aa-a7192ba8f8fc",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "none",
+        "v": "2",
+        "ps": "\u27a1\ufe0f@v2ray_configs_pool\u2b05\ufe0f"
+    },
+    {
         "v": "2",
         "ps": "10,11|\u65e5\u672c3|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
