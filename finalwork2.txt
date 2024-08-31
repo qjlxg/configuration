@@ -10701,3 +10701,4 @@ vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.44.80:80??security=none&type
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.47.176:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.176:80
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@172.66.45.19:80??path=%2Fmelo%2Fis%2Fneeded%3F%40%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#➡️@v2ray_configs_pool⬅️
 vless://01e86ab8-fbda-4ff5-8159-41b0f35c08d4@104.18.33.123:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#➡️@v2ray_configs_pool⬅️
+vless://cc2e9078-e564-4800-b05f-1ea0bfb53f44@www.speedtest.net:80??path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#➡️@v2ray_configs_pool⬅️
