@@ -10714,3 +10714,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@35.244.133.3:80??security=none&type
 vless://44b3cbba-e6ac-485a-9481-981a0415eab9@199.212.90.64:80??security=none&type=ws&host=91.241.94.160&path=%2F%3F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇦 CA-199.212.90.64:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??security=none&type=ws&host=91.241.94.160&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-34.160.118.77:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.162.61.18:80??security=none&type=ws&host=91.241.94.160&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇩🇪 DE-130.162.61.18:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.138:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#➡️@v2ray_configs_pool⬅️
