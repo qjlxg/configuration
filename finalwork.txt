@@ -10970,3 +10970,4 @@ vless://1a01bf94-3bb6-47be-9fb6-ef909244b1b3@80.71.149.246:80??path=%2F&security
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#😍@v2ray_configs_pool😍
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#😍@v2ray_configs_pool😍
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@start.siteg52770.workers.dev:80??path=%2FeWfrbHsky6Lse6ha%2FMC4wLjAuMA%3D%3D%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#😍@v2ray_configs_pool😍
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
