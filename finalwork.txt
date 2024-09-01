@@ -11183,3 +11183,8 @@ vless://%63%36%38%66%32%38%33%34%2d%38%34%66%63%2d%34%63%65%36%2d%39%30%39%33%2d
 vless://%65%33%33%62%62%32%66%62%2d%37%62%31%31%2d%34%36%65%61%2d%38%63%31%32%2d%37%32%62%30%31%61%61%66%34%37%31%33@104.17.148.22:80??Telegram=%40V2RayTz%2C%40V2RayTz&security=&type=ws&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&host=91.241.94.160&encryption=none#🆔v2raytz%20🔓%20VL-WS-N/A%20🇨🇦%20CA%208ms
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇺🇸%20US%201ms
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇺🇸%20US%207ms
+vless://9f2e6feb-d3c4-4b58-b25f-e441e0ccd621@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://a7504fe5-e066-4e36-bfec-2e55d3d8e828@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:80??security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-57.129.41.216:80
+vless://b5b69b47-50a4-4142-b513-d1c596b36d85@162.159.152.2:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.191:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.191:80
