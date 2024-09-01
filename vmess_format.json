@@ -543,6 +543,23 @@
         "tls": ""
     },
     {
+        "add": "185.146.173.227",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "b1fecac5-0eb0-440c-ba9b-a937b34881d6",
+        "net": "ws",
+        "path": "/navigate?ed=1048",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddf8\ud83c\uddea SE-185.146.173.227:80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "US3",
         "add": "cfcdn3.sanfencdn9.com",
@@ -17574,6 +17591,45 @@
         "tls": "",
         "type": "",
         "v": "2"
+    },
+    {
+        "v": "2",
+        "add": "jp2.elkcloud.cf",
+        "port": "80",
+        "type": "none",
+        "id": "9b641bd5-6b80-359e-a23a-eb7b6f21fc1a",
+        "aid": "0",
+        "net": "ws",
+        "path": "/qatjpji",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\ude0d@v2ray_configs_pool\ud83d\ude0d"
+    },
+    {
+        "v": "2",
+        "add": "jp2.elkcloud.cf",
+        "port": "80",
+        "type": "none",
+        "id": "9b641bd5-6b80-359e-a23a-eb7b6f21fc1a",
+        "aid": "0",
+        "net": "ws",
+        "path": "/qatjpji",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\ude0d@v2ray_configs_pool\ud83d\ude0d"
+    },
+    {
+        "v": "2",
+        "add": "jp2.elkcloud.cf",
+        "port": "80",
+        "type": "none",
+        "id": "9b641bd5-6b80-359e-a23a-eb7b6f21fc1a",
+        "aid": "0",
+        "net": "ws",
+        "path": "/qatjpji",
+        "host": "91.341.94.160",
+        "tls": "",
+        "ps": "\ud83d\ude0d@v2ray_configs_pool\ud83d\ude0d"
     },
     {
         "add": "172.67.116.48",
