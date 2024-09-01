@@ -516,23 +516,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.64.155.209:80",
-        "add": "172.64.155.209",
-        "port": "80",
-        "id": "947cb385-54b4-4453-ac92-63c95ef32a6a",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "tls": "",
-        "sni": "",
-        "alpn": "",
-        "fp": ""
-    },
-    {
-        "v": "2",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
         "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
