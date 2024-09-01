@@ -10941,3 +10941,4 @@ vless://%66%31%37%66%36%65%36%34%2d%37%66%38%31%2d%34%38%64%33%2d%62%34%34%35%2d
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇨🇦%20CA%208ms
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇨🇦%20CA%209ms
 vless://186c6afe-7234-4911-839f-77086e9b7278@172.64.86.128:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#😍@v2ray_configs_pool😍
+vless://1a01bf94-3bb6-47be-9fb6-ef909244b1b3@80.71.149.246:80??path=%2F&security=none&encryption=none&type=ws&host=91.241.94.160#😍@v2ray_configs_pool😍
