@@ -11084,3 +11084,4 @@ vless://b5b69b47-50a4-4142-b513-d1c596b36d85@162.159.153.2:80??security=none&typ
 vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:80??security=none&type=ws&path=/vless/&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-57.129.41.216:80
 vless://c214ecc0-514c-4655-83f5-3494131d8411@172.67.204.84:80??security=none&type=ws&host=91.241.94.160&path=%2Fmelo%2Fis%2Fneeded#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:80
 vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:80??security=none&type=ws&path=/vless/&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-57.129.41.217:80
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#😍@v2ray_configs_pool😍
