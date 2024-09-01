@@ -11135,3 +11135,4 @@ vless://51def145-0893-4a15-8033-6e9cb150ca92@www.speedtest.net:80??path=%2Fwww.S
 vless://9498a976-9dc2-441b-bab3-610a694b175d@185.146.173.58:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#[🇸🇪]t.me/ConfigsHub
 vless://c026493f-00c0-49aa-8b95-ec40b4cc8f90@81.28.12.12:80??security=none&type=ws&host=91.241.94.160&path=/dashboard/reports#🔒 VL-WS-NONE 🇳🇱 NL-81.28.12.12:80
 vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:80??security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-57.129.41.217:80
+vless://9f2e6feb-d3c4-4b58-b25f-e441e0ccd621@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#WS+-+%40Vpnmasi-ao751q9d
