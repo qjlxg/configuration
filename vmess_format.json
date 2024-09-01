@@ -16,21 +16,21 @@
         "test_name": "US3"
     },
     {
-        "add": "104.26.15.148",
+        "add": "bmw.dargah.xyz",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "2c4d6f66-2966-49c1-93aa-a7192ba8f8fc",
+        "id": "b1fecac5-0eb0-440c-ba9b-a937b34881d6",
         "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "path": "/navigate?ed=1024",
         "port": "80",
+        "ps": "\ud83d\ude0d@v2ray_configs_pool\ud83d\ude0d",
         "scy": "auto",
         "sni": "",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\u27a1\ufe0f@v2ray_configs_pool\u2b05\ufe0f"
+        "tls": "none",
+        "type": "",
+        "v": "2"
     },
     {
         "v": "2",
@@ -388,26 +388,13 @@
     {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "jp2.1vpn.sbs",
+        "add": "162.159.136.98",
         "port": "80",
         "type": "none",
-        "id": "f9c51a61-3196-4cf7-a8a0-5e5af3366314",
+        "id": "5820093a-bb7d-4e15-8575-1a529f2d8282",
         "aid": "0",
         "net": "ws",
-        "path": "/rgherjwaqw",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "cfcdn3.sanfencdn9.com",
-        "port": "80",
-        "type": "none",
-        "id": "63911f91-bc91-4b71-8d40-9ba99e7043e0",
-        "aid": "0",
-        "net": "ws",
-        "path": "/video/VDXcaM7r",
+        "path": "/",
         "host": "91.341.94.160",
         "tls": ""
     },
