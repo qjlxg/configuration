@@ -11188,3 +11188,4 @@ vless://a7504fe5-e066-4e36-bfec-2e55d3d8e828@www.speedtest.net:80??path=%2Fwww.S
 vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:80??security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-57.129.41.216:80
 vless://b5b69b47-50a4-4142-b513-d1c596b36d85@162.159.152.2:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.191:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.191:80
+vless://48ee59f2-5f58-486f-9dc1-940a68eeb9ae@www.speedtest.net:80??security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048&host=91.241.94.160&encryption=none#@UnlimitedDev-Link3
