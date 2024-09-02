@@ -17386,6 +17386,23 @@
         "v": "2"
     },
     {
+        "add": "104.16.61.8",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
+        "net": "ws",
+        "path": "/hms02.fxiaomi.sbs/link",
+        "port": "80",
+        "ps": "@Vip_Security join us - 385\n",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "108.162.193.143",
         "aid": "0",
         "alpn": "",
