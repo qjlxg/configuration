@@ -11383,3 +11383,7 @@ vless://d5e9f164-e824-42ea-900f-5a49388ddba7@www.speedtest.net:80??path=%2Fmelo%
 vless://c214ecc0-514c-4655-83f5-3494131d8411@zula.ir:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 391
 vless://c214ecc0-514c-4655-83f5-3494131d8411@www.speedtest.net:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 390
 vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 372
+vless://b5c3d1b4-8c29-43a7-84b8-e2956ec8eb49@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@204.110.220.120:80??security=tls&sni=xk.ylks.xyz&type=ws&path=/freecodes&host=91.241.94.160#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.120:80
+vless://b5c3d1b4-8c29-43a7-84b8-e2956ec8eb49@185.146.173.58:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:80
+vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.217:80
