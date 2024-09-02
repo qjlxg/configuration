@@ -29,6 +29,10 @@ vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔@v2ray_configs_pool
+vless://e4415adf-61d2-55c7-a8fe-34b112da932e@172.67.193.36:80??path=VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
+vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔@v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chromefp=chrome#12|AE_speednode_0003
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0004
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chromefp=chrome#12|CH_speednode_0015
