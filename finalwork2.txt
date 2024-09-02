@@ -11254,3 +11254,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@18.216.55.100:80??allowInsecure=0&type=ws&host=91.241.94.160&path=Telegram🇨🇳 @WangCai_8 /?ed=2048#12|US_speednode_0288
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.111.135.19:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/?ed=2048#12|US_speednode_0300
 vless://c214ecc0-514c-4655-83f5-3494131d8411@104.21.69.44:80??security=none&type=ws&host=91.241.94.160&path=%2Fmelo%2Fis%2Fneeded#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:80
+vless://telegram-id-ArV2ray@speedtest.net:80??path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
