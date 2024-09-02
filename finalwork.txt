@@ -11318,3 +11318,5 @@ vless://8d54310e-41fc-4467-b82c-d11ea516bb2e@www.speedtest.net:80??security=&typ
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇺🇸%20US%203ms
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇺🇸%20US%203ms
 vless://4d88cada-7049-4d09-92b7-baab65168d8f@185.146.173.85:80??path=%2FDaily_Configs-netmaster%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80??path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
+vless://cc21fe94-d25d-42f4-b8a6-87287a569882@104.17.147.22:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
