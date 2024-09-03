@@ -660,7 +660,7 @@
         "tls": ""
     },
     {
-        "add": "104.21.20.148",
+        "add": "192.0.63.81",
         "aid": "0",
         "alpn": "",
         "fp": "",
@@ -669,7 +669,7 @@
         "net": "ws",
         "path": "/navigate?ed=1024",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.20.148:80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-192.0.63.81:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
