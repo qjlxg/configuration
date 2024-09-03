@@ -11555,3 +11555,7 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80??type=grpc&ser
 vless://31367d73-246e-41cc-9cf7-a4c30fbc3ca7@104.21.69.44:80??security=none&type=ws&host=91.241.94.160&path=%2Fmelo%2Fis%2Fneeded#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:80
 vless://31367d73-246e-41cc-9cf7-a4c30fbc3ca7@172.67.204.84:80??security=none&type=ws&host=91.241.94.160&path=%2Fmelo%2Fis%2Fneeded#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:80
 vless://643348d2-208e-4055-9a2a-3038d3f6d709@www.speedtest.net:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#vmessorg%20joinbede
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@101.99.84.124:80??path=%2Fvless-ntls&security=none&encryption=none&host=91.241.94.160&type=ws#Malaysia+Shinjiru
+vless://832ec3b2-4507-4dd6-b614-85b425543515@162.159.152.2:80??security=none&type=ws&host=91.241.94.160&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
+vless://832ec3b2-4507-4dd6-b614-85b425543515@162.159.153.2:80??security=none&type=ws&host=91.241.94.160&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#🆔@v2ray_configs_pool
