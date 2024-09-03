@@ -11740,3 +11740,4 @@ vless://5e950790-bf2e-463c-bea5-2e3dcb0cc1d8@ov-germany1.09vpn.com:80??path=%2Fv
 vless://132199bd-d67c-4b79-adea-2bd8a40e85c7@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 vless://5e950790-bf2e-463c-bea5-2e3dcb0cc1d8@57.129.41.216:80??security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇫🇷 FR-57.129.41.216:80
 vless://61ff8b60-2be0-40a6-94b5-92cca33f1fab@www.gov.se:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://61ff8b60-2be0-40a6-94b5-92cca33f1fab@104.18.26.94:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.94:80
