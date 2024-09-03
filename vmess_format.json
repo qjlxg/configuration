@@ -582,21 +582,21 @@
         "tls": ""
     },
     {
-        "add": "216.24.57.1",
+        "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "b1fecac5-0eb0-440c-ba9b-a937b34881d6",
+        "id": "947cb385-54b4-4453-ac92-63c95ef32a6a",
         "net": "ws",
-        "path": "/navigate?ed=1024",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-216.24.57.1:80",
         "scy": "auto",
         "sni": "",
         "tls": "",
-        "type": "",
-        "v": "2"
+        "type": "none",
+        "v": "2",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.26.15.148:80"
     },
     {
         "v": "2",
