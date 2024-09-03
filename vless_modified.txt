@@ -42,6 +42,7 @@ vless://28585055-e1e3-4edd-be4d-92c779981139@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM
 vless://71dc55b8-ec56-4517-8d27-75e736fc9057@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
 vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@www.speedtest.net:80??path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
 vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80??path=/JoinTelegram-@ELiV2ry-@ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
+vless://69b1d766-92df-406d-a2fe-8cc07d87653e@www.speedtest.net:80??security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048&host=91.241.94.160&encryption=none#🆔@v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chromefp=chrome#12|AE_speednode_0003
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0004
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chromefp=chrome#12|CH_speednode_0015
