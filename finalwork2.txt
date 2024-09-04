@@ -11890,3 +11890,4 @@ vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@104.21.3.52:80??security=none&type=
 vless://437bb227-4e4c-4bfd-9d1d-35564d107934@140.99.130.152:80??security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-140.99.130.152:80
 vless://301179e0-2665-4f94-a7d9-7a812551c98e@104.17.148.22:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
 vless://b5c3d1b4-8c29-43a7-84b8-e2956ec8eb49@www.speedtest.net:80??security=&type=ws&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&host=91.241.94.160&encryption=none#🆔@v2ray_configs_pool
+vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@172.67.130.66:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80
