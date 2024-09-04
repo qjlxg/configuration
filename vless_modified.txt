@@ -500,15 +500,6 @@ vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&typ
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52@Speedtest.net:80??path=%2Ftelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ☂️ DailyV2ry
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
