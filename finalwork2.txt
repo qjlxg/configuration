@@ -11787,3 +11787,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@52.29.224.33:80??path=Telegram%F0%9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3.141.95.66:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.117.254.68:80??path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3.141.95.66:80??security=none&type=ws&host=91.241.94.160&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-3.141.95.66:80
