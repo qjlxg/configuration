@@ -12050,3 +12050,4 @@ vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@172.67.130.66:80??Telegram=@v2maxx,
 vless://b063d7b6-1ad5-4fd0-8557-57f5adbe1ea3@66.235.200.87:80??host=join-to.vmessorg.Community.&security=none&type=ws&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&encryption=none&host=91.241.94.160#[🇺🇸]t.me/ConfigsHub
 vless://dfbd1591-8dfa-4c72-b34d-237a0f86a5dc@162.159.152.2:80??security=none&type=ws&host=91.241.94.160&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
 vless://dfbd1591-8dfa-4c72-b34d-237a0f86a5dc@162.159.153.2:80??security=none&type=ws&host=91.241.94.160&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
+vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@104.21.63.149:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
