@@ -11796,3 +11796,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1N2Y4ZVx1NTZmZCBc
 vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@BoRn.OoRdAk.CoM:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@BoRn.OoRdAk.CoM:80??security=none&type=ws&headerType=&path=%2FFIRELINKVPNNN&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@BoRn.OoRdAk.CoM:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔@v2ray_configs_pool
+vless://ff84663d-b92a-424b-b400-08b6f21ee0fb@104.26.12.255:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.255:80
