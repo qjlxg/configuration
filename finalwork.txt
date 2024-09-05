@@ -12295,3 +12295,4 @@ vless://%33%30%31%31%37%39%65%30%2d%32%36%36%35%2d%34%66%39%34%2d%61%37%64%39%2d
 vless://e1ffc0d3-04ce-5393-b91e-b54ea14eb3cb@185.146.173.49:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2Fvless#🆔vmessprotocol%20🔓%20VL-WS-N/A%20🇸🇪%20SE%202ms
 vless://5659699c-7e63-4a98-b288-5aefd95291ec@172.67.178.144:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.178.144:80
 vless://5659699c-7e63-4a98-b288-5aefd95291ec@104.21.43.116:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.43.116:80
+vless://9db2f138-e66b-4269-a645-94e5b739bf5a@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
