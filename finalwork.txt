@@ -12447,3 +12447,5 @@ vless://77d19746-328e-4938-92b5-faf379be7046@151.101.66.219:80??security=none&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.73:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.73:80
 vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔@v2ray_configs_pool
 vless://9db2f138-e66b-4269-a645-94e5b739bf5a@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔@v2ray_configs_pool
+vless://7f13a709-9c61-4738-a3aa-e0d0cab02150@freee.drpingservice.net:80??encryption=none&security=none&type=ws&path=%2F%40doctorping_bot&host=91.241.94.160#🆔@v2ray_configs_pool
+vless://913b0b2b-9659-4c60-921c-9567df2c16b5@www.speedtest.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
