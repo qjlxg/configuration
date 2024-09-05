@@ -12449,3 +12449,7 @@ vless://5f4cb353-4fa7-4191-8e48-32e5cf34bb6f@SpeeDTeST.OrG:80??security=none&typ
 vless://9db2f138-e66b-4269-a645-94e5b739bf5a@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#🆔@v2ray_configs_pool
 vless://7f13a709-9c61-4738-a3aa-e0d0cab02150@freee.drpingservice.net:80??encryption=none&security=none&type=ws&path=%2F%40doctorping_bot&host=91.241.94.160#🆔@v2ray_configs_pool
 vless://913b0b2b-9659-4c60-921c-9567df2c16b5@www.speedtest.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://7a2ab708-b9bb-4e20-b18d-8f450bdf6cac@217.60.189.197:80??security=none&type=ws&path=@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-%3Fed%3D2053&host=91.241.94.160#🔒 VL-WS-NONE 🇦🇪 AE-217.60.189.197:80
+vless://2f88f00a-7465-400f-8bab-5aab861df53f@104.18.27.94:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.94:80
+vless://77d19746-328e-4938-92b5-faf379be7046@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
+vless://7f13a709-9c61-4738-a3aa-e0d0cab02150@94.101.185.61:80??Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&encryption=none&security=none&type=ws&path=%2F%40doctorping_bot&host=91.241.94.160#🆔@v2ray_configs_pool
