@@ -229,7 +229,6 @@ vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80??encryption=none&secu
 vless://9132908c-57bf-4858-8845-e9aa385b6e16@google.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🇩🇰DK-CX31-M247-P80
 vless://bia--ZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#all+5+%5Bno+MCI%5D+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52@Speedtest.net:80??path=%2Ftelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ☂️ DailyV2ry
-vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52@Speedtest.net:80??path=%2Ftelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#telegram ☂️ DailyV2ry
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@SpeeDTeST.OrG:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
@@ -416,6 +415,52 @@ vless://MdVpnSec@www.parsvds.ir:80??path=MDVPNSEC%3Fed%3D80&security=none&encryp
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80??path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3@V2ray_NG@SERVER444
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@parsvds.com:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@66.235.200.77:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@104.18.214.233:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@66.235.200.44:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@66.235.200.124:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://bad302b1-09a8-4060-ad72-209c09d75e19@66.235.200.44:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://bad302b1-09a8-4060-ad72-209c09d75e19@66.235.200.124:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://bad302b1-09a8-4060-ad72-209c09d75e19@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://17e31708-0517-4687-998f-e54951a1139a@198.41.194.146:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://17e31708-0517-4687-998f-e54951a1139a@188.114.99.29:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://17e31708-0517-4687-998f-e54951a1139a@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80??security=&type=ws&path=/melo/is/needed&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://cc21fe94-d25d-42f4-b8a6-87287a569882@104.17.147.22:80??security=&type=ws&path=/www.Speedtest.net?ed%3D1024&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@52.29.224.33:80??security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80??security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://643348d2-208e-4055-9a2a-3038d3f6d709@www.speedtest.net:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3.141.95.66:80??security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://a0657d88-f2d9-4378-b28f-6f5a314f9238@speedtest.org:80??security=&type=ws&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@parsvds.com:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@66.235.200.77:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@104.18.214.233:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@66.235.200.44:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@66.235.200.124:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://bad302b1-09a8-4060-ad72-209c09d75e19@66.235.200.44:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://bad302b1-09a8-4060-ad72-209c09d75e19@66.235.200.124:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://bad302b1-09a8-4060-ad72-209c09d75e19@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://17e31708-0517-4687-998f-e54951a1139a@198.41.194.146:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://17e31708-0517-4687-998f-e54951a1139a@188.114.99.29:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://17e31708-0517-4687-998f-e54951a1139a@www.parsvds.ir:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80??security=&type=ws&path=/melo/is/needed&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://cc21fe94-d25d-42f4-b8a6-87287a569882@104.17.147.22:80??security=&type=ws&path=/www.Speedtest.net?ed%3D1024&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@52.29.224.33:80??security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80??security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://643348d2-208e-4055-9a2a-3038d3f6d709@www.speedtest.net:80??security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=91.241.94.160&encryption=none#@ShadowsocksM
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3.141.95.66:80??security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=91.241.94.160&encryption=none#@ShadowsocksM
 vless://1eccf592-4323-4a11-8a2a-dd800eadff5b@185.146.173.18:80??security=none&type=ws&sni=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&encryption=none&headerType=none&host=91.241.94.160#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.161:80??security=none&type=ws&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&path=/&encryption=none&headerType=none&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
 vless://1eccf592-4323-4a11-8a2a-dd800eadff5b@185.146.173.18:80??security=none&type=ws&sni=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&encryption=none&headerType=none&host=91.241.94.160#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
