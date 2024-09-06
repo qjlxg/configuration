@@ -260,19 +260,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddef\ud83c\uddf5 10,11|\u65e5\u672c2|@ripaojiedian",
-        "add": "cfcdn3.sanfencdn9.com",
-        "port": "80",
-        "type": "none",
-        "id": "7786bd51-a965-4ae9-aac4-a224f9457243",
-        "aid": "0",
-        "net": "ws",
-        "path": "/video/ibCT6z55",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddef\ud83c\uddf5 10,11|\u65e5\u672c3|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
