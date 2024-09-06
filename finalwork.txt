@@ -12521,3 +12521,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80??allowInsecure=0&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/?ed=2048#12|US_speednode_0457
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chromefp=chrome#12|US_speednode_0464
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.1:80??Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=tls&sni=xa.ylks.xyz&type=ws&path=%2Fblue&host=91.241.94.160#🆔@v2ray_configs_pool
+vless://b063d7b6-1ad5-4fd0-8557-57f5adbe1ea3@188.244.122.189:80??path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%AA%8662%40oneclickvpnkeys@arshiacomplus [bot]
+vless://b063d7b6-1ad5-4fd0-8557-57f5adbe1ea3@66.235.200.87:80??path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%AA%8666%40oneclickvpnkeys@arshiacomplus [bot]
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%AA%8639%40oneclickvpnkeys@arshiacomplus [bot]
