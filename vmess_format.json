@@ -1,21 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8US\u7f8e\u56fd7",
-        "add": "104.16.60.8",
-        "port": "80",
-        "id": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/obdii.cfd/linkws",
-        "tls": "",
-        "sni": "",
-        "test_name": "US\u7f8e\u56fd7"
-    },
-    {
         "add": "104.21.71.88",
         "aid": "0",
         "alpn": "",
