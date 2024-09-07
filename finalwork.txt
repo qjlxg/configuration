@@ -12754,3 +12754,21 @@ vless://9f2e6feb-d3c4-4b58-b25f-e441e0ccd621@www.speedtest.net:80??path=%2FTeleg
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%86%94%40ConfigV2rayNG
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.17.147.22:80??Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States of America
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??security=none&type=ws&path=Twitterfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.209:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.138:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??security=none&type=ws&path=Twitterfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.245:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80??security=none&type=ws&path=Twitterfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.130:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-34.160.118.77:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.175:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-34.36.183.121:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇦🇪 AE-94.140.0.0:80
+vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:80??security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇩🇪 DE-57.129.41.217:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80??security=none&type=ws&path=Twitterfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.13:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.41:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.161:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.120:80??security=tls&sni=xb.ylks.xyz&type=ws&path=%2F%3Fproxyip&host=91.241.94.160#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.120:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-45.159.216.99:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80??security=none&type=ws&path=Twitterfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.201:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??security=none&type=ws&path=Twitterfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.231:80
+vless://5e950790-bf2e-463c-bea5-2e3dcb0cc1d8@57.129.41.216:80??security=none&type=ws&path=%2Fvless%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇩🇪 DE-57.129.41.216:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80??security=none&type=ws&path=Twitterfreecodes&host=91.241.94.160#🔒 VL-WS-NONE 🇪🇪 EE-45.80.110.173:80
