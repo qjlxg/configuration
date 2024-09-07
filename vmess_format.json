@@ -16,6 +16,18 @@
         "test_name": "US\u7f8e\u56fd7"
     },
     {
+        "add": "104.16.61.8",
+        "aid": 0,
+        "host": "91.341.94.160",
+        "id": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
+        "net": "ws",
+        "path": "/hms02.fxiaomi.sbs/link",
+        "port": "80",
+        "scy": "auto",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udedc\ud83c\uddfa\ud83c\uddf8United States of America"
+    },
+    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
