@@ -13015,3 +13015,5 @@ vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.26.94:80??security=none&type
 vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.26.94:80??Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2560%40ELiV2Ray%40ELiV2ray%40ELiV2ray#🆔@v2ray_configs_pool
 vless://7838d270-c49e-4a56-8d40-3c1b56a5c376@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
 vless://1c6e526f-b9b6-510c-8160-8efbc05fdae3@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+vless://e59be95e-7539-4a31-9b2d-a03a8f072ff3@104.16.251.13:80??path=%2Fvless%23TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://8269dbfc-fc76-4b5a-91ba-4364915799a9@104.19.16.243:80??path=%2Fvless%23TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
