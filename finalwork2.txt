@@ -12753,3 +12753,4 @@ vless://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@www.speedtest.net:80??path=%2FTeleg
 vless://9f2e6feb-d3c4-4b58-b25f-e441e0ccd621@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 405
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%86%94%40ConfigV2rayNG
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80??path=%2Fvless%2F&security=none&encryption=none&host=91.241.94.160&type=ws#🆔@v2ray_configs_pool
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.17.147.22:80??Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States of America
