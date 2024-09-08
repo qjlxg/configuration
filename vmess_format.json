@@ -242,8 +242,8 @@
     },
     {
         "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddfa\ud83c\uddf8 US-54.87.134.111:80",
-        "add": "54.87.134.111",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\uddf8\ud83c\uddec SG-18.141.188.80:80",
+        "add": "18.141.188.80",
         "port": "80",
         "aid": 0,
         "scy": "auto",
