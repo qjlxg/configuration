@@ -81,6 +81,23 @@
         "test_name": "US79"
     },
     {
+        "add": "172.66.168.173",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "f1fb28e5-e5b6-450c-972c-13235c94285c",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "\ud83e\ude864@oneclickvpnkeys",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "10,11|\u7f8e\u56fd3|@ripaojiedian",
         "add": "23.156.152.106",
