@@ -13442,3 +13442,4 @@ vless://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@speedtest.net:80??serviceName=@icv
 vless://b242723a-c1a1-5354-b694-91022f41280b@www.speedtest.net:80??path=/joinBede-@ELiV2-@ELiV2-@ELiV2%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
 vless://ec686a1f-6003-4e22-aa61-7d32c631f384@162.159.153.2:80??security=none&type=ws&host=91.241.94.160&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
 vless://4808e2ce-14f4-4f5e-b8f4-59fb92fffa09@172.67.192.49:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.192.49:80
+vless://38324d45-6e46-11ef-81ee-3cecef0f5198@151.101.194.219:80??Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
