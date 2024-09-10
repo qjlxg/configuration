@@ -300,6 +300,20 @@
         "tls": ""
     },
     {
+        "add": "172.67.116.48",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
+        "net": "ws",
+        "path": "/",
+        "port": "80",
+        "scy": "auto",
+        "tls": "",
+        "type": "",
+        "v": 2,
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.116.48:80"
+    },
+    {
         "v": "2",
         "ps": "US7",
         "add": "blang.kcapsys.com",
