@@ -17,21 +17,6 @@
     },
     {
         "v": "2",
-        "add": "104.16.164.228",
-        "port": "80",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "e6d76927-edd1-442b-92a4-fa031f522c42",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/api/v3/download.getFile",
-        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udedc\ud83c\udde8\ud83c\udde6Canada"
-    },
-    {
-        "v": "2",
         "ps": "10,11|\u65e5\u672c|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
