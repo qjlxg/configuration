@@ -13615,3 +13615,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??sni=a.ssll.gay&ty
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/?ed=2048#12|US_speednode_0172
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chromefp=chrome#12|US_speednode_0179
 vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80??path=%2Fdf38fGe9tgDG0dkg84LsdfOdjg8.&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@104.21.69.44:80??Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fdf38fGe9tgDG0dkg84LsdfOdjg8.&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
