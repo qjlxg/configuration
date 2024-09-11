@@ -14037,3 +14037,4 @@ vless://9f2e6feb-d3c4-4b58-b25f-e441e0ccd621@www.speedtest.net:80??path=%2FTeleg
 vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 425
 vless://57b89144-7f10-41b3-9037-2e57ddb62ef2@151.101.2.219:80??path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 422
 vless://38324d45-6e46-11ef-81ee-3cecef0f5198@151.101.194.219:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 415
+vless://492f8b68-81ac-4760-83d7-b095706eea88@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2F4channel%3Fed%3D512#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
