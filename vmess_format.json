@@ -1,21 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "US56",
-        "add": "deji.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US56"
-    },
-    {
         "add": "irtr1.ngiftcard.com",
         "aid": "0",
         "alpn": "",
@@ -197,22 +181,6 @@
         "tls": "",
         "type": "",
         "v": "2"
-    },
-    {
-        "v": "2",
-        "ps": "US56",
-        "add": "deji.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US56"
     },
     {
         "v": "2",
