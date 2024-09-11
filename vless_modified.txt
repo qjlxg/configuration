@@ -787,10 +787,6 @@ vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&typ
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://26ec60c6-b067-5a3a-92b9-f3f645705c28@www.speedtest.net:80??path=%2FjoinBede-%40ELiV2-%40ELiV2-%40ELiV2%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%AAS2+%40ELiV2RAY
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%AA%8639%40oneclickvpnkeys@arshiacomplus [bot]
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%AA%8639%40oneclickvpnkeys@arshiacomplus [bot]
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%AA%8639%40oneclickvpnkeys@arshiacomplus [bot]
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%AA%8639%40oneclickvpnkeys@arshiacomplus [bot]
 vless://bia--ZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#all+5+%5Bno+MCI%5D+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80??path=%2Firan.ir%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTelegram%40v2ray_alpha%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
