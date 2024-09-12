@@ -80,6 +80,23 @@
         "v": "2"
     },
     {
+        "add": "173.245.58.41",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "a4af6fa2-264f-4ddd-8718-246dc999386b",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "\ud83e\uddff27@oneclickvpnkeys",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "10,11|\u9999\u6e2f5|@ripaojiedian",
         "add": "38.207.142.31",
