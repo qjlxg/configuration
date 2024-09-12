@@ -30,7 +30,8 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&ty
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
 vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@speedtest.net:80??path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
-vless://492f8b68-81ac-4760-83d7-b095706eea88@www.speedtest.net:80??path=%2F4channel%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://95cbdd0d-7345-403f-8dc7-a7e3cf36b108@speedtest.net:80??path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws&sni=speedtest.net#WS-Config
 vless://e59be95e-7539-4a31-9b2d-a03a8f072ff3@104.16.251.13:80??path=%2Fvless%23TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://de710a78-04ae-4ff8-a893-2223849e75ea@Speedtest.net:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://95cbdd0d-7345-403f-8dc7-a7e3cf36b108@151.101.66.219:80??security=none&sni=speedtest.net&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -866,10 +867,6 @@ vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&typ
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://26ec60c6-b067-5a3a-92b9-f3f645705c28@www.speedtest.net:80??path=%2FjoinBede-%40ELiV2-%40ELiV2-%40ELiV2%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%AAS2+%40ELiV2RAY
 vless://acb8a433-9747-58c9-8983-1a22014cb7bf@104.16.16.16:80??path=/++Telegram++ELiV2ry++ELiV2ry++ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇫🇮S2+ELiV2RAY
-vless://26ec60c6-b067-5a3a-92b9-f3f645705c28@www.speedtest.net:80??path=%2FjoinBede-%40ELiV2-%40ELiV2-%40ELiV2%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%AAS2+%40ELiV2RAY@arshiacomplus [bot]
-vless://acb8a433-9747-58c9-8983-1a22014cb7bf@104.16.16.16:80??path=/++Telegram++ELiV2ry++ELiV2ry++ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇫🇮S2+ELiV2RAY@arshiacomplus [bot]
-vless://26ec60c6-b067-5a3a-92b9-f3f645705c28@www.speedtest.net:80??path=%2FjoinBede-%40ELiV2-%40ELiV2-%40ELiV2%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%AAS2+%40ELiV2RAY@arshiacomplus [bot]
-vless://acb8a433-9747-58c9-8983-1a22014cb7bf@104.16.16.16:80??path=/++Telegram++ELiV2ry++ELiV2ry++ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇫🇮S2+ELiV2RAY@arshiacomplus [bot]
 vless://bia--ZEDMODEON@www.speedtest.net:80??path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#all+5+%5Bno+MCI%5D+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80??path=%2Firan.ir%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTelegram%40v2ray_alpha%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
