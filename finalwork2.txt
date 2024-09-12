@@ -14326,3 +14326,8 @@ vless://57b89144-7f10-41b3-9037-2e57ddb62ef2@speedtest.net:80??path=%2FTelegram-
 vless://b4874daf-2bbd-4c62-9210-bfcf2d4fea3e@162.159.152.2:80??security=none&type=ws&host=91.241.94.160&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
 vless://56ca2df7-add1-4e50-979c-296dd9adc583@151.101.194.219:80??security=none&sni=speedtest.net&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://56ca2df7-add1-4e50-979c-296dd9adc583@151.101.130.219:80??security=none&sni=speedtest.net&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://f19e43f0-bb62-47b5-a9ab-c4c1d3718ad2@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 454
+vless://ee55b2c7-1933-4ace-a14d-e5356134767c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 453
+vless://d237fab1-baa5-4eb2-a855-e77b2efb744c@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 448
+vless://ceceede0-feb8-4f8b-b4b0-922459b3849f@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 446
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 426
