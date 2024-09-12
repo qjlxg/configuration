@@ -48,6 +48,23 @@
         "test_name": "71"
     },
     {
+        "add": "104.26.15.148",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "f1fb28e5-e5b6-450c-972c-13235c94285c",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "[\ud83c\udde8\ud83c\udde6]t.me/ConfigsHub",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "@Hope_Net-join-us-on-Telegram",
         "add": "172.67.64.120",
