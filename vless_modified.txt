@@ -279,12 +279,11 @@ vless://9498a976-9dc2-441b-bab3-610a694b175d@www.speedtest.net:80??path=/telegra
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/#🇺🇸US | 🔴 | vless | @iP_CF | 7
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/#🇺🇸US | 🔴 | vless | @iP_CF | 8
 vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@www.speedtest.net:80??path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @nofiltering2 | 7
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%98%8E%EF%B8%8F42%40oneclickvpnkeys
 vless://349ece52-713d-4955-b8c7-5874b4906235@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 vless://7127acec-73a0-5fa4-a8b7-53b9372deb93@104.16.16.16:80??path=/Telegram-ELiV2ry-ELiV2ry-ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇳🇱S2+ELiV2RAY
 vless://acb8a433-9747-58c9-8983-1a22014cb7bf@104.16.16.16:80??path=/++Telegram++ELiV2ry++ELiV2ry++ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇫🇮S2+ELiV2RAY
-vless://26ec60c6-b067-5a3a-92b9-f3f645705c28@www.speedtest.net:80??path=%2FjoinBede-%40ELiV2-%40ELiV2-%40ELiV2%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%AAS2+%40ELiV2RAY
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%98%8E%EF%B8%8F42%40oneclickvpnkeys
 vless://349ece52-713d-4955-b8c7-5874b4906235@speedtest.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -520,7 +519,6 @@ vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&typ
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://26ec60c6-b067-5a3a-92b9-f3f645705c28@www.speedtest.net:80??path=%2FjoinBede-%40ELiV2-%40ELiV2-%40ELiV2%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%87%AE%F0%9F%87%AAS2+%40ELiV2RAY
 vless://acb8a433-9747-58c9-8983-1a22014cb7bf@104.16.16.16:80??path=/++Telegram++ELiV2ry++ELiV2ry++ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇫🇮S2+ELiV2RAY
 vless://7127acec-73a0-5fa4-a8b7-53b9372deb93@104.16.16.16:80??path=/Telegram-ELiV2ry-ELiV2ry-ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇳🇱S2+ELiV2RAY
 vless://5b2d8ee8-a825-4c5b-b2c7-b65458bfed3b@185.146.173.58:80??path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
