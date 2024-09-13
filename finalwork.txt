@@ -14514,3 +14514,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:80??allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|EE_speednode_0190
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|US_speednode_0409
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|US_speednode_0413
+vless://6c889506-3ced-4f68-90d1-cfcfcabb61a8@www.speedtest.net:80??security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#[🇨🇦]t.me/ConfigsHub

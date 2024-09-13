@@ -29,7 +29,6 @@ vless://4034162a-f4f2-4bd9-bb11-70047ebe20cf@51.75.149.8:80??security=none&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??security=none&type=ws&sni=google.com&path=/http&encryption=none&headerType=none&host=91.241.94.160#%E7%BE%8E%E5%9B%BD_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??security=none&type=ws&sni=a.ssll.gay&path=Twitterfreecodes&encryption=none&headerType=none&host=91.241.94.160#%E7%AB%8B%E9%99%B6%E5%AE%9B_TG%3A%40vvkj11
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??security=none&type=ws&sni=a.ssll.gay&path=/&encryption=none&headerType=none&host=91.241.94.160#%E8%8D%B7%E5%85%B0_TG%3A%40vvkj11
-vless://492f8b68-81ac-4760-83d7-b095706eea88@www.speedtest.net:80??path=%2F4channel%3Fed%3D512&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://ba7a3ac4-6750-4312-9954-02b9a0f8ae57@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=ws%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://56ca2df7-add1-4e50-979c-296dd9adc583@speedtest.net:80??path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
@@ -44,6 +43,8 @@ vless://5f9840b3-dfe8-4b40-8bb0-6f9b30f7a53c@zula.ir:80??encryption=none&securit
 vless://5f9840b3-dfe8-4b40-8bb0-6f9b30f7a53c@visa.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=Daily_Configs%3Fed%3D1024#[🇨🇦]t.me/ConfigsHub
 vless://5f9840b3-dfe8-4b40-8bb0-6f9b30f7a53c@openai.com:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=Daily_Configs%3Fed%3D1024#[🇨🇦]t.me/ConfigsHub
 vless://db5e716c-8a19-4c57-a4cf-009c3ef530df@Speedtest.net:80??path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://349ece52-713d-4955-b8c7-5874b4906235@151.101.194.219:80??security=none&type=ws&host=91.241.94.160#[🇺🇸]t.me/ConfigsHub
+vless://6c889506-3ced-4f68-90d1-cfcfcabb61a8@www.speedtest.net:80??security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|AE_speednode_0005
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#12|AE_speednode_0006
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#12|EE_speednode_0137
@@ -281,9 +282,9 @@ vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80??encryption=none&s
 vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@www.speedtest.net:80??path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @nofiltering2 | 7
 vless://349ece52-713d-4955-b8c7-5874b4906235@speedtest.net:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%98%8E%EF%B8%8F42%40oneclickvpnkeys
 vless://7127acec-73a0-5fa4-a8b7-53b9372deb93@104.16.16.16:80??path=/Telegram-ELiV2ry-ELiV2ry-ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇳🇱S2+ELiV2RAY
 vless://acb8a433-9747-58c9-8983-1a22014cb7bf@104.16.16.16:80??path=/++Telegram++ELiV2ry++ELiV2ry++ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇫🇮S2+ELiV2RAY
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%E2%98%8E%EF%B8%8F42%40oneclickvpnkeys
 vless://349ece52-713d-4955-b8c7-5874b4906235@speedtest.net:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
