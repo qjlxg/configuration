@@ -1,5 +1,22 @@
 [
     {
+        "add": "104.26.15.148",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2f188c61-6622-4056-810e-a1a5f1c9b023",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "ID(@Outline_Vpn) 1517",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "104.21.28.70",
         "aid": "0",
         "alpn": "",
