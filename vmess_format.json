@@ -117,6 +117,21 @@
     },
     {
         "v": "2",
+        "ps": "10,11|\u65e5\u672c2|@ripaojiedian",
+        "add": "cfcdn3.sanfencdn9.com",
+        "port": "80",
+        "aid": 0,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "cd47cb10-d851-489b-86cd-ffaf659ed943",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/video/RPKZwKFW"
+    },
+    {
+        "v": "2",
         "ps": "\ud83c\uddea\ud83c\uddfa \u6b27\u6d32(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
         "add": "mx1.v2rayserv.com",
         "port": "80",
