@@ -14538,3 +14538,4 @@ vless://vpnowl-vpnowl@190.93.247.56:80??path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpno
 vless://56ca2df7-add1-4e50-979c-296dd9adc583@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://56ca2df7-add1-4e50-979c-296dd9adc583@151.101.2.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
 vless://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://56ca2df7-add1-4e50-979c-296dd9adc583@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
