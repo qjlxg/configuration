@@ -14643,3 +14643,4 @@ vless://8295c669-5ff6-4588-b628-29a37c80c756@151.101.2.219:80??security=none&sni
 vless://6a1600c3-13bb-4170-9447-06b93fbdab21@speedtest.net:80??path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://6a1600c3-13bb-4170-9447-06b93fbdab21@www.speedtest.net:80??path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://6a1600c3-13bb-4170-9447-06b93fbdab21@104.17.147.22:80??path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://67c59f53-5b41-4416-bb4a-7f89830f4929@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
