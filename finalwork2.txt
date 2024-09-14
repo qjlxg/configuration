@@ -14556,3 +14556,4 @@ vless://SVNTEAM-TeLeGram-CDN3@www.speedtest.net:80??path=%2F%40SvnTeam----%40Svn
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.3:80??path=%2Fblue&security=tls&encryption=none&type=ws&sni=xi.ylks.xyz&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8%7C%E7%BE%8E%E5%9B%BD%7CUS%7C%40wxgqlfx%7C415
 vless://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@151.101.194.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@151.101.2.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
+vless://5f9840b3-dfe8-4b40-8bb0-6f9b30f7a53c@104.21.69.44:80??security=none&type=ws&host=91.241.94.160&path=Daily_Configs%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:80
