@@ -14611,3 +14611,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80??allowInsecure=0&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#15|US_speednode_0409
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#15|US_speednode_0413
 vless://32f2b487-c7a6-443d-8447-99c2c64766d6@104.17.147.22:80??path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://67c59f53-5b41-4416-bb4a-7f89830f4929@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
