@@ -44,6 +44,8 @@ vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@104.17.147.22:80??security=none&typ
 vless://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#@Hope_Net-join-us-on-Telegram
 vless://32f2b487-c7a6-443d-8447-99c2c64766d6@www.speedtest.net:80??security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://32f2b487-c7a6-443d-8447-99c2c64766d6@104.17.147.22:80??path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://1c6e526f-b9b6-510c-8160-8efbc05fdae3@104.17.147.22:80??path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://67c59f53-5b41-4416-bb4a-7f89830f4929@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#15|AE_speednode_0005
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#15|AE_speednode_0006
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#15|EE_speednode_0137
