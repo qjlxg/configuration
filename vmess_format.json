@@ -17447,23 +17447,6 @@
         "fp": ""
     },
     {
-        "add": "172.66.168.173",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "f1fb28e5-e5b6-450c-972c-13235c94285c",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "@Vip_Security join us - 361\n",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "104.16.61.8",
         "aid": "0",
         "alpn": "",
@@ -17473,7 +17456,7 @@
         "net": "ws",
         "path": "/lRkGCkYS9X5GDNJYMWXN7kCm3lL",
         "port": "80",
-        "ps": "@Vip_Security join us - 317\n",
+        "ps": "@Vip_Security join us - 313\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
