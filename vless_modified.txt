@@ -48,6 +48,7 @@ vless://39541ce0-b046-4ed5-a425-b9b9488b83e3@SpeedTest.net:80??security=none&typ
 vless://b4143d4e-1ab1-4b76-980a-1525040e6b47@Speedtest.net:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://616b87a9-9a26-4e96-c4d1-1a97918d652c@185.143.233.5:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://e69ef623-acc1-4143-9bf5-694f26f7605d@www.speedtest.net:80??security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2560&host=91.241.94.160&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://a9f44403-f414-4316-baad-8e999681ed1e@www.speedtest.net:80??path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#15|AE_speednode_0005
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#15|AE_speednode_0006
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#15|EE_speednode_0137
