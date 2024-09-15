@@ -14665,3 +14665,5 @@ vless://1773441d-8b07-43c0-81e6-226cce288e13@104.18.15.166:80??path=%2F&security
 vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:80??path=%2F%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://67c59f53-5b41-4416-bb4a-7f89830f4929@151.101.194.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://8295c669-5ff6-4588-b628-29a37c80c756@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.1:80??path=%2Fblue&security=tls&encryption=none&type=ws&sni=xj.ylks.xyz&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%E7%BE%8E%E5%9B%BD%7C%40wxgqlfx%7C343
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.3:80??path=%2Fblue&security=tls&encryption=none&type=ws&sni=xj.ylks.xyz&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%E7%BE%8E%E5%9B%BD%7C%40wxgqlfx%7C347
