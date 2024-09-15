@@ -14657,3 +14657,5 @@ vless://d237fab1-baa5-4eb2-a855-e77b2efb744c@www.speedtest.net:80??path=%2FTeleg
 vless://a9351394-415c-458e-bcd0-bce4c5819d99@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 38
 vless://9f2e6feb-d3c4-4b58-b25f-e441e0ccd621@www.speedtest.net:80??path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 34
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 19
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.132:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%96%B2%EF%B8%8F53%40oneclickvpnkeys
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.138:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%F0%9F%96%B2%EF%B8%8F49%40oneclickvpnkeys
