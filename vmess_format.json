@@ -207,32 +207,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u5317\u7f8e\u5730\u533a V2CROSS.COM",
-        "add": "lu1.xv2ray.net",
-        "port": "80",
-        "type": "none",
-        "id": "8b592977-6dcd-478a-bc41-cd2870f8cc55",
-        "aid": "0",
-        "net": "ws",
-        "path": "/vmess",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "cfcdn3.sanfencdn9.com",
-        "port": "80",
-        "type": "none",
-        "id": "472628d9-f89c-4891-bb60-4161bc2583d5",
-        "aid": "0",
-        "net": "ws",
-        "path": "/video/VDXcaM7r",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddef\ud83c\uddf5 13,14|\u65e5\u672c|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
