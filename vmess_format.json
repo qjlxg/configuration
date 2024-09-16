@@ -1,5 +1,21 @@
 [
     {
+        "v": "2",
+        "ps": "\u672a\u77e516 86.0KB/s",
+        "add": "104.17.148.22",
+        "port": "80",
+        "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "test_name": "16"
+    },
+    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
@@ -17538,7 +17554,7 @@
         "net": "ws",
         "path": "/lRkGCkYS9X5GDNJYMWXN7kCm3lL",
         "port": "80",
-        "ps": "@Vip_Security join us - 313\n",
+        "ps": "@Vip_Security join us - 314\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
