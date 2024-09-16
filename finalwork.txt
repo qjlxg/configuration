@@ -14774,3 +14774,10 @@ vless://6ce224c4-29a6-42ad-8490-6ca3e37700b5@151.101.66.219:80??security=none&ty
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.199:80??security=none&sni=us3.rtacg.com&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.31.199:80
 vless://8295c669-5ff6-4588-b628-29a37c80c756@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.55.42:80??security=none&sni=us3.rtacg.com&type=ws&path=/&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.55.42:80
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.55.42:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.179.148:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.72:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.31.199:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.236.21:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.235.254:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.59:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
