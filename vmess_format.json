@@ -1,37 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "US37",
-        "add": "blang.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US37"
-    },
-    {
-        "v": "2",
-        "ps": "US50",
-        "add": "deji.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US50"
-    },
-    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
