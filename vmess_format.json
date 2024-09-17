@@ -1,7 +1,7 @@
 [
     {
         "v": "2",
-        "ps": "US3",
+        "ps": "US72",
         "add": "deji.kcapsys.com",
         "port": "80",
         "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
@@ -13,7 +13,7 @@
         "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US3"
+        "test_name": "US72"
     },
     {
         "add": "45.131.208.182",
@@ -308,7 +308,7 @@
     },
     {
         "v": "2",
-        "ps": "US3",
+        "ps": "US72",
         "add": "deji.kcapsys.com",
         "port": "80",
         "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
@@ -320,7 +320,7 @@
         "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US3"
+        "test_name": "US72"
     },
     {
         "v": "2",
