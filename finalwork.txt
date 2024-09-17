@@ -14957,3 +14957,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#15|EE_speednode_0127
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.148.104.199:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodes#15|US_speednode_0371
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chrome#15|US_speednode_0379
+vless://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
