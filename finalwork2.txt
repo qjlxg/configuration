@@ -15138,3 +15138,9 @@ vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:80??encryption=none&
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@162.159.252.60:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@172.67.175.9:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c23e8441-1f66-4e7a-ab9e-31aac7c3c80e@173.245.49.127:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d381c71f-e8b6-478d-8f85-51f9a9fb623f@151.101.194.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.60:80
+vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@172.67.2.238:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.120:80??security=tls&sni=xl.ylks.xyz&type=ws&path=%2F%3Fproxyip&host=91.241.94.160#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.120:80
+vless://d381c71f-e8b6-478d-8f85-51f9a9fb623f@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://c23e8441-1f66-4e7a-ab9e-31aac7c3c80e@173.245.49.127:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.127:80
