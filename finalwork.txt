@@ -15137,3 +15137,4 @@ vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@104.16.60.79:80??security=none&type
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@162.159.252.60:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@172.67.175.9:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c23e8441-1f66-4e7a-ab9e-31aac7c3c80e@173.245.49.127:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
