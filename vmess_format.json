@@ -179,32 +179,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.23.99.191",
-        "port": "80",
-        "type": "none",
-        "id": "1cd676ac-744d-11ef-8810-f324c6043e28",
-        "aid": "0",
-        "net": "ws",
-        "path": "/vmess#t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
-        "add": "104.16.67.38",
-        "port": "80",
-        "type": "none",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/v118-fccxmxm35",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
@@ -16663,7 +16637,7 @@
         "net": "ws",
         "path": "/lRkGCkYS9X5GDNJYMWXN7kCm3lL",
         "port": "80",
-        "ps": "@Vip_Security join us - 320\n",
+        "ps": "@Vip_Security join us - 396\n",
         "scy": "auto",
         "sni": "",
         "tls": "",
