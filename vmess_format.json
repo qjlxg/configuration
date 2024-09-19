@@ -1,19 +1,19 @@
 [
     {
         "v": "2",
-        "ps": "US45",
-        "add": "deji.kcapsys.com",
+        "ps": "US38",
+        "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "",
+        "type": "none",
         "host": "91.341.94.160",
-        "path": "/",
+        "path": "/video/ibCT6z55",
         "tls": "",
         "sni": "",
-        "test_name": "US45"
+        "test_name": "US38"
     },
     {
         "add": "104.26.15.148",
@@ -263,19 +263,19 @@
     },
     {
         "v": "2",
-        "ps": "US45",
-        "add": "deji.kcapsys.com",
+        "ps": "US38",
+        "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "",
+        "type": "none",
         "host": "91.341.94.160",
-        "path": "/",
+        "path": "/video/ibCT6z55",
         "tls": "",
         "sni": "",
-        "test_name": "US45"
+        "test_name": "US38"
     },
     {
         "v": "2",
