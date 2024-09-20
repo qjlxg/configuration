@@ -15489,3 +15489,5 @@ vless://d73fbb30-113e-418f-b4f3-d2b32bb7c48e@Speedtest.net:80??path=%2Firanargo%
 vless://c6d1c373-1bf3-4572-b1f3-6825e446aa39@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 vless://56ca2df7-add1-4e50-979c-296dd9adc583@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
 vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80??security=none&sni=Fi2.vless.site.&type=ws&path=/vless&host=91.241.94.160#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.46:80
+vless://d73fbb30-113e-418f-b4f3-d2b32bb7c48e@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2Firanargo%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://d73fbb30-113e-418f-b4f3-d2b32bb7c48e@151.101.130.219:80??security=none&type=ws&host=91.241.94.160&path=%2Firanargo%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
