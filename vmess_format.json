@@ -169,6 +169,45 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddf8\ud83c\uddea \u745e\u5178 V2CROSS.COM",
+        "add": "Back.MsV2ray.online",
+        "port": "80",
+        "type": "none",
+        "id": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+        "aid": "0",
+        "net": "ws",
+        "path": "/obdii.cfd/linkws",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "104.16.60.8",
+        "port": "80",
+        "type": "none",
+        "id": "6c168fcc-2231-4f3b-8c1e-f6391692df4a",
+        "aid": "0",
+        "net": "ws",
+        "path": "/hms02.fxiaomi.sbs/link",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddef\ud83c\uddf5 13,14|\u65e5\u672c3|@ripaojiedian",
+        "add": "cfcdn3.sanfencdn9.com",
+        "port": "80",
+        "type": "none",
+        "id": "cfa71038-632b-4a8f-859d-cce4d91c1082",
+        "aid": "0",
+        "net": "ws",
+        "path": "/video/RPKZwKFW",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
