@@ -15617,3 +15617,5 @@ vless://acedaff4-c260-4ffc-9417-d4a897c70097@speedtest.net:80??path=%2Firanargo%
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.120:80??security=tls&sni=xp.ylks.xyz&type=ws&path=%2F%3Fproxyip&host=91.241.94.160#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.120:80
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-Xv2ry2%3Fed%3D512#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 vless://acedaff4-c260-4ffc-9417-d4a897c70097@151.101.66.219:80??security=none&type=ws&host=91.241.94.160&path=%2Firanargo%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
