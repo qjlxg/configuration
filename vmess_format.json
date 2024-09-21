@@ -1,21 +1,5 @@
 [
     {
-        "v": "2",
-        "ps": "US29",
-        "add": "cfcdn3.sanfencdn9.com",
-        "port": "80",
-        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/video/ibCT6z55",
-        "tls": "",
-        "sni": "",
-        "test_name": "US29"
-    },
-    {
         "add": "cfcdn3.sanfencdn9.com",
         "aid": "0",
         "alpn": "",
@@ -158,22 +142,6 @@
         "path": "/video/VDXcaM7r",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "US29",
-        "add": "cfcdn3.sanfencdn9.com",
-        "port": "80",
-        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "path": "/video/ibCT6z55",
-        "tls": "",
-        "sni": "",
-        "test_name": "US29"
     },
     {
         "v": "2",
