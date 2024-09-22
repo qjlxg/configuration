@@ -49,12 +49,12 @@
         "v": "2"
     },
     {
-        "add": "104.26.15.148",
+        "add": "104.17.148.22",
         "aid": "0",
         "alpn": "",
         "fp": "",
         "host": "91.341.94.160",
-        "id": "f1fb28e5-e5b6-450c-972c-13235c94285c",
+        "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
         "net": "ws",
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "port": "80",
