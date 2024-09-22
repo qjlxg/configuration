@@ -15762,3 +15762,5 @@ vless://57dd1f9d-c280-4b93-8837-858d633f7cc2@www.speedtest.net:80??path=%2F%40Sh
 vless://c717d4ca-7ca1-44d8-a987-b1b430fe3d22@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://c717d4ca-7ca1-44d8-a987-b1b430fe3d22@SpeedTest.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://57dd1f9d-c280-4b93-8837-858d633f7cc2@www.speedtest.net:80??path=%2F%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c717d4ca-7ca1-44d8-a987-b1b430fe3d22@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://873dea93-9340-4dfe-a1b9-56f75c1d980c@193.151.158.16:80??security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-193.151.158.16:80
