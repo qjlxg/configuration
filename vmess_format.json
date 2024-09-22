@@ -1,5 +1,21 @@
 [
     {
+        "v": "2",
+        "ps": "US61",
+        "add": "deji.kcapsys.com",
+        "port": "80",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "US61"
+    },
+    {
         "add": "104.17.148.22",
         "aid": "0",
         "alpn": "",
@@ -153,6 +169,22 @@
         "path": "/anti13.zingfast.vn",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "US61",
+        "add": "deji.kcapsys.com",
+        "port": "80",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "US61"
     },
     {
         "v": "2",
