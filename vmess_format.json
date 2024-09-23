@@ -30,6 +30,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddf8\ud83c\uddec \u65b0\u52a0\u5761(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
+        "add": "sg-ovh1.v2-ray.com",
+        "port": "80",
+        "type": "none",
+        "id": "afef92d5-b5b9-46aa-a982-3914fe62c1c5",
+        "aid": "0",
+        "net": "ws",
+        "path": "/fastssh/ghhhur/632736634acba/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "",
         "add": "159.223.94.156",
         "port": "80",
