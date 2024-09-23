@@ -106,19 +106,6 @@
         "tls": ""
     },
     {
-        "v": "2",
-        "ps": "0|-https://t.me/MrXbin-68",
-        "add": "206.238.236.36",
-        "port": "80",
-        "type": "none",
-        "id": "bc864078-dcf3-4bf4-8dbf-ca9f200b56be",
-        "aid": "0",
-        "net": "ws",
-        "path": "/gwdef.sbs/linkws",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
         "add": "104.21.71.88",
         "aid": "0",
         "alpn": "",
