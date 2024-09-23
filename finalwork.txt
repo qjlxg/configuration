@@ -15849,3 +15849,4 @@ vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@108.162.195.129:80??security=none&t
 vless://56ca2df7-add1-4e50-979c-296dd9adc583@151.101.194.219:80??security=none&type=ws&host=91.241.94.160&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@162.159.44.129:80??security=none&type=ws&host=91.241.94.160&path=%2Fb5cdabf0-e04#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.44.129:80
 vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.64.35.129:80??security=none&type=ws&host=91.241.94.160&path=%2Fb5cdabf0-e04#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.35.129:80
+vless://e1ad28ba-5870-494b-9708-0a4b301ae672@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
