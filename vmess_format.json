@@ -1,7 +1,39 @@
 [
     {
         "v": "2",
-        "ps": "\u672a\u77e585",
+        "ps": "US10",
+        "add": "cfcdn3.sanfencdn9.com",
+        "port": "80",
+        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/video/ibCT6z55",
+        "tls": "",
+        "sni": "",
+        "test_name": "US10"
+    },
+    {
+        "v": "2",
+        "ps": "US59",
+        "add": "deji.kcapsys.com",
+        "port": "80",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "US59"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e584",
         "add": "104.17.148.22",
         "port": "80",
         "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
@@ -13,7 +45,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "85"
+        "test_name": "84"
     },
     {
         "add": "104.26.15.148",
@@ -181,7 +213,39 @@
     },
     {
         "v": "2",
-        "ps": "\u672a\u77e585",
+        "ps": "US10",
+        "add": "cfcdn3.sanfencdn9.com",
+        "port": "80",
+        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "path": "/video/ibCT6z55",
+        "tls": "",
+        "sni": "",
+        "test_name": "US10"
+    },
+    {
+        "v": "2",
+        "ps": "US59",
+        "add": "deji.kcapsys.com",
+        "port": "80",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "US59"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e584",
         "add": "104.17.148.22",
         "port": "80",
         "id": "6149b865-0d3c-4472-bf9c-3c61bfafa61a",
@@ -193,7 +257,7 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "tls": "",
         "sni": "",
-        "test_name": "85"
+        "test_name": "84"
     },
     {
         "v": "2",
