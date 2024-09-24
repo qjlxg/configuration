@@ -341,6 +341,21 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 5"
     },
     {
+        "v": "2",
+        "ps": "\u5173\u6ce8\u7535\u62a5https://t.me/aifenxiang2020",
+        "add": "104.16.164.228",
+        "port": "80",
+        "aid": 0,
+        "scy": "auto",
+        "net": "ws",
+        "type": "none",
+        "tls": "",
+        "id": "e6d76927-edd1-442b-92a4-fa031f522c42",
+        "sni": "",
+        "host": "91.341.94.160",
+        "path": "/api/v3/download.getFile"
+    },
+    {
         "add": "173.245.58.41",
         "aid": "0",
         "alpn": "",
@@ -371,21 +386,6 @@
         "tls": "none",
         "type": "none",
         "v": "2"
-    },
-    {
-        "v": "2",
-        "ps": "\u5173\u6ce8\u7535\u62a5https://t.me/aifenxiang2020",
-        "add": "104.16.164.228",
-        "port": "80",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "e6d76927-edd1-442b-92a4-fa031f522c42",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/api/v3/download.getFile"
     },
     {
         "add": "104.16.67.38",
