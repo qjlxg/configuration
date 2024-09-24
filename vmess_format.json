@@ -70,6 +70,19 @@
         "tls": ""
     },
     {
+        "v": "2",
+        "ps": "\ud83c\uddef\ud83c\uddf5 13,14|\u65e5\u672c|@ripaojiedian",
+        "add": "cfcdn3.sanfencdn9.com",
+        "port": "80",
+        "type": "none",
+        "id": "20c2af39-b0ef-498e-ac2f-6d8861e8b798",
+        "aid": "0",
+        "net": "ws",
+        "path": "/video/qTjvEqix",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
         "add": "104.21.71.88",
         "aid": "0",
         "alpn": "",
