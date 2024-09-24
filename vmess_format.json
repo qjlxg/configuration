@@ -83,23 +83,6 @@
         "tls": ""
     },
     {
-        "add": "104.21.71.88",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
-        "net": "ws",
-        "path": "/us2ekjds3nay",
-        "port": "80",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.71.88:80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\u672a\u77e582 21.8MB/s",
         "add": "104.21.71.88",
@@ -341,6 +324,21 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 5"
     },
     {
+        "add": "mvrde.makhluk.my.id",
+        "aid": "0",
+        "host": "91.341.94.160",
+        "id": "7710bfe1-59a7-4dff-873f-682e64b7dc43",
+        "net": "ws",
+        "path": "/vmess",
+        "port": "80",
+        "ps": "DuniaVPN",
+        "scy": "none",
+        "sni": "mvrde.makhluk.my.id",
+        "tls": "none",
+        "type": "none",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\u5173\u6ce8\u7535\u62a5https://t.me/aifenxiang2020",
         "add": "104.16.164.228",
@@ -370,21 +368,6 @@
         "sni": "",
         "tls": "",
         "type": "",
-        "v": "2"
-    },
-    {
-        "add": "mvrde.makhluk.my.id",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "7710bfe1-59a7-4dff-873f-682e64b7dc43",
-        "net": "ws",
-        "path": "/vmess",
-        "port": "80",
-        "ps": "DuniaVPN",
-        "scy": "none",
-        "sni": "mvrde.makhluk.my.id",
-        "tls": "none",
-        "type": "none",
         "v": "2"
     },
     {
