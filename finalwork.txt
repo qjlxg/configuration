@@ -16208,3 +16208,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.111.135.19:80??allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&sni=None&type=ws&host=91.241.94.160&path=Telegram🇨🇳fp=chrome#15|US_speednode_0396
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=Twitterfreecodesfp=chromefp=chrome#15|US_speednode_0412
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80??allowInsecure=0&type=ws&host=91.241.94.160&path=Telegram🇨🇳#15|US_speednode_0401
+vless://7b2d73fc-85e3-4ba4-8fed-0ede17bc4b70@104.17.147.22:80??security=none&type=ws&host=91.241.94.160&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.91:80??security=none&type=ws&host=91.241.94.160&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.91:80
