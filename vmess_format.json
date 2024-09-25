@@ -1,5 +1,37 @@
 [
     {
+        "v": "2",
+        "ps": "\u672a\u77e541",
+        "add": "104.26.15.148",
+        "port": "80",
+        "id": "2f188c61-6622-4056-810e-a1a5f1c9b023",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "tls": "",
+        "sni": "",
+        "test_name": "41"
+    },
+    {
+        "v": "2",
+        "ps": "US49",
+        "add": "blang.kcapsys.com",
+        "port": "80",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "US49"
+    },
+    {
         "add": "173.245.58.41",
         "aid": "0",
         "alpn": "",
