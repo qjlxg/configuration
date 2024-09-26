@@ -16385,3 +16385,4 @@ vless://a5ff380f-a4a5-48fa-a652-350efdf09e2a@iranserver.com:80??security=none&sn
 vless://fb81fa44-40d8-441a-c9ab-04b10fe3a1c4@185.143.233.5:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://6e956789-6ba5-4ecc-90bf-aac3e403cd32@185.143.233.120:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:80
 vless://6e956789-6ba5-4ecc-90bf-aac3e403cd32@185.143.234.120:80??security=none&type=ws&path=%2F&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:80
+vless://f60d5571-dad5-496e-9344-68161c14981d@www.speedtest.net:80??path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
