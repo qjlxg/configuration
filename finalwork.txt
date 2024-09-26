@@ -16293,3 +16293,52 @@ vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&typ
 vless://24cd7f26-280d-4127-a31e-3cf7deef971f@iranserver.com:80??security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=91.241.94.160&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://196d4760-ddce-47f7-acc2-e6b50f174c34@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://196d4760-ddce-47f7-acc2-e6b50f174c34@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chrome#15|AE_speednode_0002
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.140.0.0:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chromefp=chrome#15|AE_speednode_0005
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chrome#15|EE_speednode_0049
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodes#15|EE_speednode_0050
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodes#15|EE_speednode_0051
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chrome#15|EE_speednode_0052
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodes#15|EE_speednode_0053
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chromefp=chrome#15|EE_speednode_0085
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodes#15|EE_speednode_0055
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chromefp=chrome#15|EE_speednode_0083
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodes#15|EE_speednode_0057
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chrome#15|EE_speednode_0058
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.209:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chrome#15|EE_speednode_0092
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodes#15|EE_speednode_0078
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chromefp=chromefp=chrome#15|EE_speednode_0062
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.239.208.86:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|HK_speednode_0165
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.129.171.137:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|HK_speednode_0166
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.57.13.107:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|HK_speednode_0167
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.212.41.98:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|HK_speednode_0173
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.57.14.118:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|HK_speednode_0196
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.215.73.25:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|ID_speednode_0223
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@35.200.202.118:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|IN_speednode_0224
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@54.150.47.240:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|JP_speednode_0225
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.65.22:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|JP_speednode_0226
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@20.48.5.180:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|JP_speednode_0232
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@155.248.178.58:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai2 /?ed=2048fp=chrome&security=tls#15|JP_speednode_0240
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.70.103.218:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai2 /?ed=2048fp=chrome&security=tls#15|JP_speednode_0241
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@155.248.178.58:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳+@WangCai2+/?ed=2048security=tls#15|JP_speednode_0247
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@158.101.84.222:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai2 /?ed=2048fp=chrome&security=tls#15|JP_speednode_0251
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.220.204.128:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|KR_speednode_0265
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.223.113.114:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|SG_speednode_0362
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.223.72.252:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|SG_speednode_0363
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@52.163.67.59:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|SG_speednode_0364
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.236.162.30:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|SG_speednode_0365
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.92.72:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|SG_speednode_0366
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.237.126.88:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|SG_speednode_0367
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.213.145.176:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|SG_speednode_0370
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.111.135.19:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|US_speednode_0373
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.117.254.68:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|US_speednode_0374
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@35.244.133.3:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|US_speednode_0375
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.19.133:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|US_speednode_0376
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Telegram🇨🇳 @WangCai_8 /?ed=2048fp=chrome#15|US_speednode_0377
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.149.239.234:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/Telegram🇨🇳+@WangCai2+/?ed=2048#15|US_speednode_0409
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.149.239.198:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/Telegram🇨🇳+@WangCai2+/?ed=2048#15|US_speednode_0414
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.149.239.145:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/Telegram🇨🇳+@WangCai2+/?ed=2048#15|US_speednode_0415
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.111.135.19:80??allowInsecure=0&sni=None&type=ws&host=91.241.94.160&path=/Telegram🇨🇳fp=chrome#15|US_speednode_0436
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&sni=None&type=ws&host=91.241.94.160&path=/Telegram🇨🇳fp=chrome#15|US_speednode_0438
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chromefp=chrome#15|US_speednode_0468
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80??allowInsecure=0&type=ws&host=91.241.94.160&path=/Telegram🇨🇳#15|US_speednode_0439
