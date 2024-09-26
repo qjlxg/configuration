@@ -94,32 +94,6 @@
     },
     {
         "v": "2",
-        "ps": "\ud83c\uddea\ud83c\uddfa \u6b27\u6d32(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
-        "add": "mx1.v2rayserv.com",
-        "port": "80",
-        "type": "none",
-        "id": "f1b438a7-b8f3-4cd7-8aca-d54efdaf64e3",
-        "aid": "0",
-        "net": "ws",
-        "path": "/sshocean",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
-        "add": "cdn.bootloader.cf",
-        "port": "80",
-        "type": "none",
-        "id": "74758f06-f4b9-4ef1-a86c-f0a0cc82109f",
-        "aid": "0",
-        "net": "ws",
-        "path": "/aries",
-        "host": "91.341.94.160",
-        "tls": ""
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
         "add": "104.16.85.20",
         "port": "80",
@@ -128,6 +102,19 @@
         "aid": "0",
         "net": "ws",
         "path": "/sshkit/2136177093/631ed45675ad7/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
+        "add": "lms.uin-antasari.ac.id",
+        "port": "80",
+        "type": "none",
+        "id": "46bfdb59-83c6-4710-877e-c809b5a90dff",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vpnneo",
         "host": "91.341.94.160",
         "tls": ""
     },
