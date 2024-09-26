@@ -67,7 +67,7 @@
     },
     {
         "v": "2",
-        "ps": "13,14|\u65e5\u672c|@ripaojiedian",
+        "ps": "14|\u7f8e\u56fd4|@ripaojiedian",
         "add": "cfcdn3.sanfencdn9.com",
         "port": "80",
         "aid": 0,
@@ -75,25 +75,10 @@
         "net": "ws",
         "type": "none",
         "tls": "",
-        "id": "20c2af39-b0ef-498e-ac2f-6d8861e8b798",
+        "id": "592d0884-c322-43a0-abbd-f3e421e420f5",
         "sni": "",
         "host": "91.341.94.160",
-        "path": "/video/qTjvEqix"
-    },
-    {
-        "v": "2",
-        "ps": "13,14|\u65e5\u672c2|@ripaojiedian",
-        "add": "45.78.59.6",
-        "port": "80",
-        "aid": 0,
-        "scy": "auto",
-        "net": "ws",
-        "type": "none",
-        "tls": "",
-        "id": "41d1b1e2-51e8-4510-8dcf-2b4721d352ea",
-        "sni": "",
-        "host": "91.341.94.160",
-        "path": "/mttsax"
+        "path": "/video/RPKZwKFW"
     },
     {
         "v": "2",
@@ -172,6 +157,23 @@
         "path": "/mttsax",
         "host": "91.341.94.160",
         "tls": ""
+    },
+    {
+        "add": "104.21.71.88",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
+        "net": "ws",
+        "path": "/us2ekjds3nay",
+        "port": "80",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.21.71.88:80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
     },
     {
         "v": "2",
