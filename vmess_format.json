@@ -531,19 +531,6 @@
         "ps": "\ud83d\udea9CF | \ud83d\udfe2 | vmess | @v2Line | 5"
     },
     {
-        "v": "2",
-        "ps": "duniavpn",
-        "add": "kaoh69.onelimited.my.id",
-        "port": "80",
-        "id": "1667b482-66de-4f80-a949-6561b5093046",
-        "aid": "0",
-        "net": "ws",
-        "path": "/vmessws",
-        "type": "none",
-        "host": "91.341.94.160",
-        "tls": "none"
-    },
-    {
         "add": "104.22.58.63",
         "aid": "0",
         "alpn": "",
@@ -559,6 +546,19 @@
         "tls": "",
         "type": "",
         "v": "2"
+    },
+    {
+        "v": "2",
+        "ps": "duniavpn",
+        "add": "kaoh69.onelimited.my.id",
+        "port": "80",
+        "id": "1667b482-66de-4f80-a949-6561b5093046",
+        "aid": "0",
+        "net": "ws",
+        "path": "/vmessws",
+        "type": "none",
+        "host": "91.341.94.160",
+        "tls": "none"
     },
     {
         "v": "2",
