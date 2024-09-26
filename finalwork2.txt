@@ -16418,3 +16418,4 @@ vless://a25b15fa-18d9-41e6-b226-33a9fa2dc719@www.speedtest.net:80??path=%2F%40Sh
 vless://9498a976-9dc2-441b-bab3-610a694b175d@104.17.147.22:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
 vless://2d94bc17-5b0a-4159-9b26-a20e2a24d0ef@37.32.31.3:80??security=none&type=ws&path=%2FDrPing&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-37.32.31.3:80
 vless://2d94bc17-5b0a-4159-9b26-a20e2a24d0ef@revtls.drpingservice.net:80??path=%2FDrPing&security=none&encryption=none&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://c6349b80-e9ea-4a43-f90f-d7f4711ddc85@185.143.233.5:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#[🇮🇷]t.me/ConfigsHub
