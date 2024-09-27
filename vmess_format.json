@@ -501,23 +501,6 @@
         "tls": "none"
     },
     {
-        "add": "104.22.58.63",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "fd200446-f7f8-4549-b4d8-4a23baea04bf",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83d\udce128@oneclickvpnkeys",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "v": "2",
         "ps": "\u5173\u6ce8\u7535\u62a5https://t.me/aifenxiang2020",
         "add": "104.16.164.228",
