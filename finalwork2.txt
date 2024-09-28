@@ -16569,3 +16569,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.6:80??security=none&typ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.124:80??security=none&type=ws&host=91.241.94.160&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3FED#🔒 VL-WS-NONE 🇺🇸 US-199.232.5.124:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.129:80??security=none&type=ws&host=91.241.94.160&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3FED#🔒 VL-WS-NONE 🇺🇸 US-104.156.85.129:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.61:80??security=none&type=ws&host=91.241.94.160&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3FED#🔒 VL-WS-NONE 🇺🇸 US-140.248.152.61:80
+vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
