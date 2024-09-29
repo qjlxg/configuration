@@ -429,12 +429,6 @@ vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&typ
 vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://196d4760-ddce-47f7-acc2-e6b50f174c34@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
@@ -519,6 +513,15 @@ vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&typ
 vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80??path=%2Firan.ir%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80??path=%2FTelegram%40v2ray_alpha%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#%40V2rayNG3
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80??path=%2Fhttp&security=none&encryption=none&type=ws&host=91.241.94.160#%40V2rayNG3
