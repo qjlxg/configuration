@@ -16679,3 +16679,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@204.110.220.254:80??path=%2F%3Fprox
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@204.110.220.120:80??path=%2Fblue&security=tls&encryption=none&type=ws&sni=kw.ylks.xyz&host=91.241.94.160#%F0%9F%87%BA%F0%9F%87%B8%7CUS%7C%E7%BE%8E%E5%9B%BD%7C%40wxgqlfx%7C267
 vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.37.52:80??security=none&type=ws&sni=us3.rtacg.com&path=/&encryption=none&headerType=none&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
