@@ -663,13 +663,27 @@ def filter_lines(input_file, keywords):
     """
     filtered_lines = []
     
-    with open(input_file, 'w') as infile:
+    with open(input_file, 'r+',encoding='utf-8', errors='ignore') as infile:
         for line in infile:
             # Check if any of the keywords are present in the line
             if any(keyword in line for keyword in keywords):
                 filtered_lines.append(line.strip())  # Append matching lines (stripping newlines)
     
     return filtered_lines
+
+def append_to_file(output_file, lines):
+    """
+    Appends the filtered lines to the output file in array form.
+
+    :param output_file: Path to the output text file.
+    :param lines: List of filtered lines.
+    """
+    with open(output_file, 'w', encoding='utf-8') as outfile:
+        for line in lines:
+            outfile.write(f'{line}\n')
+
+
+
 # Main function to process links and write output files
 def main():
     output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
@@ -960,11 +974,6 @@ def main():
 
 
 
-
-
-
-
-    # Example usage
     input_file_path = '../finalwork2.txt'  # Replace with the path to your input file
     output_file_path = '../lastwork.txt'  # Replace with the path to your output file
     keywords_to_search = ['VL-WS-NONE', 'vvkj11', 'speednode','configs_pool']  # Replace with words/texts you're filtering for
