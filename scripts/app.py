@@ -653,6 +653,23 @@ def overwrite_file(source_file, destination_file):
     except IOError as e:
         print(f"Error reading file {source_file}: {e}")
 
+def filter_lines(input_file, keywords):
+    """
+    Filters lines from the input file that contain any of the specified keywords and stores them in a list.
+
+    :param input_file: Path to the input text file.
+    :param keywords: List of keywords to search for in each line.
+    :return: List of lines that contain any of the specified keywords.
+    """
+    filtered_lines = []
+    
+    with open(input_file, 'w') as infile:
+        for line in infile:
+            # Check if any of the keywords are present in the line
+            if any(keyword in line for keyword in keywords):
+                filtered_lines.append(line.strip())  # Append matching lines (stripping newlines)
+    
+    return filtered_lines
 # Main function to process links and write output files
 def main():
     output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
@@ -939,6 +956,27 @@ def main():
     destination_file = '../finalwork.txt'  # Path to the file to overwrite
 
     overwrite_file(source_file, destination_file)
+
+
+
+
+
+
+
+
+    # Example usage
+    input_file_path = '../finalwork2.txt'  # Replace with the path to your input file
+    output_file_path = '../lastwork.txt'  # Replace with the path to your output file
+    keywords_to_search = ['VL-WS-NONE', 'vvkj11', 'speednode','configs_pool']  # Replace with words/texts you're filtering for
+
+    # Get the filtered lines in an array
+    filtered_lines = filter_lines(input_file_path, keywords_to_search)
+
+    # Check single or multiple filtered lines (you can print them or perform further checks)
+    print(f"Filtered lines: {filtered_lines}")
+
+    # Append the filtered lines to the output file
+    append_to_file(output_file_path, filtered_lines)
 
 
 if __name__ == "__main__":
