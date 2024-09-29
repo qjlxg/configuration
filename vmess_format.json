@@ -1,19 +1,19 @@
 [
     {
         "v": "2",
-        "ps": "US67",
-        "add": "cfcdn3.sanfencdn9.com",
+        "ps": "US55",
+        "add": "blang.kcapsys.com",
         "port": "80",
-        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "none",
+        "type": "",
         "host": "91.341.94.160",
-        "path": "/video/ibCT6z55",
+        "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US67"
+        "test_name": "US55"
     },
     {
         "add": "104.26.15.148",
@@ -201,19 +201,19 @@
     },
     {
         "v": "2",
-        "ps": "US67",
-        "add": "cfcdn3.sanfencdn9.com",
+        "ps": "US55",
+        "add": "blang.kcapsys.com",
         "port": "80",
-        "id": "7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
         "aid": "0",
         "scy": "auto",
         "net": "ws",
-        "type": "none",
+        "type": "",
         "host": "91.341.94.160",
-        "path": "/video/ibCT6z55",
+        "path": "/",
         "tls": "",
         "sni": "",
-        "test_name": "US67"
+        "test_name": "US55"
     },
     {
         "v": "2",
