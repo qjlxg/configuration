@@ -16787,3 +16787,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chromefp=chrome#15|US_speednode_0289
 vless://7dd073be-9f15-4810-9670-26f518ad42db@193.151.158.16:80??security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-193.151.158.16:80
 vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@104.21.63.51:80??security=none&sni=de.ailicf.us.kg&type=ws&path=/safaf&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.51:80
+vless://887d5e93-883d-5bdc-86b4-3aaaf47aa0fa@www.speedtest.net:80??path=%2FELENaTheGreatDictator-----@ELiV2ry----@ELiV2ry----@ELiV2ry----@ELiV2ry----@ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#🇨🇿ELiV2ray
+vless://887d5e93-883d-5bdc-86b4-3aaaf47aa0fa@188.114.96.216:80??path=%2FELENaTheGreatDictator-----@ELiV2ry----@ELiV2ry----@ELiV2ry----@ELiV2ry----@ELiV2ry%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#S1🇨🇿ELiV2ray
