@@ -8850,3 +8850,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.160.118.77:80??allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.159.216.99:80??allowInsecure=0&sni=a.ssll.gay&type=ws&host=91.241.94.160&path=/Twitterfreecodesfp=chromefp=chrome#15|US_speednode_0289
 vless://7dd073be-9f15-4810-9670-26f518ad42db@193.151.158.16:80??security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560&host=91.241.94.160#🔒 VL-WS-NONE 🇮🇷 IR-193.151.158.16:80
 vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@104.21.63.51:80??security=none&sni=de.ailicf.us.kg&type=ws&path=/safaf&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.51:80
+vless://04bef300-74b8-5311-b875-a5df3d121a7a@45.149.12.115:80??security=none&sni=www.iranserever.com.kомната0.房間.wonkacapitano.buzz.&type=ws&path=/vless&host=91.241.94.160#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.115:80
