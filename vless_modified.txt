@@ -362,14 +362,6 @@ vless://9498a976-9dc2-441b-bab3-610a694b175d@www.speedtest.net:80??path=/telegra
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/#🇺🇸US | 🔴 | vless | @iP_CF | 7
 vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@speedtest.org:80??encryption=none&security=none&type=ws&host=91.241.94.160&path=/#🇺🇸US | 🔴 | vless | @iP_CF | 8
 vless://45962ff2-ba4b-4dfc-b77a-67d561b0d183@www.speedtest.net:80??path=/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560&security=none&encryption=none&host=91.241.94.160&type=ws#🇺🇸US | 🔴 | vless | @nofiltering2 | 7
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://7d418f08-0d3b-4d0c-9d59-da2c924edea0@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
@@ -464,6 +456,16 @@ vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&typ
 vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
 vless://2acbceba-ee72-434b-b140-786e42cba836@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
