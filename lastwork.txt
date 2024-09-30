@@ -8824,3 +8824,6 @@ vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@151.101.130.219:80??security=none&t
 vless://1cb0a8b8-691b-4da5-a550-dee4c8b420d9@172.67.193.36:80??security=none&sni=join-to.unlimiteddev.community&type=ws&host=91.241.94.160&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:80
 vless://1cb0a8b8-691b-4da5-a550-dee4c8b420d9@104.21.20.148:80??security=none&sni=join-to.unlimiteddev.community&type=ws&host=91.241.94.160&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80
 vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2acbceba-ee72-434b-b140-786e42cba836@151.101.66.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://2acbceba-ee72-434b-b140-786e42cba836@151.101.130.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://9ae4c6ee-3cdf-5b64-a797-4dc2ae59fffb@188.114.96.216:80??security=none&type=ws&host=91.241.94.160&path=%2FELENaTheGreatDictator-----@ELiV2ry----@ELiV2ry----@ELiV2ry----@ELiV2ry----@ELiV2ry%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.216:80
