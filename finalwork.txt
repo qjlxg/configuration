@@ -16931,3 +16931,7 @@ vless://1757f863-8209-4201-811d-69adfda9a9ed@151.101.130.219:80??security=none&t
 vless://6511e6ad-0383-48cd-a5b8-00e4a4c82655@104.21.63.51:80??security=none&type=ws&host=91.241.94.160&path=%2F6511e#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.51:80
 vless://1757f863-8209-4201-811d-69adfda9a9ed@151.101.194.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://1757f863-8209-4201-811d-69adfda9a9ed@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://86ecd99b-e282-45ab-87bf-4d77e5e8e455@151.101.194.219:80??security=none&sni=speedtest.net&type=ws&host=91.241.94.160&path=%2Fvless&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://9ae4c6ee-3cdf-5b64-a797-4dc2ae59fffb@188.114.96.216:80??security=none&type=ws&host=91.241.94.160&path=%2FELENaTheGreatDictator-----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry----%40ELiV2ry%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.216:80
+vless://1757f863-8209-4201-811d-69adfda9a9ed@151.101.2.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
+vless://1757f863-8209-4201-811d-69adfda9a9ed@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
