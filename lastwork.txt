@@ -8960,3 +8960,4 @@ vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@151.101.130.219:80??security=none&t
 vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://abd60b84-ca05-4e18-9168-fe0a6fd5f9a1@104.21.20.148:80??security=none&sni=join-to.unlimiteddev.community&type=ws&host=91.241.94.160&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80
 vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@151.101.194.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
+vless://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@151.101.2.219:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
