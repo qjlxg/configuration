@@ -17113,3 +17113,4 @@ vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@151.101.2.228:80??security=none&typ
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
 vless://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
+vless://abd60b84-ca05-4e18-9168-fe0a6fd5f9a1@172.67.193.36:80??security=none&sni=join-to.unlimiteddev.community&type=ws&host=91.241.94.160&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:80
