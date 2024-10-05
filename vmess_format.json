@@ -32,6 +32,23 @@
         "test_name": "US56"
     },
     {
+        "add": "172.67.73.174",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "d0e6f62a-6f1f-457e-a872-40a6ae866adb",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "\ud83c\udfa88@oneclickvpnkeys",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "add": "104.26.15.148",
         "aid": "0",
         "alpn": "",
@@ -170,6 +187,19 @@
         "type": "none",
         "v": "2",
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
+    },
+    {
+        "v": "2",
+        "ps": "\u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "cf.877771.xyz",
+        "port": "80",
+        "type": "none",
+        "id": "ebace182-ad9a-4044-92fd-ad48adf52779",
+        "aid": "0",
+        "net": "ws",
+        "path": "/rongseven?ed=2048",
+        "host": "91.341.94.160",
+        "tls": ""
     },
     {
         "v": "2",
@@ -443,20 +473,6 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "add": "172.67.116.48",
-        "aid": "0",
-        "host": "91.341.94.160",
-        "id": "22a13aa2-4854-44cb-e090-ec71ab84b1ff",
-        "net": "ws",
-        "path": "/",
-        "port": "80",
-        "scy": "auto",
-        "tls": "",
-        "type": "",
-        "v": 2,
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.116.48:80"
     },
     {
         "v": "2",
