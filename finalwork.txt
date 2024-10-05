@@ -17184,3 +17184,6 @@ vless://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80??security=none&enc
 vless://1ddc8d86-96e6-4a88-aa72-215051637bf3@Speedtest.net:80??path=%2F%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#@Vip_Security join us - 433
 vless://fd086800-ffae-4336-a55b-143913e6cec2@104.21.20.148:80??security=none&sni=join-to.unlimiteddev.community&type=ws&host=91.241.94.160&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80
 vless://fd086800-ffae-4336-a55b-143913e6cec2@172.67.193.36:80??security=none&sni=join-to.unlimiteddev.community&type=ws&host=91.241.94.160&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:80
+vless://c3552891-01b2-4ce0-b5ce-6eb8efc87619@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://c3552891-01b2-4ce0-b5ce-6eb8efc87619@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://c3552891-01b2-4ce0-b5ce-6eb8efc87619@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#telegram ☂️ DailyV2ry
