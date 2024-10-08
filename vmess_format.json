@@ -48,23 +48,6 @@
         "test_name": "US58"
     },
     {
-        "add": "172.66.168.173",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "83452b53-dabc-4d13-b2e6-b904ffee8f5b",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "ps": "\ud83d\udd3457@oneclickvpnkeys",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "",
-        "v": "2"
-    },
-    {
         "add": "172.67.73.174",
         "aid": "0",
         "alpn": "",
