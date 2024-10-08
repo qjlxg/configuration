@@ -9149,3 +9149,6 @@ vless://cc11d2fd-24b8-4da4-b12b-59edf56bcd79@151.101.1.140:80??security=none&typ
 vless://cc11d2fd-24b8-4da4-b12b-59edf56bcd79@151.101.65.140:80??security=none&type=ws&host=91.241.94.160&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://1a7a6b22-a062-48b7-9949-6038de8f6414@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://1a7a6b22-a062-48b7-9949-6038de8f6414@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
+vless://1a7a6b22-a062-48b7-9949-6038de8f6414@hajlab.ucdavis.edu:80??security=none&type=ws&headerType=&path=&host=91.241.94.160#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://1a7a6b22-a062-48b7-9949-6038de8f6414@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://1a7a6b22-a062-48b7-9949-6038de8f6414@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
