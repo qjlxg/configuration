@@ -16,6 +16,23 @@
         "test_name": "103"
     },
     {
+        "add": "cdn.anymath.ir",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "e32e7ec1-49d8-48f6-a40f-dc268f33fa12",
+        "net": "ws",
+        "path": "/@CHANGE_IP1",
+        "port": "80",
+        "ps": "Channel id: @ShadowProxy66 \ud83c\udde8\ud83c\udde6",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
         "add": "shopify.com",
