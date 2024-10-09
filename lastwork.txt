@@ -9193,3 +9193,4 @@ vless://37984e7a-ffb6-5ec1-87c8-b0a3b5e1d740@104.26.13.8:80??security=none&type=
 vless://36f8a319-8248-4fdd-bc44-95c0643cd8ad@151.101.38.133:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-151.101.38.133:80
 vless://tel:v2rayvpn_official@Zula.ir:80??path=%2F%3Fed%3D2053&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a62dea94-e327-4666-a4eb-ac6933f63dfc@151.101.2.219:80??path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://36f8a319-8248-4fdd-bc44-95c0643cd8ad@151.101.134.133:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇪🇸 ES-151.101.134.133:80
