@@ -1,7 +1,7 @@
 [
     {
         "v": "2",
-        "ps": "\u672a\u77e553",
+        "ps": "\u672a\u77e526",
         "add": "104.21.71.88",
         "port": "80",
         "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
@@ -13,7 +13,23 @@
         "path": "/us2ekjds3nay",
         "tls": "",
         "sni": "",
-        "test_name": "53"
+        "test_name": "26"
+    },
+    {
+        "v": "2",
+        "ps": "US42",
+        "add": "deji.kcapsys.com",
+        "port": "80",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "US42"
     },
     {
         "add": "104.26.15.148",
@@ -130,6 +146,23 @@
         "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
     },
     {
+        "add": "172.67.73.174",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "d0e6f62a-6f1f-457e-a872-40a6ae866adb",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2",
+        "ps": "\ud83d\udc49\ud83c\udd94 @v2ray_configs_pool\ud83d\udce1\ud83c\udde8\ud83c\udde6Canada"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\uddea\ud83c\uddfa \u6b27\u6d32(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
         "add": "shopify.com",
@@ -195,8 +228,25 @@
         "tls": ""
     },
     {
+        "add": "172.67.73.174",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "d0e6f62a-6f1f-457e-a872-40a6ae866adb",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
         "v": "2",
-        "ps": "\u672a\u77e553",
+        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-172.67.73.174:80"
+    },
+    {
+        "v": "2",
+        "ps": "\u672a\u77e526",
         "add": "104.21.71.88",
         "port": "80",
         "id": "2a8a10fb-9ca3-367e-a234-cf09f841be4f",
@@ -208,7 +258,23 @@
         "path": "/us2ekjds3nay",
         "tls": "",
         "sni": "",
-        "test_name": "53"
+        "test_name": "26"
+    },
+    {
+        "v": "2",
+        "ps": "US42",
+        "add": "deji.kcapsys.com",
+        "port": "80",
+        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
+        "aid": "0",
+        "scy": "auto",
+        "net": "ws",
+        "type": "",
+        "host": "91.341.94.160",
+        "path": "/",
+        "tls": "",
+        "sni": "",
+        "test_name": "US42"
     },
     {
         "v": "2",
