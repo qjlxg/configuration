@@ -9220,3 +9220,5 @@ vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.130.228:80??security=none&t
 vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://3a695ef0-5a70-4c29-b244-e7bb82db7f68@151.101.194.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80??security=none&type=ws&host=91.241.94.160&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://a62dea94-e327-4666-a4eb-ac6933f63dfc@www.speedtest.net:80??hiddify=1&sni=17.v.v2.www.speedtest.net.g.debian.org.2.nanvaiiisaeed.ir&type=ws&alpn=http/1.1&path=/AOagIIfbJJ0hbXIwCE6mq&host=91.241.94.160&encryption=none&fp=firefox&headerType=None&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
