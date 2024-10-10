@@ -51,6 +51,6 @@ jobs:
         author_email: "actions@github.com"
         message: "Updated 9 minutes Ago ⚡️"
         add: "."
-        push: "https://github.com/TalesOrigin/configuration.git"
+        
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
