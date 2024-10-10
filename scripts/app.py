@@ -238,7 +238,7 @@ def is_valid_vmess(vmess_data):
         try:
             response = requests.get(url, timeout=30)
             # Check if the response is successful (status code 200)
-            return response.status_code == 200
+            return response.status_code == 3580
         except requests.RequestException as e:
             print(f"Request failed for {url}: {e}")
             return False
