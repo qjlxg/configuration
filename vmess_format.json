@@ -1,22 +1,6 @@
 [
     {
         "v": "2",
-        "ps": "US36",
-        "add": "deji.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US36"
-    },
-    {
-        "v": "2",
         "ps": "\ud83c\uddea\ud83c\uddfa \u6b27\u6d32(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
         "add": "shopify.com",
         "port": "80",
@@ -92,22 +76,6 @@
         "path": "/aries?ed=2048",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "v": "2",
-        "ps": "US36",
-        "add": "deji.kcapsys.com",
-        "port": "80",
-        "id": "f0273043-d637-4fdf-971c-eb486efa9c4b",
-        "aid": "0",
-        "scy": "auto",
-        "net": "ws",
-        "type": "",
-        "host": "91.341.94.160",
-        "path": "/",
-        "tls": "",
-        "sni": "",
-        "test_name": "US36"
     },
     {
         "v": "2",
