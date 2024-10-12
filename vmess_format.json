@@ -17,6 +17,23 @@
         "v": "2"
     },
     {
+        "add": "172.66.168.173",
+        "aid": "0",
+        "alpn": "",
+        "fp": "",
+        "host": "91.341.94.160",
+        "id": "83452b53-dabc-4d13-b2e6-b904ffee8f5b",
+        "net": "ws",
+        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
+        "port": "80",
+        "ps": "\u2699\ufe0f5@oneclickvpnkeys",
+        "scy": "auto",
+        "sni": "",
+        "tls": "",
+        "type": "",
+        "v": "2"
+    },
+    {
         "v": "2",
         "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd(\u6cb9\u7ba1:\u7834\u89e3\u8d44\u6e90\u541b2.0)",
         "add": "104.16.85.20",
@@ -106,23 +123,6 @@
         "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
         "host": "91.341.94.160",
         "tls": ""
-    },
-    {
-        "add": "104.26.15.148",
-        "aid": "0",
-        "alpn": "",
-        "fp": "",
-        "host": "91.341.94.160",
-        "id": "947cb385-54b4-4453-ac92-63c95ef32a6a",
-        "net": "ws",
-        "path": "/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-        "port": "80",
-        "scy": "auto",
-        "sni": "",
-        "tls": "",
-        "type": "none",
-        "v": "2",
-        "ps": "\ud83d\udd12 VM-WS-NA \ud83c\udff4\u200d\u2620\ufe0f NA-104.26.15.148:80"
     },
     {
         "v": "2",
