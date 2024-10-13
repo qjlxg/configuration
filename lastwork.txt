@@ -9310,3 +9310,5 @@ vless://4a9e4e0d-461d-42b0-8105-623220ab7582@151.101.194.228:80??security=none&t
 vless://4a9e4e0d-461d-42b0-8105-623220ab7582@151.101.66.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
 vless://4a9e4e0d-461d-42b0-8105-623220ab7582@151.101.2.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://f6c86505-cd45-5204-a214-f2e85d06b8e4@198.41.209.140:80??security=none&sni=cd1e4.olielielie.store.&type=ws&path=/vless&host=91.241.94.160#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.140:80
+vless://f6c86505-cd45-5204-a214-f2e85d06b8e4@185.109.21.201:80??security=none&sni=cd1e4.olielielie.store.&type=ws&path=/vless&host=91.241.94.160#🔒 VL-WS-NONE 🇷🇺 RU-185.109.21.201:80
+vless://4a9e4e0d-461d-42b0-8105-623220ab7582@151.101.130.228:80??security=none&type=ws&host=91.241.94.160#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
