@@ -9402,3 +9402,5 @@ vless://5951f0b3-ee56-4776-a2ab-27edaf865183@151.101.2.228:80??path=%2F&security
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.10:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.10:80??path=%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@151.101.130.228:80??path=%2F&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5951f0b3-ee56-4776-a2ab-27edaf865183@151.101.194.228:80??security=none&type=ws&host=91.241.94.160&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.228:80
+vless://TELEGRAM-NUFiLTER@FreakConfig.fastly80.hosting-ip.com:80??path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
