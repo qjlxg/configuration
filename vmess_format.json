@@ -96,6 +96,19 @@
     },
     {
         "v": "2",
+        "ps": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
+        "add": "cf.877771.xyz",
+        "port": "80",
+        "type": "auto",
+        "id": "ebace182-ad9a-4044-92fd-ad48adf52779",
+        "aid": "0",
+        "net": "ws",
+        "path": "/",
+        "host": "91.341.94.160",
+        "tls": ""
+    },
+    {
+        "v": "2",
         "ps": "\u672a\u77e530",
         "add": "104.17.148.22",
         "port": "80",
