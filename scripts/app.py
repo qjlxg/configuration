@@ -2075,7 +2075,7 @@ def main():
     result_queue = queue.Queue()
 
     # Define the number of threads
-    num_threads = 500
+    num_threads = 9500
 
     # Split the list into chunks for each thread
     chunk_size = max(1, len(vmess_list) // num_threads)
