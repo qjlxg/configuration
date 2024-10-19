@@ -9615,3 +9615,5 @@ vless://33801386-eca4-4b0a-b053-6efa460bcd8e@151.101.2.216:80??security=none&typ
 vless://c64fc8ac-e5e1-4f53-93b9-3d71671d6519@151.101.3.8:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://33801386-eca4-4b0a-b053-6efa460bcd8e@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@www.animo-shop.com:80??path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=91.241.94.160&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://29564140-2270-4cfc-a5c5-0cfca7dcbf5d@151.101.2.165:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.165:80
+vless://29564140-2270-4cfc-a5c5-0cfca7dcbf5d@151.101.2.216:80??security=none&type=ws&host=91.241.94.160&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
